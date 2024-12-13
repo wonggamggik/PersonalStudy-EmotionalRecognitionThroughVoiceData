@@ -1,0 +1,1924 @@
+{
+    "Wav": {
+        "EncodingLaw": "SignedIntegerPCM",
+        "NumberOfBit": "16",
+        "SamplingRate": "48000",
+        "NumberOfChannel": "2"
+    },
+    "File": {
+        "FileName": "2_0002G2A3_0003G2A5_T1_2D06T0223C000208_000306",
+        "FileLength": "738.30",
+        "EndOfSpeech": "735.27",
+        "SpeechLength": "732.30",
+        "BeginOfSpeech": "2.97"
+    },
+    "Noise": {
+        "Speaker1SNR": "+23dB",
+        "Speaker2SNR": "+41dB",
+        "Speaker1NoiseType": "가정 및 사무실",
+        "Speaker2NoiseType": "가정 및 사무실",
+        "Speaker1NoiseCategory": "실내",
+        "Speaker2NoiseCategory": "실내"
+    },
+    "Speaker1": {
+        "ID": "0002",
+        "Age": "30대",
+        "Mask": "미착용",
+        "Gender": "여성",
+        "Condition": "정상",
+        "RecDevice": "스마트폰",
+        "Residence": "대전/세종/충청/강원",
+        "Occupation": "전문직",
+        "AgeCategory": "성인"
+    },
+    "Speaker2": {
+        "ID": "0003",
+        "Age": "50대",
+        "Mask": "미착용",
+        "Gender": "여성",
+        "Condition": "정상",
+        "RecDevice": "스마트폰",
+        "Residence": "대전/세종/충청/강원",
+        "Occupation": "전문직",
+        "AgeCategory": "성인"
+    },
+    "Conversation": [
+        {
+            "Text": "다음 문제",
+            "SpeakerNo": "Speaker1",
+            "StartTime": "2.97",
+            "EndTime": "3.39",
+            "SpeakerEmotionCategory": "긍정",
+            "SpeakerEmotionTarget": "기쁨",
+            "SpeakerEmotionLevel": "보통"
+        },
+        {
+            "Text": "안녕하세요 잘 지내셨나요",
+            "SpeakerNo": "Speaker1",
+            "StartTime": "4.52",
+            "EndTime": "6.81",
+            "SpeakerEmotionCategory": "긍정",
+            "SpeakerEmotionTarget": "기쁨",
+            "SpeakerEmotionLevel": "보통"
+        },
+        {
+            "Text": "네 잘 지내고 있습니다 따라가라",
+            "SpeakerNo": "Speaker2",
+            "StartTime": "7.31",
+            "EndTime": "9.75",
+            "SpeakerEmotionCategory": "긍정",
+            "SpeakerEmotionTarget": "기쁨",
+            "SpeakerEmotionLevel": "보통"
+        },
+        {
+            "Text": "이렇게 더운데 어떻게 지내세요",
+            "SpeakerNo": "Speaker1",
+            "StartTime": "10.69",
+            "EndTime": "13.96",
+            "SpeakerEmotionCategory": "긍정",
+            "SpeakerEmotionTarget": "기쁨",
+            "SpeakerEmotionLevel": "보통"
+        },
+        {
+            "Text": "시원한 음료수도 마시구요",
+            "SpeakerNo": "Speaker2",
+            "StartTime": "16.37",
+            "EndTime": "18.76",
+            "SpeakerEmotionCategory": "긍정",
+            "SpeakerEmotionTarget": "기쁨",
+            "SpeakerEmotionLevel": "보통"
+        },
+        {
+            "Text": "시원하게 여러분",
+            "SpeakerNo": "Speaker2",
+            "StartTime": "19.47",
+            "EndTime": "20.48",
+            "SpeakerEmotionCategory": "긍정",
+            "SpeakerEmotionTarget": "기쁨",
+            "SpeakerEmotionLevel": "보통"
+        },
+        {
+            "Text": "에어컨 틀어놓고 잘 지내고 있어요",
+            "SpeakerNo": "Speaker2",
+            "StartTime": "23.22",
+            "EndTime": "25.98",
+            "SpeakerEmotionCategory": "긍정",
+            "SpeakerEmotionTarget": "기쁨",
+            "SpeakerEmotionLevel": "보통"
+        },
+        {
+            "Text": "아 그러세요 저도 너무 더워서 시원한 음료를 입에 달고 살아요",
+            "SpeakerNo": "Speaker1",
+            "StartTime": "27.24",
+            "EndTime": "33.43",
+            "SpeakerEmotionCategory": "긍정",
+            "SpeakerEmotionTarget": "기쁨",
+            "SpeakerEmotionLevel": "보통"
+        },
+        {
+            "Text": "보통 어떤 음료를 드세여",
+            "SpeakerNo": "Speaker2",
+            "StartTime": "35.81",
+            "EndTime": "37.55",
+            "SpeakerEmotionCategory": "긍정",
+            "SpeakerEmotionTarget": "기쁨",
+            "SpeakerEmotionLevel": "보통"
+        },
+        {
+            "Text": "이런 얘기를 해요",
+            "SpeakerNo": "Speaker1",
+            "StartTime": "36.51",
+            "EndTime": "36.77",
+            "SpeakerEmotionCategory": "긍정",
+            "SpeakerEmotionTarget": "기쁨",
+            "SpeakerEmotionLevel": "보통"
+        },
+        {
+            "Text": "저는 아이스 아메리카노를 좋아해요",
+            "SpeakerNo": "Speaker1",
+            "StartTime": "38.64",
+            "EndTime": "41.74",
+            "SpeakerEmotionCategory": "긍정",
+            "SpeakerEmotionTarget": "기쁨",
+            "SpeakerEmotionLevel": "보통"
+        },
+        {
+            "Text": "아 그러시구나 저는 시원하게 홍차를 끓여서 마",
+            "SpeakerNo": "Speaker2",
+            "StartTime": "43.83",
+            "EndTime": "48.23",
+            "SpeakerEmotionCategory": "긍정",
+            "SpeakerEmotionTarget": "기쁨",
+            "SpeakerEmotionLevel": "보통"
+        },
+        {
+            "Text": "홍차를 마시고 있구요",
+            "SpeakerNo": "Speaker2",
+            "StartTime": "48.71",
+            "EndTime": "50.58",
+            "SpeakerEmotionCategory": "긍정",
+            "SpeakerEmotionTarget": "기쁨",
+            "SpeakerEmotionLevel": "보통"
+        },
+        {
+            "Text": "수정과 도로 얼렸다가 알아 마시고 있어요",
+            "SpeakerNo": "Speaker2",
+            "StartTime": "50.85",
+            "EndTime": "54.29",
+            "SpeakerEmotionCategory": "긍정",
+            "SpeakerEmotionTarget": "기쁨",
+            "SpeakerEmotionLevel": "보통"
+        },
+        {
+            "Text": "다 좋은 것만 드시네요",
+            "SpeakerNo": "Speaker1",
+            "StartTime": "55.37",
+            "EndTime": "57.24",
+            "SpeakerEmotionCategory": "긍정",
+            "SpeakerEmotionTarget": "기쁨",
+            "SpeakerEmotionLevel": "보통"
+        },
+        {
+            "Text": "아무래도 밤에 잠을 설치게 되더라구요",
+            "SpeakerNo": "Speaker2",
+            "StartTime": "59.59",
+            "EndTime": "63.13",
+            "SpeakerEmotionCategory": "긍정",
+            "SpeakerEmotionTarget": "기쁨",
+            "SpeakerEmotionLevel": "보통"
+        },
+        {
+            "Text": "커피를 많이 마시면 그래서 되도록이면은 커피는 안 마실려고 노력을 해요",
+            "SpeakerNo": "Speaker2",
+            "StartTime": "63.53",
+            "EndTime": "68.68",
+            "SpeakerEmotionCategory": "긍정",
+            "SpeakerEmotionTarget": "기쁨",
+            "SpeakerEmotionLevel": "보통"
+        },
+        {
+            "Text": "아 그러셨구나 봉날에는 삼계탕은 좀 드셨나요",
+            "SpeakerNo": "Speaker1",
+            "StartTime": "69.70",
+            "EndTime": "74.31",
+            "SpeakerEmotionCategory": "긍정",
+            "SpeakerEmotionTarget": "기쁨",
+            "SpeakerEmotionLevel": "보통"
+        },
+        {
+            "Text": "아 그럼요",
+            "SpeakerNo": "Speaker2",
+            "StartTime": "75.40",
+            "EndTime": "77.29",
+            "SpeakerEmotionCategory": "긍정",
+            "SpeakerEmotionTarget": "기쁨",
+            "SpeakerEmotionLevel": "보통"
+        },
+        {
+            "Text": "소복 중복",
+            "SpeakerNo": "Speaker2",
+            "StartTime": "79.05",
+            "EndTime": "80.39",
+            "SpeakerEmotionCategory": "긍정",
+            "SpeakerEmotionTarget": "기쁨",
+            "SpeakerEmotionLevel": "보통"
+        },
+        {
+            "Text": "삼계탕이 빠진 결",
+            "SpeakerNo": "Speaker2",
+            "StartTime": "81.13",
+            "EndTime": "83.00",
+            "SpeakerEmotionCategory": "긍정",
+            "SpeakerEmotionTarget": "기쁨",
+            "SpeakerEmotionLevel": "보통"
+        },
+        {
+            "Text": "안 되잖아요",
+            "SpeakerNo": "Speaker2",
+            "StartTime": "83.74",
+            "EndTime": "84.70",
+            "SpeakerEmotionCategory": "긍정",
+            "SpeakerEmotionTarget": "기쁨",
+            "SpeakerEmotionLevel": "보통"
+        },
+        {
+            "Text": "그래서 저도 남들처럼 삼계탕을 해서 먹었어요",
+            "SpeakerNo": "Speaker2",
+            "StartTime": "85.00",
+            "EndTime": "89.38",
+            "SpeakerEmotionCategory": "긍정",
+            "SpeakerEmotionTarget": "기쁨",
+            "SpeakerEmotionLevel": "보통"
+        },
+        {
+            "Text": "아 삼계탕에 주로 어떤 재료를 넣으시나요",
+            "SpeakerNo": "Speaker1",
+            "StartTime": "90.39",
+            "EndTime": "94.25",
+            "SpeakerEmotionCategory": "긍정",
+            "SpeakerEmotionTarget": "기쁨",
+            "SpeakerEmotionLevel": "보통"
+        },
+        {
+            "Text": "음 저는 일단은 약재들을 많이 넣지 않거든요",
+            "SpeakerNo": "Speaker2",
+            "StartTime": "95.42",
+            "EndTime": "99.60",
+            "SpeakerEmotionCategory": "긍정",
+            "SpeakerEmotionTarget": "기쁨",
+            "SpeakerEmotionLevel": "보통"
+        },
+        {
+            "Text": "가족들 이제 애들이 싫어하니까요 근데 이제 전복을 넣어서 먹어요 전복 전복을 넣어서 먹으니까 애들이 일일이 좋아하더라고요",
+            "SpeakerNo": "Speaker2",
+            "StartTime": "99.95",
+            "EndTime": "107.98",
+            "SpeakerEmotionCategory": "긍정",
+            "SpeakerEmotionTarget": "기쁨",
+            "SpeakerEmotionLevel": "보통"
+        },
+        {
+            "Text": "아 전복 삼계탕을 좋아하시나 봐요",
+            "SpeakerNo": "Speaker1",
+            "StartTime": "108.98",
+            "EndTime": "111.88",
+            "SpeakerEmotionCategory": "긍정",
+            "SpeakerEmotionTarget": "기쁨",
+            "SpeakerEmotionLevel": "보통"
+        },
+        {
+            "Text": "저희 집은 삼계탕보다는 오리탕을 좋아하거든요",
+            "SpeakerNo": "Speaker1",
+            "StartTime": "113.12",
+            "EndTime": "117.84",
+            "SpeakerEmotionCategory": "긍정",
+            "SpeakerEmotionTarget": "기쁨",
+            "SpeakerEmotionLevel": "보통"
+        },
+        {
+            "Text": "오리탕에는 어떤 거를 넣고 드시나요",
+            "SpeakerNo": "Speaker2",
+            "StartTime": "120.67",
+            "EndTime": "123.06",
+            "SpeakerEmotionCategory": "긍정",
+            "SpeakerEmotionTarget": "기쁨",
+            "SpeakerEmotionLevel": "보통"
+        },
+        {
+            "Text": "보리탕도 삼계탕 하고 똑같아요 한 개도 넣고 들어가지 겨울",
+            "SpeakerNo": "Speaker1",
+            "StartTime": "124.26",
+            "EndTime": "130.11",
+            "SpeakerEmotionCategory": "긍정",
+            "SpeakerEmotionTarget": "기쁨",
+            "SpeakerEmotionLevel": "보통"
+        },
+        {
+            "Text": "나무 같은 것도 집어넣고 엉개도 넣구요 엉개나무도 집어넣구요",
+            "SpeakerNo": "Speaker1",
+            "StartTime": "130.79",
+            "EndTime": "136.97",
+            "SpeakerEmotionCategory": "긍정",
+            "SpeakerEmotionTarget": "기쁨",
+            "SpeakerEmotionLevel": "보통"
+        },
+        {
+            "Text": "저는 얼마 전에 헤싱 떡을 먹었어요",
+            "SpeakerNo": "Speaker2",
+            "StartTime": "139.94",
+            "EndTime": "143.10",
+            "SpeakerEmotionCategory": "긍정",
+            "SpeakerEmotionTarget": "기쁨",
+            "SpeakerEmotionLevel": "보통"
+        },
+        {
+            "Text": "하나 주세요",
+            "SpeakerNo": "Speaker1",
+            "StartTime": "142.41",
+            "EndTime": "143.03",
+            "SpeakerEmotionCategory": "긍정",
+            "SpeakerEmotionTarget": "기쁨",
+            "SpeakerEmotionLevel": "보통"
+        },
+        {
+            "Text": "해신탕 드셔 보셨어요",
+            "SpeakerNo": "Speaker2",
+            "StartTime": "143.51",
+            "EndTime": "144.91",
+            "SpeakerEmotionCategory": "긍정",
+            "SpeakerEmotionTarget": "기쁨",
+            "SpeakerEmotionLevel": "보통"
+        },
+        {
+            "Text": "해신탕이 뭔가요",
+            "SpeakerNo": "Speaker1",
+            "StartTime": "146.05",
+            "EndTime": "148.29",
+            "SpeakerEmotionCategory": "긍정",
+            "SpeakerEmotionTarget": "기쁨",
+            "SpeakerEmotionLevel": "보통"
+        },
+        {
+            "Text": "아",
+            "SpeakerNo": "Speaker2",
+            "StartTime": "148.35",
+            "EndTime": "149.23",
+            "SpeakerEmotionCategory": "긍정",
+            "SpeakerEmotionTarget": "기쁨",
+            "SpeakerEmotionLevel": "보통"
+        },
+        {
+            "Text": "닭이라다가요 여러 가지 해산물을 넣어서",
+            "SpeakerNo": "Speaker2",
+            "StartTime": "149.44",
+            "EndTime": "153.50",
+            "SpeakerEmotionCategory": "긍정",
+            "SpeakerEmotionTarget": "기쁨",
+            "SpeakerEmotionLevel": "보통"
+        },
+        {
+            "Text": "끓이게 된 탕이거든요 낙지라든가 점보 그다음에 문어까지도 들어갈 때가 있어요",
+            "SpeakerNo": "Speaker2",
+            "StartTime": "153.86",
+            "EndTime": "161.64",
+            "SpeakerEmotionCategory": "긍정",
+            "SpeakerEmotionTarget": "기쁨",
+            "SpeakerEmotionLevel": "보통"
+        },
+        {
+            "Text": "아 그래요 아주 고급 음식 같은 애요",
+            "SpeakerNo": "Speaker1",
+            "StartTime": "162.67",
+            "EndTime": "166.77",
+            "SpeakerEmotionCategory": "긍정",
+            "SpeakerEmotionTarget": "기쁨",
+            "SpeakerEmotionLevel": "보통"
+        },
+        {
+            "Text": "네",
+            "SpeakerNo": "Speaker2",
+            "StartTime": "167.44",
+            "EndTime": "168.06",
+            "SpeakerEmotionCategory": "긍정",
+            "SpeakerEmotionTarget": "기쁨",
+            "SpeakerEmotionLevel": "보통"
+        },
+        {
+            "Text": "보통",
+            "SpeakerNo": "Speaker2",
+            "StartTime": "168.38",
+            "EndTime": "169.47",
+            "SpeakerEmotionCategory": "긍정",
+            "SpeakerEmotionTarget": "기쁨",
+            "SpeakerEmotionLevel": "보통"
+        },
+        {
+            "Text": "삼계탕 끓일 때처럼 환기나 헛개나무 엄나무 대추나무 이런 것도 마 아 대추나무는 안 넣죠 대추를 넣죠 그쵸 대추를 넣어갖고",
+            "SpeakerNo": "Speaker2",
+            "StartTime": "170.09",
+            "EndTime": "182.24",
+            "SpeakerEmotionCategory": "긍정",
+            "SpeakerEmotionTarget": "기쁨",
+            "SpeakerEmotionLevel": "보통"
+        },
+        {
+            "Text": "에",
+            "SpeakerNo": "Speaker1",
+            "StartTime": "177.32",
+            "EndTime": "177.57",
+            "SpeakerEmotionCategory": "긍정",
+            "SpeakerEmotionTarget": "기쁨",
+            "SpeakerEmotionLevel": "보통"
+        },
+        {
+            "Text": "화려하드라구요",
+            "SpeakerNo": "Speaker2",
+            "StartTime": "186.92",
+            "EndTime": "188.05",
+            "SpeakerEmotionCategory": "긍정",
+            "SpeakerEmotionTarget": "기쁨",
+            "SpeakerEmotionLevel": "보통"
+        },
+        {
+            "Text": "아 그래요",
+            "SpeakerNo": "Speaker1",
+            "StartTime": "188.70",
+            "EndTime": "190.69",
+            "SpeakerEmotionCategory": "긍정",
+            "SpeakerEmotionTarget": "기쁨",
+            "SpeakerEmotionLevel": "보통"
+        },
+        {
+            "Text": "이쪽에서는 해신탕은 별로 안 먹어본 거 같애서 좀 생소하네요",
+            "SpeakerNo": "Speaker1",
+            "StartTime": "190.97",
+            "EndTime": "195.55",
+            "SpeakerEmotionCategory": "긍정",
+            "SpeakerEmotionTarget": "기쁨",
+            "SpeakerEmotionLevel": "보통"
+        },
+        {
+            "Text": "아 그러시구나 알아라",
+            "SpeakerNo": "Speaker2",
+            "StartTime": "195.89",
+            "EndTime": "197.52",
+            "SpeakerEmotionCategory": "긍정",
+            "SpeakerEmotionTarget": "기쁨",
+            "SpeakerEmotionLevel": "보통"
+        },
+        {
+            "Text": "스",
+            "SpeakerNo": "Speaker2",
+            "StartTime": "197.76",
+            "EndTime": "198.03",
+            "SpeakerEmotionCategory": "긍정",
+            "SpeakerEmotionTarget": "기쁨",
+            "SpeakerEmotionLevel": "보통"
+        },
+        {
+            "Text": "아무래도 해신탕 하면은 해산물이 너무 들어 많이 들어가서 해산물을 좋아하는 사람들이 즐겨 찾는 것 같더라구요",
+            "SpeakerNo": "Speaker2",
+            "StartTime": "198.26",
+            "EndTime": "206.71",
+            "SpeakerEmotionCategory": "긍정",
+            "SpeakerEmotionTarget": "기쁨",
+            "SpeakerEmotionLevel": "보통"
+        },
+        {
+            "Text": "아 그렇지요",
+            "SpeakerNo": "Speaker1",
+            "StartTime": "208.80",
+            "EndTime": "210.34",
+            "SpeakerEmotionCategory": "긍정",
+            "SpeakerEmotionTarget": "기쁨",
+            "SpeakerEmotionLevel": "보통"
+        },
+        {
+            "Text": "혹시 영양탕은 드시나요",
+            "SpeakerNo": "Speaker1",
+            "StartTime": "210.76",
+            "EndTime": "212.74",
+            "SpeakerEmotionCategory": "긍정",
+            "SpeakerEmotionTarget": "기쁨",
+            "SpeakerEmotionLevel": "보통"
+        },
+        {
+            "Text": "아뇨 영양파는 즐기지 않아요",
+            "SpeakerNo": "Speaker2",
+            "StartTime": "213.45",
+            "EndTime": "216.25",
+            "SpeakerEmotionCategory": "긍정",
+            "SpeakerEmotionTarget": "기쁨",
+            "SpeakerEmotionLevel": "보통"
+        },
+        {
+            "Text": "저희 집에는",
+            "SpeakerNo": "Speaker2",
+            "StartTime": "216.62",
+            "EndTime": "218.05",
+            "SpeakerEmotionCategory": "긍정",
+            "SpeakerEmotionTarget": "기쁨",
+            "SpeakerEmotionLevel": "보통"
+        },
+        {
+            "Text": "어 시추 두 마리가 있는데 걔네들을 보면서 어떻게 영양탕을 먹겠습니까",
+            "SpeakerNo": "Speaker2",
+            "StartTime": "218.27",
+            "EndTime": "222.75",
+            "SpeakerEmotionCategory": "긍정",
+            "SpeakerEmotionTarget": "기쁨",
+            "SpeakerEmotionLevel": "보통"
+        },
+        {
+            "Text": "아 그러시구나 저희 신랑은 영양 평을 좋아해서 봉란이면 꼭 먹고 오는데",
+            "SpeakerNo": "Speaker1",
+            "StartTime": "223.71",
+            "EndTime": "230.81",
+            "SpeakerEmotionCategory": "긍정",
+            "SpeakerEmotionTarget": "기쁨",
+            "SpeakerEmotionLevel": "보통"
+        },
+        {
+            "Text": "먹고 온 날은 옆에 가기도 싫더라구요",
+            "SpeakerNo": "Speaker1",
+            "StartTime": "231.03",
+            "EndTime": "233.71",
+            "SpeakerEmotionCategory": "긍정",
+            "SpeakerEmotionTarget": "기쁨",
+            "SpeakerEmotionLevel": "보통"
+        },
+        {
+            "Text": "맞아요 괜히 먹었다 가면은",
+            "SpeakerNo": "Speaker2",
+            "StartTime": "234.51",
+            "EndTime": "237.95",
+            "SpeakerEmotionCategory": "긍정",
+            "SpeakerEmotionTarget": "기쁨",
+            "SpeakerEmotionLevel": "보통"
+        },
+        {
+            "Text": "이상한 냄새가 나는 것 같지 않아요",
+            "SpeakerNo": "Speaker2",
+            "StartTime": "238.53",
+            "EndTime": "240.51",
+            "SpeakerEmotionCategory": "긍정",
+            "SpeakerEmotionTarget": "기쁨",
+            "SpeakerEmotionLevel": "보통"
+        },
+        {
+            "Text": "맞아요 이상한 냄새가 나는 것 같애서",
+            "SpeakerNo": "Speaker1",
+            "StartTime": "241.59",
+            "EndTime": "244.25",
+            "SpeakerEmotionCategory": "긍정",
+            "SpeakerEmotionTarget": "기쁨",
+            "SpeakerEmotionLevel": "보통"
+        },
+        {
+            "Text": "바깥에서 한참 있다 들어오라 하기도 해요",
+            "SpeakerNo": "Speaker1",
+            "StartTime": "244.70",
+            "EndTime": "247.75",
+            "SpeakerEmotionCategory": "긍정",
+            "SpeakerEmotionTarget": "기쁨",
+            "SpeakerEmotionLevel": "보통"
+        },
+        {
+            "Text": "아유 그렇게 고백받은 것 없고 그거를 드셔야 되는지 참 어렵다 그쵸",
+            "SpeakerNo": "Speaker2",
+            "StartTime": "248.53",
+            "EndTime": "253.84",
+            "SpeakerEmotionCategory": "긍정",
+            "SpeakerEmotionTarget": "기쁨",
+            "SpeakerEmotionLevel": "보통"
+        },
+        {
+            "Text": "그때 남자들은 또 영양탕을 잘 먹더라구요",
+            "SpeakerNo": "Speaker1",
+            "StartTime": "254.89",
+            "EndTime": "258.57",
+            "SpeakerEmotionCategory": "긍정",
+            "SpeakerEmotionTarget": "기쁨",
+            "SpeakerEmotionLevel": "보통"
+        },
+        {
+            "Text": "맞아요 수육도 맛있다 하더라구요",
+            "SpeakerNo": "Speaker2",
+            "StartTime": "259.95",
+            "EndTime": "263.06",
+            "SpeakerEmotionCategory": "긍정",
+            "SpeakerEmotionTarget": "기쁨",
+            "SpeakerEmotionLevel": "보통"
+        },
+        {
+            "Text": "권하기는 하는데 아우 정말 알아라 그래",
+            "SpeakerNo": "Speaker2",
+            "StartTime": "263.39",
+            "EndTime": "265.95",
+            "SpeakerEmotionCategory": "긍정",
+            "SpeakerEmotionTarget": "기쁨",
+            "SpeakerEmotionLevel": "보통"
+        },
+        {
+            "Text": "근처에도 가기 싫어요",
+            "SpeakerNo": "Speaker2",
+            "StartTime": "266.25",
+            "EndTime": "267.83",
+            "SpeakerEmotionCategory": "긍정",
+            "SpeakerEmotionTarget": "기쁨",
+            "SpeakerEmotionLevel": "보통"
+        },
+        {
+            "Text": "그치요 여자들은 그래도 여자들 중에서 먹는 사람도 많더라구요 몸에 좋다고 허약한 사람들은",
+            "SpeakerNo": "Speaker1",
+            "StartTime": "268.86",
+            "EndTime": "275.68",
+            "SpeakerEmotionCategory": "긍정",
+            "SpeakerEmotionTarget": "기쁨",
+            "SpeakerEmotionLevel": "보통"
+        },
+        {
+            "Text": "그거를 꼭 여름에 챙겨 먹더라구요",
+            "SpeakerNo": "Speaker1",
+            "StartTime": "276.11",
+            "EndTime": "278.08",
+            "SpeakerEmotionCategory": "긍정",
+            "SpeakerEmotionTarget": "기쁨",
+            "SpeakerEmotionLevel": "보통"
+        },
+        {
+            "Text": "고기를 대놓고 먹는 사람들도 있더라고요 냉동실에 냉동해놨다가 주기적으로 꺼내서 먹어야 힘이 난다라는 사람들도 있어요",
+            "SpeakerNo": "Speaker2",
+            "StartTime": "280.06",
+            "EndTime": "289.76",
+            "SpeakerEmotionCategory": "긍정",
+            "SpeakerEmotionTarget": "기쁨",
+            "SpeakerEmotionLevel": "보통"
+        },
+        {
+            "Text": "아 저도 봤어요 수술하고 온 환자들은 꼭 그거를 챙겨먹더라고요",
+            "SpeakerNo": "Speaker1",
+            "StartTime": "290.82",
+            "EndTime": "296.29",
+            "SpeakerEmotionCategory": "긍정",
+            "SpeakerEmotionTarget": "기쁨",
+            "SpeakerEmotionLevel": "보통"
+        },
+        {
+            "Text": "맞아요",
+            "SpeakerNo": "Speaker2",
+            "StartTime": "297.84",
+            "EndTime": "298.75",
+            "SpeakerEmotionCategory": "긍정",
+            "SpeakerEmotionTarget": "기쁨",
+            "SpeakerEmotionLevel": "보통"
+        },
+        {
+            "Text": "그래요",
+            "SpeakerNo": "Speaker1",
+            "StartTime": "297.88",
+            "EndTime": "298.23",
+            "SpeakerEmotionCategory": "긍정",
+            "SpeakerEmotionTarget": "기쁨",
+            "SpeakerEmotionLevel": "보통"
+        },
+        {
+            "Text": "계속 주도요 그래서 #@이름# 야만인이라고 하잖아요 외국 사람들을",
+            "SpeakerNo": "Speaker2",
+            "StartTime": "299.27",
+            "EndTime": "304.82",
+            "SpeakerEmotionCategory": "긍정",
+            "SpeakerEmotionTarget": "기쁨",
+            "SpeakerEmotionLevel": "보통"
+        },
+        {
+            "Text": "그러게 그거는 식습관인데 그거 갖고 뭐라고 하는 거 보면",
+            "SpeakerNo": "Speaker1",
+            "StartTime": "305.87",
+            "EndTime": "310.75",
+            "SpeakerEmotionCategory": "긍정",
+            "SpeakerEmotionTarget": "기쁨",
+            "SpeakerEmotionLevel": "보통"
+        },
+        {
+            "Text": "자기네들은 더한 것도 먹으면서",
+            "SpeakerNo": "Speaker1",
+            "StartTime": "311.05",
+            "EndTime": "312.88",
+            "SpeakerEmotionCategory": "긍정",
+            "SpeakerEmotionTarget": "기쁨",
+            "SpeakerEmotionLevel": "보통"
+        },
+        {
+            "Text": "참 이상한 것 같아요",
+            "SpeakerNo": "Speaker1",
+            "StartTime": "313.65",
+            "EndTime": "315.01",
+            "SpeakerEmotionCategory": "긍정",
+            "SpeakerEmotionTarget": "기쁨",
+            "SpeakerEmotionLevel": "보통"
+        },
+        {
+            "Text": "맞아요",
+            "SpeakerNo": "Speaker2",
+            "StartTime": "315.68",
+            "EndTime": "316.58",
+            "SpeakerEmotionCategory": "긍정",
+            "SpeakerEmotionTarget": "기쁨",
+            "SpeakerEmotionLevel": "보통"
+        },
+        {
+            "Text": "제가 각자 나라에 특선인 것 같아요",
+            "SpeakerNo": "Speaker2",
+            "StartTime": "316.82",
+            "EndTime": "319.77",
+            "SpeakerEmotionCategory": "긍정",
+            "SpeakerEmotionTarget": "기쁨",
+            "SpeakerEmotionLevel": "보통"
+        },
+        {
+            "Text": "저는 영양탕을 안 먹는 대신에 추어탕을 먹어요",
+            "SpeakerNo": "Speaker2",
+            "StartTime": "320.70",
+            "EndTime": "324.67",
+            "SpeakerEmotionCategory": "긍정",
+            "SpeakerEmotionTarget": "기쁨",
+            "SpeakerEmotionLevel": "보통"
+        },
+        {
+            "Text": "추어탕을 먹으면은 아무래도",
+            "SpeakerNo": "Speaker2",
+            "StartTime": "325.42",
+            "EndTime": "327.90",
+            "SpeakerEmotionCategory": "긍정",
+            "SpeakerEmotionTarget": "기쁨",
+            "SpeakerEmotionLevel": "보통"
+        },
+        {
+            "Text": "아",
+            "SpeakerNo": "Speaker1",
+            "StartTime": "325.73",
+            "EndTime": "326.34",
+            "SpeakerEmotionCategory": "긍정",
+            "SpeakerEmotionTarget": "기쁨",
+            "SpeakerEmotionLevel": "보통"
+        },
+        {
+            "Text": "얼어 너무 힘이 다른 것 같애요",
+            "SpeakerNo": "Speaker2",
+            "StartTime": "328.67",
+            "EndTime": "330.25",
+            "SpeakerEmotionCategory": "긍정",
+            "SpeakerEmotionTarget": "기쁨",
+            "SpeakerEmotionLevel": "보통"
+        },
+        {
+            "Text": "음",
+            "SpeakerNo": "Speaker1",
+            "StartTime": "328.84",
+            "EndTime": "329.43",
+            "SpeakerEmotionCategory": "긍정",
+            "SpeakerEmotionTarget": "기쁨",
+            "SpeakerEmotionLevel": "보통"
+        },
+        {
+            "Text": "장어구이도 가끔 먹구요",
+            "SpeakerNo": "Speaker2",
+            "StartTime": "330.56",
+            "EndTime": "332.03",
+            "SpeakerEmotionCategory": "긍정",
+            "SpeakerEmotionTarget": "기쁨",
+            "SpeakerEmotionLevel": "보통"
+        },
+        {
+            "Text": "아 그러세요",
+            "SpeakerNo": "Speaker1",
+            "StartTime": "333.06",
+            "EndTime": "334.74",
+            "SpeakerEmotionCategory": "긍정",
+            "SpeakerEmotionTarget": "기쁨",
+            "SpeakerEmotionLevel": "보통"
+        },
+        {
+            "Text": "저는 추어탕은 가끔씩 먹어요",
+            "SpeakerNo": "Speaker1",
+            "StartTime": "335.34",
+            "EndTime": "338.24",
+            "SpeakerEmotionCategory": "긍정",
+            "SpeakerEmotionTarget": "기쁨",
+            "SpeakerEmotionLevel": "보통"
+        },
+        {
+            "Text": "이쪽에 자라는 집이 있거든요",
+            "SpeakerNo": "Speaker1",
+            "StartTime": "340.08",
+            "EndTime": "342.31",
+            "SpeakerEmotionCategory": "긍정",
+            "SpeakerEmotionTarget": "기쁨",
+            "SpeakerEmotionLevel": "보통"
+        },
+        {
+            "Text": "아 어딘데요",
+            "SpeakerNo": "Speaker2",
+            "StartTime": "342.35",
+            "EndTime": "343.50",
+            "SpeakerEmotionCategory": "긍정",
+            "SpeakerEmotionTarget": "기쁨",
+            "SpeakerEmotionLevel": "보통"
+        },
+        {
+            "Text": "여기 온양인데요",
+            "SpeakerNo": "Speaker1",
+            "StartTime": "344.47",
+            "EndTime": "346.65",
+            "SpeakerEmotionCategory": "긍정",
+            "SpeakerEmotionTarget": "기쁨",
+            "SpeakerEmotionLevel": "보통"
+        },
+        {
+            "Text": "거기는 맑게 해서 주니까 저는 그게 입맛에 맞더라구요",
+            "SpeakerNo": "Speaker1",
+            "StartTime": "348.18",
+            "EndTime": "352.23",
+            "SpeakerEmotionCategory": "긍정",
+            "SpeakerEmotionTarget": "기쁨",
+            "SpeakerEmotionLevel": "보통"
+        },
+        {
+            "Text": "아 아라 거기는 이제 아무래도 국물이 맑은가 봐요 보통 보면은 추어탕에 그 무슨 가락 들깨가루를 많이 넣어서 먹던데",
+            "SpeakerNo": "Speaker2",
+            "StartTime": "354.45",
+            "EndTime": "363.44",
+            "SpeakerEmotionCategory": "긍정",
+            "SpeakerEmotionTarget": "기쁨",
+            "SpeakerEmotionLevel": "보통"
+        },
+        {
+            "Text": "그 맑은 탕에는 들깨가루를 안 넣나요",
+            "SpeakerNo": "Speaker2",
+            "StartTime": "363.87",
+            "EndTime": "366.39",
+            "SpeakerEmotionCategory": "긍정",
+            "SpeakerEmotionTarget": "기쁨",
+            "SpeakerEmotionLevel": "보통"
+        },
+        {
+            "Text": "들깨가루랑 사천 원 쪼끔 넣는데",
+            "SpeakerNo": "Speaker1",
+            "StartTime": "367.47",
+            "EndTime": "370.30",
+            "SpeakerEmotionCategory": "긍정",
+            "SpeakerEmotionTarget": "기쁨",
+            "SpeakerEmotionLevel": "보통"
+        },
+        {
+            "Text": "그래도 깔끔하게 말티에 저는 좋더라구요",
+            "SpeakerNo": "Speaker1",
+            "StartTime": "370.58",
+            "EndTime": "373.34",
+            "SpeakerEmotionCategory": "긍정",
+            "SpeakerEmotionTarget": "기쁨",
+            "SpeakerEmotionLevel": "보통"
+        },
+        {
+            "Text": "저는 그렇게 맑은 추어탕은 못 먹어봤어요",
+            "SpeakerNo": "Speaker2",
+            "StartTime": "374.71",
+            "EndTime": "378.19",
+            "SpeakerEmotionCategory": "긍정",
+            "SpeakerEmotionTarget": "기쁨",
+            "SpeakerEmotionLevel": "보통"
+        },
+        {
+            "Text": "어",
+            "SpeakerNo": "Speaker1",
+            "StartTime": "379.26",
+            "EndTime": "379.58",
+            "SpeakerEmotionCategory": "긍정",
+            "SpeakerEmotionTarget": "기쁨",
+            "SpeakerEmotionLevel": "보통"
+        },
+        {
+            "Text": "아 그럼 어떤 추어탕을 드시나요",
+            "SpeakerNo": "Speaker1",
+            "StartTime": "380.49",
+            "EndTime": "382.92",
+            "SpeakerEmotionCategory": "긍정",
+            "SpeakerEmotionTarget": "기쁨",
+            "SpeakerEmotionLevel": "보통"
+        },
+        {
+            "Text": "음 된장 베이스로 하더라구요 된장 베이스여서 국물이 되게 걸쭉하더라구요 제가 먹었던 거는",
+            "SpeakerNo": "Speaker2",
+            "StartTime": "384.01",
+            "EndTime": "390.94",
+            "SpeakerEmotionCategory": "긍정",
+            "SpeakerEmotionTarget": "기쁨",
+            "SpeakerEmotionLevel": "보통"
+        },
+        {
+            "Text": "아 저는 그 걸쭉한 거론 #@이름#게",
+            "SpeakerNo": "Speaker1",
+            "StartTime": "391.92",
+            "EndTime": "395.38",
+            "SpeakerEmotionCategory": "긍정",
+            "SpeakerEmotionTarget": "기쁨",
+            "SpeakerEmotionLevel": "보통"
+        },
+        {
+            "Text": "식욕이 안 땡기더라구요",
+            "SpeakerNo": "Speaker1",
+            "StartTime": "396.29",
+            "EndTime": "398.38",
+            "SpeakerEmotionCategory": "긍정",
+            "SpeakerEmotionTarget": "기쁨",
+            "SpeakerEmotionLevel": "보통"
+        },
+        {
+            "Text": "안녕하세요",
+            "SpeakerNo": "Speaker1",
+            "StartTime": "401.32",
+            "EndTime": "402.51",
+            "SpeakerEmotionCategory": "긍정",
+            "SpeakerEmotionTarget": "기쁨",
+            "SpeakerEmotionLevel": "보통"
+        },
+        {
+            "Text": "그다음에 육개장은 어떻게 해서 드세요",
+            "SpeakerNo": "Speaker2",
+            "StartTime": "404.73",
+            "EndTime": "407.10",
+            "SpeakerEmotionCategory": "긍정",
+            "SpeakerEmotionTarget": "기쁨",
+            "SpeakerEmotionLevel": "보통"
+        },
+        {
+            "Text": "저는 육개장에 야채를 많이 넣어요",
+            "SpeakerNo": "Speaker1",
+            "StartTime": "408.11",
+            "EndTime": "412.31",
+            "SpeakerEmotionCategory": "긍정",
+            "SpeakerEmotionTarget": "기쁨",
+            "SpeakerEmotionLevel": "보통"
+        },
+        {
+            "Text": "육개장 같은 경우에는 고사리도 넣고 쑥주도 넣고 배추 삶은 것도 넣고",
+            "SpeakerNo": "Speaker1",
+            "StartTime": "412.61",
+            "EndTime": "418.02",
+            "SpeakerEmotionCategory": "긍정",
+            "SpeakerEmotionTarget": "기쁨",
+            "SpeakerEmotionLevel": "보통"
+        },
+        {
+            "Text": "그렇게 여러 가지를 넣어요 특히 파를 많이 넣어요",
+            "SpeakerNo": "Speaker1",
+            "StartTime": "419.75",
+            "EndTime": "422.35",
+            "SpeakerEmotionCategory": "긍정",
+            "SpeakerEmotionTarget": "기쁨",
+            "SpeakerEmotionLevel": "보통"
+        },
+        {
+            "Text": "어 이쪽의 인들은 육기장으론 아무래도 그렇게 야채다",
+            "SpeakerNo": "Speaker2",
+            "StartTime": "423.41",
+            "EndTime": "428.68",
+            "SpeakerEmotionCategory": "긍정",
+            "SpeakerEmotionTarget": "기쁨",
+            "SpeakerEmotionLevel": "보통"
+        },
+        {
+            "Text": "어 발",
+            "SpeakerNo": "Speaker2",
+            "StartTime": "429.26",
+            "EndTime": "429.87",
+            "SpeakerEmotionCategory": "긍정",
+            "SpeakerEmotionTarget": "기쁨",
+            "SpeakerEmotionLevel": "보통"
+        },
+        {
+            "Text": "그",
+            "SpeakerNo": "Speaker1",
+            "StartTime": "429.72",
+            "EndTime": "430.23",
+            "SpeakerEmotionCategory": "긍정",
+            "SpeakerEmotionTarget": "기쁨",
+            "SpeakerEmotionLevel": "보통"
+        },
+        {
+            "Text": "빨갛게 해서 드시더라구요",
+            "SpeakerNo": "Speaker2",
+            "StartTime": "430.24",
+            "EndTime": "432.16",
+            "SpeakerEmotionCategory": "긍정",
+            "SpeakerEmotionTarget": "기쁨",
+            "SpeakerEmotionLevel": "보통"
+        },
+        {
+            "Text": "저희 고향은 제주도인데 제주도 육개장은요",
+            "SpeakerNo": "Speaker2",
+            "StartTime": "432.50",
+            "EndTime": "435.85",
+            "SpeakerEmotionCategory": "긍정",
+            "SpeakerEmotionTarget": "기쁨",
+            "SpeakerEmotionLevel": "보통"
+        },
+        {
+            "Text": "고사리만",
+            "SpeakerNo": "Speaker2",
+            "StartTime": "436.41",
+            "EndTime": "437.44",
+            "SpeakerEmotionCategory": "긍정",
+            "SpeakerEmotionTarget": "기쁨",
+            "SpeakerEmotionLevel": "보통"
+        },
+        {
+            "Text": "고사리만 넣거든요",
+            "SpeakerNo": "Speaker2",
+            "StartTime": "437.75",
+            "EndTime": "438.95",
+            "SpeakerEmotionCategory": "긍정",
+            "SpeakerEmotionTarget": "기쁨",
+            "SpeakerEmotionLevel": "보통"
+        },
+        {
+            "Text": "고사리를 아주 두루",
+            "SpeakerNo": "Speaker2",
+            "StartTime": "439.79",
+            "EndTime": "441.20",
+            "SpeakerEmotionCategory": "긍정",
+            "SpeakerEmotionTarget": "기쁨",
+            "SpeakerEmotionLevel": "보통"
+        },
+        {
+            "Text": "은근하게 싸고 고기를 하나랑",
+            "SpeakerNo": "Speaker2",
+            "StartTime": "441.47",
+            "EndTime": "443.92",
+            "SpeakerEmotionCategory": "긍정",
+            "SpeakerEmotionTarget": "기쁨",
+            "SpeakerEmotionLevel": "보통"
+        },
+        {
+            "Text": "이건",
+            "SpeakerNo": "Speaker1",
+            "StartTime": "443.96",
+            "EndTime": "444.29",
+            "SpeakerEmotionCategory": "긍정",
+            "SpeakerEmotionTarget": "기쁨",
+            "SpeakerEmotionLevel": "보통"
+        },
+        {
+            "Text": "뼈를 우르르 뭉근하게 썰문 다음에",
+            "SpeakerNo": "Speaker2",
+            "StartTime": "444.39",
+            "EndTime": "446.67",
+            "SpeakerEmotionCategory": "긍정",
+            "SpeakerEmotionTarget": "기쁨",
+            "SpeakerEmotionLevel": "보통"
+        },
+        {
+            "Text": "고로케만 해서",
+            "SpeakerNo": "Speaker2",
+            "StartTime": "447.57",
+            "EndTime": "448.92",
+            "SpeakerEmotionCategory": "긍정",
+            "SpeakerEmotionTarget": "기쁨",
+            "SpeakerEmotionLevel": "보통"
+        },
+        {
+            "Text": "먹어요",
+            "SpeakerNo": "Speaker2",
+            "StartTime": "449.19",
+            "EndTime": "449.82",
+            "SpeakerEmotionCategory": "긍정",
+            "SpeakerEmotionTarget": "기쁨",
+            "SpeakerEmotionLevel": "보통"
+        },
+        {
+            "Text": "이죠",
+            "SpeakerNo": "Speaker1",
+            "StartTime": "449.94",
+            "EndTime": "450.19",
+            "SpeakerEmotionCategory": "긍정",
+            "SpeakerEmotionTarget": "기쁨",
+            "SpeakerEmotionLevel": "보통"
+        },
+        {
+            "Text": "거기다가 메밀가루를 살짝 풀구요",
+            "SpeakerNo": "Speaker2",
+            "StartTime": "450.04",
+            "EndTime": "452.84",
+            "SpeakerEmotionCategory": "긍정",
+            "SpeakerEmotionTarget": "기쁨",
+            "SpeakerEmotionLevel": "보통"
+        },
+        {
+            "Text": "아 여기랑",
+            "SpeakerNo": "Speaker1",
+            "StartTime": "453.20",
+            "EndTime": "454.83",
+            "SpeakerEmotionCategory": "긍정",
+            "SpeakerEmotionTarget": "기쁨",
+            "SpeakerEmotionLevel": "보통"
+        },
+        {
+            "Text": "저는 이쪽에",
+            "SpeakerNo": "Speaker2",
+            "StartTime": "453.39",
+            "EndTime": "454.48",
+            "SpeakerEmotionCategory": "긍정",
+            "SpeakerEmotionTarget": "기쁨",
+            "SpeakerEmotionLevel": "보통"
+        },
+        {
+            "Text": "예 육지에 올라가 올라가서 그거를",
+            "SpeakerNo": "Speaker2",
+            "StartTime": "455.32",
+            "EndTime": "458.29",
+            "SpeakerEmotionCategory": "긍정",
+            "SpeakerEmotionTarget": "기쁨",
+            "SpeakerEmotionLevel": "보통"
+        },
+        {
+            "Text": "이거는 얼마예요",
+            "SpeakerNo": "Speaker1",
+            "StartTime": "455.59",
+            "EndTime": "456.33",
+            "SpeakerEmotionCategory": "긍정",
+            "SpeakerEmotionTarget": "기쁨",
+            "SpeakerEmotionLevel": "보통"
+        },
+        {
+            "Text": "먹어봐서 깜짝 놀랐어요 제주도 육개장 하고는 너무 다르더라구요",
+            "SpeakerNo": "Speaker2",
+            "StartTime": "458.82",
+            "EndTime": "463.16",
+            "SpeakerEmotionCategory": "긍정",
+            "SpeakerEmotionTarget": "기쁨",
+            "SpeakerEmotionLevel": "보통"
+        },
+        {
+            "Text": "아 제주도 육개장하곤 정말 다르네요 여기는 고추기름도 내고",
+            "SpeakerNo": "Speaker1",
+            "StartTime": "464.21",
+            "EndTime": "469.00",
+            "SpeakerEmotionCategory": "긍정",
+            "SpeakerEmotionTarget": "기쁨",
+            "SpeakerEmotionLevel": "보통"
+        },
+        {
+            "Text": "그렇게 해서 빨갛게 해서 먹는데 고기는 또 맑게 해 먹나 봐요",
+            "SpeakerNo": "Speaker1",
+            "StartTime": "469.31",
+            "EndTime": "473.08",
+            "SpeakerEmotionCategory": "긍정",
+            "SpeakerEmotionTarget": "기쁨",
+            "SpeakerEmotionLevel": "보통"
+        },
+        {
+            "Text": "어 맑지는 않아요 단지 빨갛지 않을 뿐이지",
+            "SpeakerNo": "Speaker2",
+            "StartTime": "473.96",
+            "EndTime": "477.23",
+            "SpeakerEmotionCategory": "긍정",
+            "SpeakerEmotionTarget": "기쁨",
+            "SpeakerEmotionLevel": "보통"
+        },
+        {
+            "Text": "어 그리고 다른 야채는 안 들어가요 오로지",
+            "SpeakerNo": "Speaker2",
+            "StartTime": "477.62",
+            "EndTime": "480.18",
+            "SpeakerEmotionCategory": "긍정",
+            "SpeakerEmotionTarget": "기쁨",
+            "SpeakerEmotionLevel": "보통"
+        },
+        {
+            "Text": "그",
+            "SpeakerNo": "Speaker1",
+            "StartTime": "478.24",
+            "EndTime": "478.66",
+            "SpeakerEmotionCategory": "긍정",
+            "SpeakerEmotionTarget": "기쁨",
+            "SpeakerEmotionLevel": "보통"
+        },
+        {
+            "Text": "어 고기도 알아라",
+            "SpeakerNo": "Speaker2",
+            "StartTime": "480.60",
+            "EndTime": "481.92",
+            "SpeakerEmotionCategory": "긍정",
+            "SpeakerEmotionTarget": "기쁨",
+            "SpeakerEmotionLevel": "보통"
+        },
+        {
+            "Text": "고사리만 들어가여",
+            "SpeakerNo": "Speaker2",
+            "StartTime": "482.21",
+            "EndTime": "483.41",
+            "SpeakerEmotionCategory": "긍정",
+            "SpeakerEmotionTarget": "기쁨",
+            "SpeakerEmotionLevel": "보통"
+        },
+        {
+            "Text": "한 번 드셔보세요 나중에",
+            "SpeakerNo": "Speaker2",
+            "StartTime": "484.05",
+            "EndTime": "485.68",
+            "SpeakerEmotionCategory": "긍정",
+            "SpeakerEmotionTarget": "기쁨",
+            "SpeakerEmotionLevel": "보통"
+        },
+        {
+            "Text": "한번 제주도 가면은 먹어봐야 되겠네요",
+            "SpeakerNo": "Speaker1",
+            "StartTime": "486.74",
+            "EndTime": "490.09",
+            "SpeakerEmotionCategory": "긍정",
+            "SpeakerEmotionTarget": "기쁨",
+            "SpeakerEmotionLevel": "보통"
+        },
+        {
+            "Text": "네 제주도에 유명한 음식이에요",
+            "SpeakerNo": "Speaker2",
+            "StartTime": "490.31",
+            "EndTime": "493.77",
+            "SpeakerEmotionCategory": "긍정",
+            "SpeakerEmotionTarget": "기쁨",
+            "SpeakerEmotionLevel": "보통"
+        },
+        {
+            "Text": "아 그렇구나",
+            "SpeakerNo": "Speaker1",
+            "StartTime": "496.12",
+            "EndTime": "498.10",
+            "SpeakerEmotionCategory": "긍정",
+            "SpeakerEmotionTarget": "기쁨",
+            "SpeakerEmotionLevel": "보통"
+        },
+        {
+            "Text": "요즘 또",
+            "SpeakerNo": "Speaker1",
+            "StartTime": "499.52",
+            "EndTime": "500.54",
+            "SpeakerEmotionCategory": "긍정",
+            "SpeakerEmotionTarget": "기쁨",
+            "SpeakerEmotionLevel": "보통"
+        },
+        {
+            "Text": "그런 음식 말고 보양식 어떤 것을 드시나요",
+            "SpeakerNo": "Speaker1",
+            "StartTime": "501.15",
+            "EndTime": "504.03",
+            "SpeakerEmotionCategory": "긍정",
+            "SpeakerEmotionTarget": "기쁨",
+            "SpeakerEmotionLevel": "보통"
+        },
+        {
+            "Text": "저 오늘은 부모님도 보고 말했어요",
+            "SpeakerNo": "Speaker2",
+            "StartTime": "504.61",
+            "EndTime": "506.94",
+            "SpeakerEmotionCategory": "긍정",
+            "SpeakerEmotionTarget": "기쁨",
+            "SpeakerEmotionLevel": "보통"
+        },
+        {
+            "Text": "어우 생각보다 비리지도 않고 정말 좋더라구요",
+            "SpeakerNo": "Speaker2",
+            "StartTime": "507.65",
+            "EndTime": "511.32",
+            "SpeakerEmotionCategory": "긍정",
+            "SpeakerEmotionTarget": "기쁨",
+            "SpeakerEmotionLevel": "보통"
+        },
+        {
+            "Text": "아",
+            "SpeakerNo": "Speaker1",
+            "StartTime": "507.97",
+            "EndTime": "508.36",
+            "SpeakerEmotionCategory": "긍정",
+            "SpeakerEmotionTarget": "기쁨",
+            "SpeakerEmotionLevel": "보통"
+        },
+        {
+            "Text": "그죠",
+            "SpeakerNo": "Speaker1",
+            "StartTime": "510.75",
+            "EndTime": "511.03",
+            "SpeakerEmotionCategory": "긍정",
+            "SpeakerEmotionTarget": "기쁨",
+            "SpeakerEmotionLevel": "보통"
+        },
+        {
+            "Text": "방안 팁을 넣어서 그런가 봐요",
+            "SpeakerNo": "Speaker2",
+            "StartTime": "511.69",
+            "EndTime": "513.50",
+            "SpeakerEmotionCategory": "긍정",
+            "SpeakerEmotionTarget": "기쁨",
+            "SpeakerEmotionLevel": "보통"
+        },
+        {
+            "Text": "아 부모님이요 과시가 많지 않나요",
+            "SpeakerNo": "Speaker1",
+            "StartTime": "514.51",
+            "EndTime": "519.42",
+            "SpeakerEmotionCategory": "긍정",
+            "SpeakerEmotionTarget": "기쁨",
+            "SpeakerEmotionLevel": "보통"
+        },
+        {
+            "Text": "가시가 많긴 한데 가시들이 되게 크더라 굽더라구요 그래서 발라내기는 참 좋더라구요",
+            "SpeakerNo": "Speaker2",
+            "StartTime": "519.01",
+            "EndTime": "526.28",
+            "SpeakerEmotionCategory": "긍정",
+            "SpeakerEmotionTarget": "기쁨",
+            "SpeakerEmotionLevel": "보통"
+        },
+        {
+            "Text": "우리가 생각하느라 그런 작은 붕어가 아니더라구요",
+            "SpeakerNo": "Speaker2",
+            "StartTime": "526.74",
+            "EndTime": "530.12",
+            "SpeakerEmotionCategory": "긍정",
+            "SpeakerEmotionTarget": "기쁨",
+            "SpeakerEmotionLevel": "보통"
+        },
+        {
+            "Text": "엄청 크더라구요",
+            "SpeakerNo": "Speaker2",
+            "StartTime": "530.36",
+            "EndTime": "531.58",
+            "SpeakerEmotionCategory": "긍정",
+            "SpeakerEmotionTarget": "기쁨",
+            "SpeakerEmotionLevel": "보통"
+        },
+        {
+            "Text": "아 그렇구나 저는 붕어빵 중에도 안 먹어봤는데 참 안 먹어본 게 맞는 것 같아요 저는",
+            "SpeakerNo": "Speaker1",
+            "StartTime": "532.55",
+            "EndTime": "538.83",
+            "SpeakerEmotionCategory": "긍정",
+            "SpeakerEmotionTarget": "기쁨",
+            "SpeakerEmotionLevel": "보통"
+        },
+        {
+            "Text": "맞아요 살면서 모든 거를 다 먹어봤다고 생각이 드는데",
+            "SpeakerNo": "Speaker2",
+            "StartTime": "539.92",
+            "EndTime": "544.76",
+            "SpeakerEmotionCategory": "긍정",
+            "SpeakerEmotionTarget": "기쁨",
+            "SpeakerEmotionLevel": "보통"
+        },
+        {
+            "Text": "만든",
+            "SpeakerNo": "Speaker1",
+            "StartTime": "540.51",
+            "EndTime": "540.93",
+            "SpeakerEmotionCategory": "긍정",
+            "SpeakerEmotionTarget": "기쁨",
+            "SpeakerEmotionLevel": "보통"
+        },
+        {
+            "Text": "의외로 안 먹으면 안 먹어본 음식이 참 많더라구요",
+            "SpeakerNo": "Speaker2",
+            "StartTime": "545.18",
+            "EndTime": "548.93",
+            "SpeakerEmotionCategory": "긍정",
+            "SpeakerEmotionTarget": "기쁨",
+            "SpeakerEmotionLevel": "보통"
+        },
+        {
+            "Text": "아 그렇지요",
+            "SpeakerNo": "Speaker1",
+            "StartTime": "549.83",
+            "EndTime": "552.67",
+            "SpeakerEmotionCategory": "긍정",
+            "SpeakerEmotionTarget": "기쁨",
+            "SpeakerEmotionLevel": "보통"
+        },
+        {
+            "Text": "주로 반찬은 그럼 요즘 뭐 해드세요 더운데",
+            "SpeakerNo": "Speaker1",
+            "StartTime": "553.73",
+            "EndTime": "556.53",
+            "SpeakerEmotionCategory": "긍정",
+            "SpeakerEmotionTarget": "기쁨",
+            "SpeakerEmotionLevel": "보통"
+        },
+        {
+            "Text": "저네들은 시원하게 콩국수도 해 먹고요 여러",
+            "SpeakerNo": "Speaker2",
+            "StartTime": "557.83",
+            "EndTime": "560.92",
+            "SpeakerEmotionCategory": "긍정",
+            "SpeakerEmotionTarget": "기쁨",
+            "SpeakerEmotionLevel": "보통"
+        },
+        {
+            "Text": "지금 포장한다",
+            "SpeakerNo": "Speaker1",
+            "StartTime": "558.02",
+            "EndTime": "558.95",
+            "SpeakerEmotionCategory": "긍정",
+            "SpeakerEmotionTarget": "기쁨",
+            "SpeakerEmotionLevel": "보통"
+        },
+        {
+            "Text": "젓갈도 요즘 입맛을 당겨갖고 참 좋더라구요 그래서 젓갈도 사다 먹고 어 그러고 있어요 오이냉국을 많이 해먹어요 그리고",
+            "SpeakerNo": "Speaker2",
+            "StartTime": "563.09",
+            "EndTime": "573.81",
+            "SpeakerEmotionCategory": "긍정",
+            "SpeakerEmotionTarget": "기쁨",
+            "SpeakerEmotionLevel": "보통"
+        },
+        {
+            "Text": "아 저도 오이냉국은 많이 해 먹고 있어요 그 카고 친구가",
+            "SpeakerNo": "Speaker1",
+            "StartTime": "574.38",
+            "EndTime": "580.79",
+            "SpeakerEmotionCategory": "긍정",
+            "SpeakerEmotionTarget": "기쁨",
+            "SpeakerEmotionLevel": "보통"
+        },
+        {
+            "Text": "가스 조그맣게 하는데",
+            "SpeakerNo": "Speaker1",
+            "StartTime": "581.00",
+            "EndTime": "582.55",
+            "SpeakerEmotionCategory": "긍정",
+            "SpeakerEmotionTarget": "기쁨",
+            "SpeakerEmotionLevel": "보통"
+        },
+        {
+            "Text": "호박잎을 요즘 많이 따져서 호박잎을 쪄서",
+            "SpeakerNo": "Speaker1",
+            "StartTime": "582.82",
+            "EndTime": "585.54",
+            "SpeakerEmotionCategory": "긍정",
+            "SpeakerEmotionTarget": "기쁨",
+            "SpeakerEmotionLevel": "보통"
+        },
+        {
+            "Text": "쌈 싸 먹고 있어요",
+            "SpeakerNo": "Speaker1",
+            "StartTime": "586.88",
+            "EndTime": "588.03",
+            "SpeakerEmotionCategory": "긍정",
+            "SpeakerEmotionTarget": "기쁨",
+            "SpeakerEmotionLevel": "보통"
+        },
+        {
+            "Text": "어 보통 쌈에 무엇을 얹어서 드시나요",
+            "SpeakerNo": "Speaker2",
+            "StartTime": "589.03",
+            "EndTime": "591.77",
+            "SpeakerEmotionCategory": "긍정",
+            "SpeakerEmotionTarget": "기쁨",
+            "SpeakerEmotionLevel": "보통"
+        },
+        {
+            "Text": "아 저는 강된장을 끓여서 먹어요",
+            "SpeakerNo": "Speaker1",
+            "StartTime": "592.83",
+            "EndTime": "595.29",
+            "SpeakerEmotionCategory": "긍정",
+            "SpeakerEmotionTarget": "기쁨",
+            "SpeakerEmotionLevel": "보통"
+        },
+        {
+            "Text": "된장을",
+            "SpeakerNo": "Speaker1",
+            "StartTime": "595.81",
+            "EndTime": "596.55",
+            "SpeakerEmotionCategory": "긍정",
+            "SpeakerEmotionTarget": "기쁨",
+            "SpeakerEmotionLevel": "보통"
+        },
+        {
+            "Text": "찌라기 풀어서 각종 야채를 넣고 두 근까지 넣고 해서 자작자작하게 해서 쌈 싸 먹어요",
+            "SpeakerNo": "Speaker1",
+            "StartTime": "597.01",
+            "EndTime": "602.87",
+            "SpeakerEmotionCategory": "긍정",
+            "SpeakerEmotionTarget": "기쁨",
+            "SpeakerEmotionLevel": "보통"
+        },
+        {
+            "Text": "아 저는 쌈을 해 먹을 때 보도 보통 그 갈치 속적 있잖아요",
+            "SpeakerNo": "Speaker2",
+            "StartTime": "603.49",
+            "EndTime": "608.65",
+            "SpeakerEmotionCategory": "긍정",
+            "SpeakerEmotionTarget": "기쁨",
+            "SpeakerEmotionLevel": "보통"
+        },
+        {
+            "Text": "그 갈치 속젓을 잘게 아주 다져갖고 거기에다가 양념을 해서 그 젓국으로 싸움을 싸먹는데 정말 밥도둑이에요",
+            "SpeakerNo": "Speaker2",
+            "StartTime": "608.94",
+            "EndTime": "619.01",
+            "SpeakerEmotionCategory": "긍정",
+            "SpeakerEmotionTarget": "기쁨",
+            "SpeakerEmotionLevel": "보통"
+        },
+        {
+            "Text": "아",
+            "SpeakerNo": "Speaker1",
+            "StartTime": "609.75",
+            "EndTime": "610.12",
+            "SpeakerEmotionCategory": "긍정",
+            "SpeakerEmotionTarget": "기쁨",
+            "SpeakerEmotionLevel": "보통"
+        },
+        {
+            "Text": "사골은 얼마에요",
+            "SpeakerNo": "Speaker1",
+            "StartTime": "615.72",
+            "EndTime": "616.89",
+            "SpeakerEmotionCategory": "긍정",
+            "SpeakerEmotionTarget": "기쁨",
+            "SpeakerEmotionLevel": "보통"
+        },
+        {
+            "Text": "아 칼치 속젓 그거 냄새가 많이 안 나나요",
+            "SpeakerNo": "Speaker1",
+            "StartTime": "620.04",
+            "EndTime": "625.76",
+            "SpeakerEmotionCategory": "긍정",
+            "SpeakerEmotionTarget": "기쁨",
+            "SpeakerEmotionLevel": "보통"
+        },
+        {
+            "Text": "아우 물론 나죠 나도 먹은 다음에 양치를 두세 번 한단 있더라도",
+            "SpeakerNo": "Speaker2",
+            "StartTime": "624.52",
+            "EndTime": "631.17",
+            "SpeakerEmotionCategory": "긍정",
+            "SpeakerEmotionTarget": "기쁨",
+            "SpeakerEmotionLevel": "보통"
+        },
+        {
+            "Text": "음 이",
+            "SpeakerNo": "Speaker2",
+            "StartTime": "631.61",
+            "EndTime": "632.04",
+            "SpeakerEmotionCategory": "긍정",
+            "SpeakerEmotionTarget": "기쁨",
+            "SpeakerEmotionLevel": "보통"
+        },
+        {
+            "Text": "정말 그 맛을 버릴 수가 없어요",
+            "SpeakerNo": "Speaker2",
+            "StartTime": "632.49",
+            "EndTime": "634.79",
+            "SpeakerEmotionCategory": "긍정",
+            "SpeakerEmotionTarget": "기쁨",
+            "SpeakerEmotionLevel": "보통"
+        },
+        {
+            "Text": "아 저는 그 비린내 나는 걸 못 견디거든요 그래서 멸치젓 같은 것도 잘 안 먹어요",
+            "SpeakerNo": "Speaker1",
+            "StartTime": "635.82",
+            "EndTime": "642.71",
+            "SpeakerEmotionCategory": "긍정",
+            "SpeakerEmotionTarget": "기쁨",
+            "SpeakerEmotionLevel": "보통"
+        },
+        {
+            "Text": "그 외국에서 하늘을 보랭식을 한 번 접해보셨어요",
+            "SpeakerNo": "Speaker2",
+            "StartTime": "645.32",
+            "EndTime": "649.55",
+            "SpeakerEmotionCategory": "긍정",
+            "SpeakerEmotionTarget": "기쁨",
+            "SpeakerEmotionLevel": "보통"
+        },
+        {
+            "Text": "아뇨",
+            "SpeakerNo": "Speaker1",
+            "StartTime": "650.54",
+            "EndTime": "651.61",
+            "SpeakerEmotionCategory": "긍정",
+            "SpeakerEmotionTarget": "기쁨",
+            "SpeakerEmotionLevel": "보통"
+        },
+        {
+            "Text": "왜 불가리아라 갈아라 그 유산균이 유명하잖아요",
+            "SpeakerNo": "Speaker2",
+            "StartTime": "653.31",
+            "EndTime": "657.51",
+            "SpeakerEmotionCategory": "긍정",
+            "SpeakerEmotionTarget": "기쁨",
+            "SpeakerEmotionLevel": "보통"
+        },
+        {
+            "Text": "네",
+            "SpeakerNo": "Speaker1",
+            "StartTime": "658.56",
+            "EndTime": "660.00",
+            "SpeakerEmotionCategory": "긍정",
+            "SpeakerEmotionTarget": "기쁨",
+            "SpeakerEmotionLevel": "보통"
+        },
+        {
+            "Text": "요구르트가",
+            "SpeakerNo": "Speaker2",
+            "StartTime": "658.92",
+            "EndTime": "659.97",
+            "SpeakerEmotionCategory": "긍정",
+            "SpeakerEmotionTarget": "기쁨",
+            "SpeakerEmotionLevel": "보통"
+        },
+        {
+            "Text": "네",
+            "SpeakerNo": "Speaker1",
+            "StartTime": "660.97",
+            "EndTime": "661.63",
+            "SpeakerEmotionCategory": "긍정",
+            "SpeakerEmotionTarget": "기쁨",
+            "SpeakerEmotionLevel": "보통"
+        },
+        {
+            "Text": "그게 타르토르라는",
+            "SpeakerNo": "Speaker2",
+            "StartTime": "661.75",
+            "EndTime": "663.56",
+            "SpeakerEmotionCategory": "긍정",
+            "SpeakerEmotionTarget": "기쁨",
+            "SpeakerEmotionLevel": "보통"
+        },
+        {
+            "Text": "음",
+            "SpeakerNo": "Speaker1",
+            "StartTime": "662.23",
+            "EndTime": "662.81",
+            "SpeakerEmotionCategory": "긍정",
+            "SpeakerEmotionTarget": "기쁨",
+            "SpeakerEmotionLevel": "보통"
+        },
+        {
+            "Text": "보량식이 있대요 그 요구르트의 유산균을 이제 그 요구르트에 오이하고 견과류를 넣어서 만드는",
+            "SpeakerNo": "Speaker2",
+            "StartTime": "663.97",
+            "EndTime": "671.71",
+            "SpeakerEmotionCategory": "긍정",
+            "SpeakerEmotionTarget": "기쁨",
+            "SpeakerEmotionLevel": "보통"
+        },
+        {
+            "Text": "약간 수프 같은 거드라구여",
+            "SpeakerNo": "Speaker2",
+            "StartTime": "672.10",
+            "EndTime": "673.90",
+            "SpeakerEmotionCategory": "긍정",
+            "SpeakerEmotionTarget": "기쁨",
+            "SpeakerEmotionLevel": "보통"
+        },
+        {
+            "Text": "참 간단해 보이는데",
+            "SpeakerNo": "Speaker2",
+            "StartTime": "674.45",
+            "EndTime": "676.41",
+            "SpeakerEmotionCategory": "긍정",
+            "SpeakerEmotionTarget": "기쁨",
+            "SpeakerEmotionLevel": "보통"
+        },
+        {
+            "Text": "먹으면은",
+            "SpeakerNo": "Speaker2",
+            "StartTime": "676.66",
+            "EndTime": "677.77",
+            "SpeakerEmotionCategory": "긍정",
+            "SpeakerEmotionTarget": "기쁨",
+            "SpeakerEmotionLevel": "보통"
+        },
+        {
+            "Text": "힘이 좀 나는 거 같애요",
+            "SpeakerNo": "Speaker2",
+            "StartTime": "678.06",
+            "EndTime": "679.39",
+            "SpeakerEmotionCategory": "긍정",
+            "SpeakerEmotionTarget": "기쁨",
+            "SpeakerEmotionLevel": "보통"
+        },
+        {
+            "Text": "다섯",
+            "SpeakerNo": "Speaker1",
+            "StartTime": "678.73",
+            "EndTime": "679.04",
+            "SpeakerEmotionCategory": "긍정",
+            "SpeakerEmotionTarget": "기쁨",
+            "SpeakerEmotionLevel": "보통"
+        },
+        {
+            "Text": "화장실 가기도 참 좋구요",
+            "SpeakerNo": "Speaker2",
+            "StartTime": "679.64",
+            "EndTime": "681.73",
+            "SpeakerEmotionCategory": "긍정",
+            "SpeakerEmotionTarget": "기쁨",
+            "SpeakerEmotionLevel": "보통"
+        },
+        {
+            "Text": "아 그런 것도 드셔 보셨어요",
+            "SpeakerNo": "Speaker1",
+            "StartTime": "682.32",
+            "EndTime": "685.18",
+            "SpeakerEmotionCategory": "긍정",
+            "SpeakerEmotionTarget": "기쁨",
+            "SpeakerEmotionLevel": "보통"
+        },
+        {
+            "Text": "네레레",
+            "SpeakerNo": "Speaker2",
+            "StartTime": "685.63",
+            "EndTime": "686.35",
+            "SpeakerEmotionCategory": "긍정",
+            "SpeakerEmotionTarget": "기쁨",
+            "SpeakerEmotionLevel": "보통"
+        },
+        {
+            "Text": "아무래도 #@이름#라랑 음식만 너무 즐기다 보면은",
+            "SpeakerNo": "Speaker2",
+            "StartTime": "686.94",
+            "EndTime": "691.06",
+            "SpeakerEmotionCategory": "긍정",
+            "SpeakerEmotionTarget": "기쁨",
+            "SpeakerEmotionLevel": "보통"
+        },
+        {
+            "Text": "어 좀 식상해지잖아요",
+            "SpeakerNo": "Speaker2",
+            "StartTime": "691.51",
+            "EndTime": "693.45",
+            "SpeakerEmotionCategory": "긍정",
+            "SpeakerEmotionTarget": "기쁨",
+            "SpeakerEmotionLevel": "보통"
+        },
+        {
+            "Text": "그래서 요즘은 인터넷 찾아보면",
+            "SpeakerNo": "Speaker2",
+            "StartTime": "693.77",
+            "EndTime": "696.46",
+            "SpeakerEmotionCategory": "긍정",
+            "SpeakerEmotionTarget": "기쁨",
+            "SpeakerEmotionLevel": "보통"
+        },
+        {
+            "Text": "레시피가 너무 잘 나와 있어요",
+            "SpeakerNo": "Speaker2",
+            "StartTime": "696.71",
+            "EndTime": "698.60",
+            "SpeakerEmotionCategory": "긍정",
+            "SpeakerEmotionTarget": "기쁨",
+            "SpeakerEmotionLevel": "보통"
+        },
+        {
+            "Text": "그 레시피를 보면서",
+            "SpeakerNo": "Speaker2",
+            "StartTime": "698.82",
+            "EndTime": "700.75",
+            "SpeakerEmotionCategory": "긍정",
+            "SpeakerEmotionTarget": "기쁨",
+            "SpeakerEmotionLevel": "보통"
+        },
+        {
+            "Text": "쪼롱 이래 가깝게 만들어보기도 해요",
+            "SpeakerNo": "Speaker2",
+            "StartTime": "701.18",
+            "EndTime": "704.30",
+            "SpeakerEmotionCategory": "긍정",
+            "SpeakerEmotionTarget": "기쁨",
+            "SpeakerEmotionLevel": "보통"
+        },
+        {
+            "Text": "그러면은",
+            "SpeakerNo": "Speaker2",
+            "StartTime": "704.85",
+            "EndTime": "705.63",
+            "SpeakerEmotionCategory": "긍정",
+            "SpeakerEmotionTarget": "기쁨",
+            "SpeakerEmotionLevel": "보통"
+        },
+        {
+            "Text": "아유",
+            "SpeakerNo": "Speaker1",
+            "StartTime": "705.60",
+            "EndTime": "706.16",
+            "SpeakerEmotionCategory": "긍정",
+            "SpeakerEmotionTarget": "기쁨",
+            "SpeakerEmotionLevel": "보통"
+        },
+        {
+            "Text": "맛이 좋다고는 하는데",
+            "SpeakerNo": "Speaker2",
+            "StartTime": "705.96",
+            "EndTime": "707.78",
+            "SpeakerEmotionCategory": "긍정",
+            "SpeakerEmotionTarget": "기쁨",
+            "SpeakerEmotionLevel": "보통"
+        },
+        {
+            "Text": "음",
+            "SpeakerNo": "Speaker2",
+            "StartTime": "708.71",
+            "EndTime": "709.01",
+            "SpeakerEmotionCategory": "긍정",
+            "SpeakerEmotionTarget": "기쁨",
+            "SpeakerEmotionLevel": "보통"
+        },
+        {
+            "Text": "어쨌든 즐겨서 많이 음식을 하는 편이에요",
+            "SpeakerNo": "Speaker2",
+            "StartTime": "709.55",
+            "EndTime": "712.22",
+            "SpeakerEmotionCategory": "긍정",
+            "SpeakerEmotionTarget": "기쁨",
+            "SpeakerEmotionLevel": "보통"
+        },
+        {
+            "Text": "아 음식 하는 거 좋아하시나 봐요",
+            "SpeakerNo": "Speaker1",
+            "StartTime": "713.31",
+            "EndTime": "715.81",
+            "SpeakerEmotionCategory": "긍정",
+            "SpeakerEmotionTarget": "기쁨",
+            "SpeakerEmotionLevel": "보통"
+        },
+        {
+            "Text": "해석 세계",
+            "SpeakerNo": "Speaker1",
+            "StartTime": "716.08",
+            "EndTime": "716.44",
+            "SpeakerEmotionCategory": "긍정",
+            "SpeakerEmotionTarget": "기쁨",
+            "SpeakerEmotionLevel": "보통"
+        },
+        {
+            "Text": "네 조례래요 여러",
+            "SpeakerNo": "Speaker2",
+            "StartTime": "717.01",
+            "EndTime": "718.25",
+            "SpeakerEmotionCategory": "긍정",
+            "SpeakerEmotionTarget": "기쁨",
+            "SpeakerEmotionLevel": "보통"
+        },
+        {
+            "Text": "육",
+            "SpeakerNo": "Speaker1",
+            "StartTime": "719.25",
+            "EndTime": "719.53",
+            "SpeakerEmotionCategory": "긍정",
+            "SpeakerEmotionTarget": "기쁨",
+            "SpeakerEmotionLevel": "보통"
+        },
+        {
+            "Text": "방 좋으시겠다 음식 잘하셔서",
+            "SpeakerNo": "Speaker1",
+            "StartTime": "719.79",
+            "EndTime": "721.87",
+            "SpeakerEmotionCategory": "긍정",
+            "SpeakerEmotionTarget": "기쁨",
+            "SpeakerEmotionLevel": "보통"
+        },
+        {
+            "Text": "잘하지는 못해요 그냥 즐겨할 따름입니다",
+            "SpeakerNo": "Speaker2",
+            "StartTime": "723.46",
+            "EndTime": "726.42",
+            "SpeakerEmotionCategory": "긍정",
+            "SpeakerEmotionTarget": "기쁨",
+            "SpeakerEmotionLevel": "보통"
+        },
+        {
+            "Text": "아 그러세요 아 그럼 또 다음에 대화해요",
+            "SpeakerNo": "Speaker1",
+            "StartTime": "726.95",
+            "EndTime": "731.87",
+            "SpeakerEmotionCategory": "긍정",
+            "SpeakerEmotionTarget": "기쁨",
+            "SpeakerEmotionLevel": "보통"
+        },
+        {
+            "Text": "네 더운데 건강 조심하세요",
+            "SpeakerNo": "Speaker2",
+            "StartTime": "732.52",
+            "EndTime": "735.27",
+            "SpeakerEmotionCategory": "긍정",
+            "SpeakerEmotionTarget": "기쁨",
+            "SpeakerEmotionLevel": "보통"
+        }
+    ],
+    "ConversationInfo": {
+        "Domain": "음식",
+        "Step1Subject": "한식",
+        "Step2Subject": "보양식(삼계탕/해천탕)"
+    }
+}

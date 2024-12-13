@@ -1,0 +1,1240 @@
+{
+    "Wav": {
+        "EncodingLaw": "SignedIntegerPCM",
+        "NumberOfBit": "16",
+        "SamplingRate": "48000",
+        "NumberOfChannel": "2"
+    },
+    "File": {
+        "FileName": "2_0002G2A3_0003G2A5_T1_2D01T0030C000132_000323",
+        "FileLength": "674.81",
+        "EndOfSpeech": "674.08",
+        "SpeechLength": "669.60",
+        "BeginOfSpeech": "4.48"
+    },
+    "Noise": {
+        "Speaker1SNR": "+13dB",
+        "Speaker2SNR": "+42dB",
+        "Speaker1NoiseType": "가정 및 사무실",
+        "Speaker2NoiseType": "가정 및 사무실",
+        "Speaker1NoiseCategory": "실내",
+        "Speaker2NoiseCategory": "실내"
+    },
+    "Speaker1": {
+        "ID": "0002",
+        "Age": "30대",
+        "Mask": "미착용",
+        "Gender": "여성",
+        "Condition": "정상",
+        "RecDevice": "스마트폰",
+        "Residence": "대전/세종/충청/강원",
+        "Occupation": "전문직",
+        "AgeCategory": "성인"
+    },
+    "Speaker2": {
+        "ID": "0003",
+        "Age": "50대",
+        "Mask": "미착용",
+        "Gender": "여성",
+        "Condition": "정상",
+        "RecDevice": "스마트폰",
+        "Residence": "대전/세종/충청/강원",
+        "Occupation": "전문직",
+        "AgeCategory": "성인"
+    },
+    "Conversation": [
+        {
+            "Text": "반갑습니다",
+            "SpeakerNo": "Speaker1",
+            "StartTime": "4.48",
+            "EndTime": "5.61",
+            "SpeakerEmotionCategory": "긍정",
+            "SpeakerEmotionTarget": "기쁨",
+            "SpeakerEmotionLevel": "보통"
+        },
+        {
+            "Text": "내일 안 열어주세요",
+            "SpeakerNo": "Speaker2",
+            "StartTime": "6.98",
+            "EndTime": "8.40",
+            "SpeakerEmotionCategory": "긍정",
+            "SpeakerEmotionTarget": "놀라움",
+            "SpeakerEmotionLevel": "보통"
+        },
+        {
+            "Text": "네 잘 지내셨죠",
+            "SpeakerNo": "Speaker1",
+            "StartTime": "9.26",
+            "EndTime": "11.03",
+            "SpeakerEmotionCategory": "긍정",
+            "SpeakerEmotionTarget": "기쁨",
+            "SpeakerEmotionLevel": "보통"
+        },
+        {
+            "Text": "네 잘 지내고 있습니다",
+            "SpeakerNo": "Speaker2",
+            "StartTime": "12.56",
+            "EndTime": "14.41",
+            "SpeakerEmotionCategory": "긍정",
+            "SpeakerEmotionTarget": "놀라움",
+            "SpeakerEmotionLevel": "보통"
+        },
+        {
+            "Text": "요즘 학교에 다니는 학",
+            "SpeakerNo": "Speaker1",
+            "StartTime": "18.34",
+            "EndTime": "20.10",
+            "SpeakerEmotionCategory": "긍정",
+            "SpeakerEmotionTarget": "기쁨",
+            "SpeakerEmotionLevel": "보통"
+        },
+        {
+            "Text": "학생 있나요",
+            "SpeakerNo": "Speaker1",
+            "StartTime": "20.69",
+            "EndTime": "21.56",
+            "SpeakerEmotionCategory": "긍정",
+            "SpeakerEmotionTarget": "기쁨",
+            "SpeakerEmotionLevel": "보통"
+        },
+        {
+            "Text": "뇌를",
+            "SpeakerNo": "Speaker2",
+            "StartTime": "23.42",
+            "EndTime": "24.07",
+            "SpeakerEmotionCategory": "긍정",
+            "SpeakerEmotionTarget": "놀라움",
+            "SpeakerEmotionLevel": "보통"
+        },
+        {
+            "Text": "저는 학원에 강사로 있어서 저희 애들은 초등학교 중학교 고등학교를 다니지요",
+            "SpeakerNo": "Speaker2",
+            "StartTime": "24.47",
+            "EndTime": "31.69",
+            "SpeakerEmotionCategory": "긍정",
+            "SpeakerEmotionTarget": "놀라움",
+            "SpeakerEmotionLevel": "보통"
+        },
+        {
+            "Text": "아 그래요",
+            "SpeakerNo": "Speaker1",
+            "StartTime": "33.17",
+            "EndTime": "34.34",
+            "SpeakerEmotionCategory": "긍정",
+            "SpeakerEmotionTarget": "기쁨",
+            "SpeakerEmotionLevel": "보통"
+        },
+        {
+            "Text": "요즘 학교",
+            "SpeakerNo": "Speaker1",
+            "StartTime": "34.69",
+            "EndTime": "35.92",
+            "SpeakerEmotionCategory": "긍정",
+            "SpeakerEmotionTarget": "기쁨",
+            "SpeakerEmotionLevel": "보통"
+        },
+        {
+            "Text": "폭력이 심하다고 하던데",
+            "SpeakerNo": "Speaker1",
+            "StartTime": "36.34",
+            "EndTime": "38.29",
+            "SpeakerEmotionCategory": "긍정",
+            "SpeakerEmotionTarget": "기쁨",
+            "SpeakerEmotionLevel": "보통"
+        },
+        {
+            "Text": "얘기 들어보셨나요",
+            "SpeakerNo": "Speaker1",
+            "StartTime": "38.57",
+            "EndTime": "39.86",
+            "SpeakerEmotionCategory": "긍정",
+            "SpeakerEmotionTarget": "기쁨",
+            "SpeakerEmotionLevel": "보통"
+        },
+        {
+            "Text": "어",
+            "SpeakerNo": "Speaker2",
+            "StartTime": "41.79",
+            "EndTime": "42.52",
+            "SpeakerEmotionCategory": "긍정",
+            "SpeakerEmotionTarget": "놀라움",
+            "SpeakerEmotionLevel": "보통"
+        },
+        {
+            "Text": "진짜 정말 문제가 많은 것 같더라구요",
+            "SpeakerNo": "Speaker2",
+            "StartTime": "43.20",
+            "EndTime": "46.76",
+            "SpeakerEmotionCategory": "긍정",
+            "SpeakerEmotionTarget": "놀라움",
+            "SpeakerEmotionLevel": "보통"
+        },
+        {
+            "Text": "정말 사소하라는 데서부터",
+            "SpeakerNo": "Speaker2",
+            "StartTime": "47.29",
+            "EndTime": "49.58",
+            "SpeakerEmotionCategory": "긍정",
+            "SpeakerEmotionTarget": "놀라움",
+            "SpeakerEmotionLevel": "보통"
+        },
+        {
+            "Text": "크게는 늘은 학포기가 열린 늘은 폭력까지",
+            "SpeakerNo": "Speaker2",
+            "StartTime": "49.88",
+            "EndTime": "53.62",
+            "SpeakerEmotionCategory": "긍정",
+            "SpeakerEmotionTarget": "놀라움",
+            "SpeakerEmotionLevel": "보통"
+        },
+        {
+            "Text": "우리 아이들이 학교생활이 정말 힘든 것 같더라고요 그 피해자들은요",
+            "SpeakerNo": "Speaker2",
+            "StartTime": "55.43",
+            "EndTime": "60.73",
+            "SpeakerEmotionCategory": "긍정",
+            "SpeakerEmotionTarget": "놀라움",
+            "SpeakerEmotionLevel": "보통"
+        },
+        {
+            "Text": "아 그렇지요 제가 아는 아이는",
+            "SpeakerNo": "Speaker1",
+            "StartTime": "61.58",
+            "EndTime": "64.70",
+            "SpeakerEmotionCategory": "긍정",
+            "SpeakerEmotionTarget": "기쁨",
+            "SpeakerEmotionLevel": "보통"
+        },
+        {
+            "Text": "초등학교 육 학년인데 중학교를 몬 데로 갔어요",
+            "SpeakerNo": "Speaker1",
+            "StartTime": "65.21",
+            "EndTime": "68.54",
+            "SpeakerEmotionCategory": "긍정",
+            "SpeakerEmotionTarget": "기쁨",
+            "SpeakerEmotionLevel": "보통"
+        },
+        {
+            "Text": "중학교에 다니는 언니들이",
+            "SpeakerNo": "Speaker1",
+            "StartTime": "69.20",
+            "EndTime": "71.23",
+            "SpeakerEmotionCategory": "긍정",
+            "SpeakerEmotionTarget": "기쁨",
+            "SpeakerEmotionLevel": "보통"
+        },
+        {
+            "Text": "얘를 학폭을 했거든요",
+            "SpeakerNo": "Speaker1",
+            "StartTime": "72.75",
+            "EndTime": "74.72",
+            "SpeakerEmotionCategory": "긍정",
+            "SpeakerEmotionTarget": "기쁨",
+            "SpeakerEmotionLevel": "보통"
+        },
+        {
+            "Text": "피해자 한 발음",
+            "SpeakerNo": "Speaker2",
+            "StartTime": "77.40",
+            "EndTime": "78.34",
+            "SpeakerEmotionCategory": "긍정",
+            "SpeakerEmotionTarget": "놀라움",
+            "SpeakerEmotionLevel": "보통"
+        },
+        {
+            "Text": "네 피해자인데",
+            "SpeakerNo": "Speaker1",
+            "StartTime": "79.17",
+            "EndTime": "81.31",
+            "SpeakerEmotionCategory": "긍정",
+            "SpeakerEmotionTarget": "기쁨",
+            "SpeakerEmotionLevel": "보통"
+        },
+        {
+            "Text": "학교 가기가 무서워서 집에서 멀리 떨어진 중학교로 가게 됐어요",
+            "SpeakerNo": "Speaker1",
+            "StartTime": "81.97",
+            "EndTime": "86.59",
+            "SpeakerEmotionCategory": "긍정",
+            "SpeakerEmotionTarget": "기쁨",
+            "SpeakerEmotionLevel": "보통"
+        },
+        {
+            "Text": "어 그래서 어떻게 괜찮아졌나요",
+            "SpeakerNo": "Speaker2",
+            "StartTime": "88.14",
+            "EndTime": "90.90",
+            "SpeakerEmotionCategory": "긍정",
+            "SpeakerEmotionTarget": "놀라움",
+            "SpeakerEmotionLevel": "보통"
+        },
+        {
+            "Text": "트라우마는 안 생겼는지 모르겠어요",
+            "SpeakerNo": "Speaker2",
+            "StartTime": "91.34",
+            "EndTime": "93.57",
+            "SpeakerEmotionCategory": "긍정",
+            "SpeakerEmotionTarget": "놀라움",
+            "SpeakerEmotionLevel": "보통"
+        },
+        {
+            "Text": "트라우마는 안 생겼는데 다른 학교로 가다 보니까 친구들이 없어서 아이가 조금 삐뚤어지는 것 같더라구여",
+            "SpeakerNo": "Speaker1",
+            "StartTime": "95.01",
+            "EndTime": "102.11",
+            "SpeakerEmotionCategory": "긍정",
+            "SpeakerEmotionTarget": "기쁨",
+            "SpeakerEmotionLevel": "보통"
+        },
+        {
+            "Text": "맞죠 어쨌든 그런 일요일들이 생기면 은혜를",
+            "SpeakerNo": "Speaker2",
+            "StartTime": "104.03",
+            "EndTime": "108.37",
+            "SpeakerEmotionCategory": "긍정",
+            "SpeakerEmotionTarget": "놀라움",
+            "SpeakerEmotionLevel": "보통"
+        },
+        {
+            "Text": "일단은 해결이 된다 하더라도 남는 게 너무 맞는 것 같더라구요 특히 가해자들은 자기 잘못이 아니냐 라는 따뜻하게 다니는데",
+            "SpeakerNo": "Speaker2",
+            "StartTime": "109.55",
+            "EndTime": "120.27",
+            "SpeakerEmotionCategory": "긍정",
+            "SpeakerEmotionTarget": "놀라움",
+            "SpeakerEmotionLevel": "보통"
+        },
+        {
+            "Text": "위로 피해를 입은 애들이 전학을 가거나 피해서 살아야 되니",
+            "SpeakerNo": "Speaker2",
+            "StartTime": "120.49",
+            "EndTime": "125.09",
+            "SpeakerEmotionCategory": "긍정",
+            "SpeakerEmotionTarget": "놀라움",
+            "SpeakerEmotionLevel": "보통"
+        },
+        {
+            "Text": "참",
+            "SpeakerNo": "Speaker2",
+            "StartTime": "125.51",
+            "EndTime": "126.18",
+            "SpeakerEmotionCategory": "긍정",
+            "SpeakerEmotionTarget": "놀라움",
+            "SpeakerEmotionLevel": "보통"
+        },
+        {
+            "Text": "무서운 세상인 거 같애요",
+            "SpeakerNo": "Speaker2",
+            "StartTime": "126.40",
+            "EndTime": "128.10",
+            "SpeakerEmotionCategory": "긍정",
+            "SpeakerEmotionTarget": "놀라움",
+            "SpeakerEmotionLevel": "보통"
+        },
+        {
+            "Text": "아 네 맞아요 요즘 뉴스를 보더래도",
+            "SpeakerNo": "Speaker1",
+            "StartTime": "128.97",
+            "EndTime": "133.93",
+            "SpeakerEmotionCategory": "긍정",
+            "SpeakerEmotionTarget": "기쁨",
+            "SpeakerEmotionLevel": "보통"
+        },
+        {
+            "Text": "초등학생이 벌써 담배를 피고",
+            "SpeakerNo": "Speaker1",
+            "StartTime": "134.21",
+            "EndTime": "136.51",
+            "SpeakerEmotionCategory": "긍정",
+            "SpeakerEmotionTarget": "기쁨",
+            "SpeakerEmotionLevel": "보통"
+        },
+        {
+            "Text": "불량 청소년이 되고 하는 거를 보면 너무 가슴이 아파요",
+            "SpeakerNo": "Speaker1",
+            "StartTime": "136.87",
+            "EndTime": "140.25",
+            "SpeakerEmotionCategory": "긍정",
+            "SpeakerEmotionTarget": "기쁨",
+            "SpeakerEmotionLevel": "보통"
+        },
+        {
+            "Text": "맞아요 특히 피해 학생들의 그 심리적 불안 같은 거를 좀 해소를 시켜주고 많이 돌봐줘야 되는데 단지 처벌만 됐다고 해서 그거를 너무 쉽게 생각하는 어른들도 문제가 있는데",
+            "SpeakerNo": "Speaker2",
+            "StartTime": "142.54",
+            "EndTime": "157.55",
+            "SpeakerEmotionCategory": "긍정",
+            "SpeakerEmotionTarget": "놀라움",
+            "SpeakerEmotionLevel": "보통"
+        },
+        {
+            "Text": "똑같더라구요",
+            "SpeakerNo": "Speaker2",
+            "StartTime": "157.76",
+            "EndTime": "158.70",
+            "SpeakerEmotionCategory": "긍정",
+            "SpeakerEmotionTarget": "놀라움",
+            "SpeakerEmotionLevel": "보통"
+        },
+        {
+            "Text": "네 부모님들도 아이를 자기 아이를 다독거려서 그러지 못하게 해야 되는데 요즘 엄마들은",
+            "SpeakerNo": "Speaker1",
+            "StartTime": "159.60",
+            "EndTime": "167.44",
+            "SpeakerEmotionCategory": "긍정",
+            "SpeakerEmotionTarget": "기쁨",
+            "SpeakerEmotionLevel": "보통"
+        },
+        {
+            "Text": "별문제 아닌 것처럼 그렇게 여기는 경우가 많더라구요",
+            "SpeakerNo": "Speaker1",
+            "StartTime": "167.76",
+            "EndTime": "170.75",
+            "SpeakerEmotionCategory": "긍정",
+            "SpeakerEmotionTarget": "기쁨",
+            "SpeakerEmotionLevel": "보통"
+        },
+        {
+            "Text": "어 작년인가요 어떤 중학교에서 그 봉사활동을 다니던 애들이 그 친구들을 되게 왕따시킨 일이 있더라구요",
+            "SpeakerNo": "Speaker2",
+            "StartTime": "173.18",
+            "EndTime": "186.19",
+            "SpeakerEmotionCategory": "긍정",
+            "SpeakerEmotionTarget": "놀라움",
+            "SpeakerEmotionLevel": "보통"
+        },
+        {
+            "Text": "그래서 처음에는 봉사를 간다 해서 부모님들이 다 좋아했는데",
+            "SpeakerNo": "Speaker2",
+            "StartTime": "186.40",
+            "EndTime": "191.15",
+            "SpeakerEmotionCategory": "긍정",
+            "SpeakerEmotionTarget": "놀라움",
+            "SpeakerEmotionLevel": "보통"
+        },
+        {
+            "Text": "나중에 알고 보니까 알아 그래가 혼자 왕따를 당해 갖고",
+            "SpeakerNo": "Speaker2",
+            "StartTime": "191.55",
+            "EndTime": "196.48",
+            "SpeakerEmotionCategory": "긍정",
+            "SpeakerEmotionTarget": "놀라움",
+            "SpeakerEmotionLevel": "보통"
+        },
+        {
+            "Text": "왕따를 당하고 맨날 욕설을 이제 퍼붓는데 그거를 감당을 못해갖고 만일 일일이래",
+            "SpeakerNo": "Speaker2",
+            "StartTime": "197.00",
+            "EndTime": "204.48",
+            "SpeakerEmotionCategory": "긍정",
+            "SpeakerEmotionTarget": "놀라움",
+            "SpeakerEmotionLevel": "보통"
+        },
+        {
+            "Text": "그 뭐라고 해야 되나요 병원에서 진료 치료를 받은 적이 있다 하더라고요",
+            "SpeakerNo": "Speaker2",
+            "StartTime": "205.04",
+            "EndTime": "210.45",
+            "SpeakerEmotionCategory": "긍정",
+            "SpeakerEmotionTarget": "놀라움",
+            "SpeakerEmotionLevel": "보통"
+        },
+        {
+            "Text": "네 종종 그런 경우가 자꾸 생기는 거 같애요",
+            "SpeakerNo": "Speaker1",
+            "StartTime": "211.25",
+            "EndTime": "215.26",
+            "SpeakerEmotionCategory": "긍정",
+            "SpeakerEmotionTarget": "기쁨",
+            "SpeakerEmotionLevel": "보통"
+        },
+        {
+            "Text": "그리고 다른 사례는 또 있나요",
+            "SpeakerNo": "Speaker2",
+            "StartTime": "220.23",
+            "EndTime": "222.07",
+            "SpeakerEmotionCategory": "긍정",
+            "SpeakerEmotionTarget": "놀라움",
+            "SpeakerEmotionLevel": "보통"
+        },
+        {
+            "Text": "요즘",
+            "SpeakerNo": "Speaker1",
+            "StartTime": "223.71",
+            "EndTime": "224.69",
+            "SpeakerEmotionCategory": "긍정",
+            "SpeakerEmotionTarget": "기쁨",
+            "SpeakerEmotionLevel": "보통"
+        },
+        {
+            "Text": "보면 남학생들 사이에서 그런 경우가 많은 거 같애요 뭐 사달라고 하면 초등학교 같은 경우에는",
+            "SpeakerNo": "Speaker1",
+            "StartTime": "225.44",
+            "EndTime": "232.88",
+            "SpeakerEmotionCategory": "긍정",
+            "SpeakerEmotionTarget": "기쁨",
+            "SpeakerEmotionLevel": "보통"
+        },
+        {
+            "Text": "개를 둘러싸고 돈을 달라고 하는 경우도 종종 있는 거 같더라구요",
+            "SpeakerNo": "Speaker1",
+            "StartTime": "233.18",
+            "EndTime": "237.34",
+            "SpeakerEmotionCategory": "긍정",
+            "SpeakerEmotionTarget": "기쁨",
+            "SpeakerEmotionLevel": "보통"
+        },
+        {
+            "Text": "아 뭐 요즘 빵 셔틀 뭐 이런 거 말씀하시는 건가 봐요 그죠",
+            "SpeakerNo": "Speaker2",
+            "StartTime": "238.62",
+            "EndTime": "242.42",
+            "SpeakerEmotionCategory": "긍정",
+            "SpeakerEmotionTarget": "놀라움",
+            "SpeakerEmotionLevel": "보통"
+        },
+        {
+            "Text": "예 그런 경우가 종종 있더라구요",
+            "SpeakerNo": "Speaker1",
+            "StartTime": "243.28",
+            "EndTime": "245.75",
+            "SpeakerEmotionCategory": "긍정",
+            "SpeakerEmotionTarget": "기쁨",
+            "SpeakerEmotionLevel": "보통"
+        },
+        {
+            "Text": "그럼 보통 그런 학 복이 생기면은 학교에서는 어떻게 대처를 하나요 저희들 보면은 경찰에 신고도 하기도 하더라고요",
+            "SpeakerNo": "Speaker2",
+            "StartTime": "248.42",
+            "EndTime": "258.02",
+            "SpeakerEmotionCategory": "긍정",
+            "SpeakerEmotionTarget": "놀라움",
+            "SpeakerEmotionLevel": "보통"
+        },
+        {
+            "Text": "근데 쫌 제한적인 거 같애요",
+            "SpeakerNo": "Speaker1",
+            "StartTime": "259.71",
+            "EndTime": "262.06",
+            "SpeakerEmotionCategory": "긍정",
+            "SpeakerEmotionTarget": "기쁨",
+            "SpeakerEmotionLevel": "보통"
+        },
+        {
+            "Text": "그거를 초등학생 같은 경우에는 아직 어리다는 이유로",
+            "SpeakerNo": "Speaker1",
+            "StartTime": "262.79",
+            "EndTime": "266.95",
+            "SpeakerEmotionCategory": "긍정",
+            "SpeakerEmotionTarget": "기쁨",
+            "SpeakerEmotionLevel": "보통"
+        },
+        {
+            "Text": "아이들을 그냥 선도 하기만 하는데",
+            "SpeakerNo": "Speaker1",
+            "StartTime": "267.44",
+            "EndTime": "270.05",
+            "SpeakerEmotionCategory": "긍정",
+            "SpeakerEmotionTarget": "기쁨",
+            "SpeakerEmotionLevel": "보통"
+        },
+        {
+            "Text": "그게 고쳐지질 않더라구요 한 번 버릇이 되니까 욕 같은 경우도 그렇고",
+            "SpeakerNo": "Speaker1",
+            "StartTime": "271.35",
+            "EndTime": "276.15",
+            "SpeakerEmotionCategory": "긍정",
+            "SpeakerEmotionTarget": "기쁨",
+            "SpeakerEmotionLevel": "보통"
+        },
+        {
+            "Text": "부모님 눈이나",
+            "SpeakerNo": "Speaker1",
+            "StartTime": "276.75",
+            "EndTime": "278.13",
+            "SpeakerEmotionCategory": "긍정",
+            "SpeakerEmotionTarget": "기쁨",
+            "SpeakerEmotionLevel": "보통"
+        },
+        {
+            "Text": "아니면 어른들 눈을 피해서",
+            "SpeakerNo": "Speaker1",
+            "StartTime": "278.41",
+            "EndTime": "280.14",
+            "SpeakerEmotionCategory": "긍정",
+            "SpeakerEmotionTarget": "기쁨",
+            "SpeakerEmotionLevel": "보통"
+        },
+        {
+            "Text": "자꾸 그런 일을 저지르는 경우가 있더라구요",
+            "SpeakerNo": "Speaker1",
+            "StartTime": "280.72",
+            "EndTime": "283.12",
+            "SpeakerEmotionCategory": "긍정",
+            "SpeakerEmotionTarget": "기쁨",
+            "SpeakerEmotionLevel": "보통"
+        },
+        {
+            "Text": "그래서 요즘 오죽했으면 교실에 씨씨티비를 달자고 왜냐하면 아이들의 말이 너무 신빙성이 없다고 모르라고 치면서 그",
+            "SpeakerNo": "Speaker2",
+            "StartTime": "283.96",
+            "EndTime": "293.52",
+            "SpeakerEmotionCategory": "긍정",
+            "SpeakerEmotionTarget": "놀라움",
+            "SpeakerEmotionLevel": "보통"
+        },
+        {
+            "Text": "가래자들의 학부모님들이 쫌 그 외 빽 있잖아요 빽이 있으면은 막",
+            "SpeakerNo": "Speaker2",
+            "StartTime": "293.86",
+            "EndTime": "300.74",
+            "SpeakerEmotionCategory": "긍정",
+            "SpeakerEmotionTarget": "놀라움",
+            "SpeakerEmotionLevel": "보통"
+        },
+        {
+            "Text": "아",
+            "SpeakerNo": "Speaker1",
+            "StartTime": "297.02",
+            "EndTime": "297.47",
+            "SpeakerEmotionCategory": "긍정",
+            "SpeakerEmotionTarget": "기쁨",
+            "SpeakerEmotionLevel": "보통"
+        },
+        {
+            "Text": "피해자를 몰아붙이는 경향이 있어서",
+            "SpeakerNo": "Speaker2",
+            "StartTime": "301.12",
+            "EndTime": "304.29",
+            "SpeakerEmotionCategory": "긍정",
+            "SpeakerEmotionTarget": "놀라움",
+            "SpeakerEmotionLevel": "보통"
+        },
+        {
+            "Text": "씨씨티비를 다 제 하더라구요",
+            "SpeakerNo": "Speaker2",
+            "StartTime": "304.54",
+            "EndTime": "306.89",
+            "SpeakerEmotionCategory": "긍정",
+            "SpeakerEmotionTarget": "놀라움",
+            "SpeakerEmotionLevel": "보통"
+        },
+        {
+            "Text": "맞아요 왕따를 당한 아이들 같은 경우에는 심리적으로 많이 불안해서 여러 가지 상담을 받기도 하는데 그러다가 뭐",
+            "SpeakerNo": "Speaker1",
+            "StartTime": "307.70",
+            "EndTime": "316.72",
+            "SpeakerEmotionCategory": "긍정",
+            "SpeakerEmotionTarget": "기쁨",
+            "SpeakerEmotionLevel": "보통"
+        },
+        {
+            "Text": "극한 선택을 하는 경우도",
+            "SpeakerNo": "Speaker1",
+            "StartTime": "317.66",
+            "EndTime": "319.47",
+            "SpeakerEmotionCategory": "긍정",
+            "SpeakerEmotionTarget": "기쁨",
+            "SpeakerEmotionLevel": "보통"
+        },
+        {
+            "Text": "엉망 생기는 거 같더라구요",
+            "SpeakerNo": "Speaker1",
+            "StartTime": "319.81",
+            "EndTime": "321.51",
+            "SpeakerEmotionCategory": "긍정",
+            "SpeakerEmotionTarget": "기쁨",
+            "SpeakerEmotionLevel": "보통"
+        },
+        {
+            "Text": "아 정말 불쌍해요 뭐 저희 때만 해도 그런 게 참 뭘",
+            "SpeakerNo": "Speaker2",
+            "StartTime": "322.69",
+            "EndTime": "328.10",
+            "SpeakerEmotionCategory": "긍정",
+            "SpeakerEmotionTarget": "놀라움",
+            "SpeakerEmotionLevel": "보통"
+        },
+        {
+            "Text": "없었던 것 같은데",
+            "SpeakerNo": "Speaker2",
+            "StartTime": "328.37",
+            "EndTime": "330.23",
+            "SpeakerEmotionCategory": "긍정",
+            "SpeakerEmotionTarget": "놀라움",
+            "SpeakerEmotionLevel": "보통"
+        },
+        {
+            "Text": "어 요즘은 애들이",
+            "SpeakerNo": "Speaker2",
+            "StartTime": "330.44",
+            "EndTime": "332.50",
+            "SpeakerEmotionCategory": "긍정",
+            "SpeakerEmotionTarget": "놀라움",
+            "SpeakerEmotionLevel": "보통"
+        },
+        {
+            "Text": "어",
+            "SpeakerNo": "Speaker1",
+            "StartTime": "333.37",
+            "EndTime": "333.88",
+            "SpeakerEmotionCategory": "긍정",
+            "SpeakerEmotionTarget": "기쁨",
+            "SpeakerEmotionLevel": "보통"
+        },
+        {
+            "Text": "심리가 라라라",
+            "SpeakerNo": "Speaker2",
+            "StartTime": "333.53",
+            "EndTime": "334.65",
+            "SpeakerEmotionCategory": "긍정",
+            "SpeakerEmotionTarget": "놀라움",
+            "SpeakerEmotionLevel": "보통"
+        },
+        {
+            "Text": "도대체 이해를 못할 정도의 어떤 극한 상황까지 다다르게 되면은",
+            "SpeakerNo": "Speaker2",
+            "StartTime": "335.08",
+            "EndTime": "339.56",
+            "SpeakerEmotionCategory": "긍정",
+            "SpeakerEmotionTarget": "놀라움",
+            "SpeakerEmotionLevel": "보통"
+        },
+        {
+            "Text": "어른들도 말릴 수가 없더라구요",
+            "SpeakerNo": "Speaker2",
+            "StartTime": "339.91",
+            "EndTime": "342.47",
+            "SpeakerEmotionCategory": "긍정",
+            "SpeakerEmotionTarget": "놀라움",
+            "SpeakerEmotionLevel": "보통"
+        },
+        {
+            "Text": "어",
+            "SpeakerNo": "Speaker1",
+            "StartTime": "343.30",
+            "EndTime": "343.71",
+            "SpeakerEmotionCategory": "긍정",
+            "SpeakerEmotionTarget": "기쁨",
+            "SpeakerEmotionLevel": "보통"
+        },
+        {
+            "Text": "맞아요 지금 아이들은 부모님 눈을 속이는 거는 일도 아니에요",
+            "SpeakerNo": "Speaker1",
+            "StartTime": "343.94",
+            "EndTime": "348.76",
+            "SpeakerEmotionCategory": "긍정",
+            "SpeakerEmotionTarget": "기쁨",
+            "SpeakerEmotionLevel": "보통"
+        },
+        {
+            "Text": "그러면은",
+            "SpeakerNo": "Speaker2",
+            "StartTime": "351.27",
+            "EndTime": "352.06",
+            "SpeakerEmotionCategory": "긍정",
+            "SpeakerEmotionTarget": "놀라움",
+            "SpeakerEmotionLevel": "보통"
+        },
+        {
+            "Text": "피해자 학생들 피해자 학생들은 뭐 전학을 가거나 한다지만",
+            "SpeakerNo": "Speaker2",
+            "StartTime": "352.36",
+            "EndTime": "357.91",
+            "SpeakerEmotionCategory": "긍정",
+            "SpeakerEmotionTarget": "놀라움",
+            "SpeakerEmotionLevel": "보통"
+        },
+        {
+            "Text": "그 치료라든가 그런 거는",
+            "SpeakerNo": "Speaker2",
+            "StartTime": "358.19",
+            "EndTime": "360.42",
+            "SpeakerEmotionCategory": "긍정",
+            "SpeakerEmotionTarget": "놀라움",
+            "SpeakerEmotionLevel": "보통"
+        },
+        {
+            "Text": "나라에서 지원을 받는가요",
+            "SpeakerNo": "Speaker2",
+            "StartTime": "360.64",
+            "EndTime": "362.40",
+            "SpeakerEmotionCategory": "긍정",
+            "SpeakerEmotionTarget": "놀라움",
+            "SpeakerEmotionLevel": "보통"
+        },
+        {
+            "Text": "글쎄 그것까지는 모르겠는데 #@이름#라에서는 아직",
+            "SpeakerNo": "Speaker1",
+            "StartTime": "363.29",
+            "EndTime": "367.06",
+            "SpeakerEmotionCategory": "긍정",
+            "SpeakerEmotionTarget": "기쁨",
+            "SpeakerEmotionLevel": "보통"
+        },
+        {
+            "Text": "그렇게까지 해주지는 않는 거 같더라구요",
+            "SpeakerNo": "Speaker1",
+            "StartTime": "367.40",
+            "EndTime": "369.88",
+            "SpeakerEmotionCategory": "긍정",
+            "SpeakerEmotionTarget": "기쁨",
+            "SpeakerEmotionLevel": "보통"
+        },
+        {
+            "Text": "맞죠",
+            "SpeakerNo": "Speaker2",
+            "StartTime": "370.39",
+            "EndTime": "371.49",
+            "SpeakerEmotionCategory": "긍정",
+            "SpeakerEmotionTarget": "놀라움",
+            "SpeakerEmotionLevel": "보통"
+        },
+        {
+            "Text": "일단은 제가 생각할 때는 만약에 그런 사례가 생기면 이래는 좀 부모님들이 나서서 빨리 일일이 학교에 상담도 하고 그래야 될 거 같아요",
+            "SpeakerNo": "Speaker2",
+            "StartTime": "372.02",
+            "EndTime": "382.96",
+            "SpeakerEmotionCategory": "긍정",
+            "SpeakerEmotionTarget": "놀라움",
+            "SpeakerEmotionLevel": "보통"
+        },
+        {
+            "Text": "그렇지요 부모님들이 아이들에게 무엇이 잘못됐는지를 설명을 하면서 과학적으로 하기보다는",
+            "SpeakerNo": "Speaker1",
+            "StartTime": "384.78",
+            "EndTime": "392.16",
+            "SpeakerEmotionCategory": "긍정",
+            "SpeakerEmotionTarget": "기쁨",
+            "SpeakerEmotionLevel": "보통"
+        },
+        {
+            "Text": "애기들 많이",
+            "SpeakerNo": "Speaker1",
+            "StartTime": "392.53",
+            "EndTime": "393.38",
+            "SpeakerEmotionCategory": "긍정",
+            "SpeakerEmotionTarget": "기쁨",
+            "SpeakerEmotionLevel": "보통"
+        },
+        {
+            "Text": "대화를 많이 나눠야 될 거 같애요",
+            "SpeakerNo": "Speaker1",
+            "StartTime": "393.68",
+            "EndTime": "395.63",
+            "SpeakerEmotionCategory": "긍정",
+            "SpeakerEmotionTarget": "기쁨",
+            "SpeakerEmotionLevel": "보통"
+        },
+        {
+            "Text": "맞아요 일단은 저는 그렇게 생각해요 이제 요즘은 자녀와의 대화가 잘 없잖아요 많이 줄어들고 자녀와 대화를 많이 가짐으로 해서 그 자녀의 말에 공감을 해주고 지지를",
+            "SpeakerNo": "Speaker2",
+            "StartTime": "397.04",
+            "EndTime": "412.02",
+            "SpeakerEmotionCategory": "긍정",
+            "SpeakerEmotionTarget": "놀라움",
+            "SpeakerEmotionLevel": "보통"
+        },
+        {
+            "Text": "해줘야 된다고 생각해요 어우 니가 잘못했으니까 그런 일이 생기지 이렇게 얘기를 해버리면은 어 정말 부모님한테 다시는 자기한테 일어날 일들을 얘기하기 싫어할 것 같아요",
+            "SpeakerNo": "Speaker2",
+            "StartTime": "412.23",
+            "EndTime": "425.34",
+            "SpeakerEmotionCategory": "긍정",
+            "SpeakerEmotionTarget": "놀라움",
+            "SpeakerEmotionLevel": "보통"
+        },
+        {
+            "Text": "네 그것도 맞는 말인 거 같애요 요새 너무 아이들이 게임이나 이런 거에",
+            "SpeakerNo": "Speaker1",
+            "StartTime": "426.66",
+            "EndTime": "432.45",
+            "SpeakerEmotionCategory": "긍정",
+            "SpeakerEmotionTarget": "기쁨",
+            "SpeakerEmotionLevel": "보통"
+        },
+        {
+            "Text": "중독이 되다 보니까 현실 세계와",
+            "SpeakerNo": "Speaker1",
+            "StartTime": "433.45",
+            "EndTime": "435.96",
+            "SpeakerEmotionCategory": "긍정",
+            "SpeakerEmotionTarget": "기쁨",
+            "SpeakerEmotionLevel": "보통"
+        },
+        {
+            "Text": "그 의거를 구분을 제대로 못하는 경우도 있는 거 같아요",
+            "SpeakerNo": "Speaker1",
+            "StartTime": "436.54",
+            "EndTime": "439.77",
+            "SpeakerEmotionCategory": "긍정",
+            "SpeakerEmotionTarget": "기쁨",
+            "SpeakerEmotionLevel": "보통"
+        },
+        {
+            "Text": "맞아요 너무 잔 그",
+            "SpeakerNo": "Speaker2",
+            "StartTime": "441.15",
+            "EndTime": "443.58",
+            "SpeakerEmotionCategory": "긍정",
+            "SpeakerEmotionTarget": "놀라움",
+            "SpeakerEmotionLevel": "보통"
+        },
+        {
+            "Text": "잔인하고 폭력적인 게임들이 너무 많더라고요 저는 그 우리 애들이 쉬는 시간에 게임을 이렇게 핸드폰으로 하거든요 그 게임을 보고 깜짝 놀랐어요 정말 잔인하게 아무렇지도 않게 초로 사람을",
+            "SpeakerNo": "Speaker2",
+            "StartTime": "443.84",
+            "EndTime": "458.87",
+            "SpeakerEmotionCategory": "긍정",
+            "SpeakerEmotionTarget": "놀라움",
+            "SpeakerEmotionLevel": "보통"
+        },
+        {
+            "Text": "그래서 오고 초고 아무리 저기로 하지만 칼로 막 무차별하게 그 가래를 저지를 때는요 어우 정말 끔찍하더라고요 아무리 게임이지만 그런 게 생활 속에 묻어나니까",
+            "SpeakerNo": "Speaker2",
+            "StartTime": "459.08",
+            "EndTime": "473.67",
+            "SpeakerEmotionCategory": "긍정",
+            "SpeakerEmotionTarget": "놀라움",
+            "SpeakerEmotionLevel": "보통"
+        },
+        {
+            "Text": "마치 현실에서도 그렇게 해도 된다라고 애들이 생각을 하는 것 같애요",
+            "SpeakerNo": "Speaker2",
+            "StartTime": "473.93",
+            "EndTime": "478.22",
+            "SpeakerEmotionCategory": "긍정",
+            "SpeakerEmotionTarget": "놀라움",
+            "SpeakerEmotionLevel": "보통"
+        },
+        {
+            "Text": "맞아요 요즘 피 학생들을 보면은",
+            "SpeakerNo": "Speaker1",
+            "StartTime": "479.11",
+            "EndTime": "482.47",
+            "SpeakerEmotionCategory": "긍정",
+            "SpeakerEmotionTarget": "기쁨",
+            "SpeakerEmotionLevel": "보통"
+        },
+        {
+            "Text": "아이들이 뱃장도 없고 겁이 많은 아이들이 툭툭 건드려서 얘가 약하다고 판단하면 괴롭힘을 시작하게 되거든요 특히 남자애들 경우에는 이런 게 심한 것 같아요 나보다 약하다고 하는 아이들을",
+            "SpeakerNo": "Speaker1",
+            "StartTime": "483.25",
+            "EndTime": "496.51",
+            "SpeakerEmotionCategory": "긍정",
+            "SpeakerEmotionTarget": "기쁨",
+            "SpeakerEmotionLevel": "보통"
+        },
+        {
+            "Text": "더",
+            "SpeakerNo": "Speaker1",
+            "StartTime": "497.06",
+            "EndTime": "497.53",
+            "SpeakerEmotionCategory": "긍정",
+            "SpeakerEmotionTarget": "기쁨",
+            "SpeakerEmotionLevel": "보통"
+        },
+        {
+            "Text": "왕따를 시키는 거 같더라구요",
+            "SpeakerNo": "Speaker1",
+            "StartTime": "497.77",
+            "EndTime": "499.49",
+            "SpeakerEmotionCategory": "긍정",
+            "SpeakerEmotionTarget": "기쁨",
+            "SpeakerEmotionLevel": "보통"
+        },
+        {
+            "Text": "맞아요 그리고 가에 학생 쪽에서도 좀 생각을 좀 달리 해야 될 것 같아요",
+            "SpeakerNo": "Speaker2",
+            "StartTime": "500.57",
+            "EndTime": "506.78",
+            "SpeakerEmotionCategory": "긍정",
+            "SpeakerEmotionTarget": "놀라움",
+            "SpeakerEmotionLevel": "보통"
+        },
+        {
+            "Text": "내 차 시동 안 그렇다",
+            "SpeakerNo": "Speaker2",
+            "StartTime": "507.12",
+            "EndTime": "509.02",
+            "SpeakerEmotionCategory": "긍정",
+            "SpeakerEmotionTarget": "놀라움",
+            "SpeakerEmotionLevel": "보통"
+        },
+        {
+            "Text": "내 아이는 절대 그런 일이 없다라면서 부정을 하거나 잘못을 인정하지는 못하는 데서부터 일단은 애들도 그것을 보고",
+            "SpeakerNo": "Speaker2",
+            "StartTime": "509.40",
+            "EndTime": "520.15",
+            "SpeakerEmotionCategory": "긍정",
+            "SpeakerEmotionTarget": "놀라움",
+            "SpeakerEmotionLevel": "보통"
+        },
+        {
+            "Text": "어 그래 내가 뭐가 잘못했어 이런 생각을 하면은 그 피해 받은 학생한테 진정한 사과가 되겠나요",
+            "SpeakerNo": "Speaker2",
+            "StartTime": "520.37",
+            "EndTime": "527.13",
+            "SpeakerEmotionCategory": "긍정",
+            "SpeakerEmotionTarget": "놀라움",
+            "SpeakerEmotionLevel": "보통"
+        },
+        {
+            "Text": "그렇지요 요즘 또 너무 나댄다고 하는 아이들도",
+            "SpeakerNo": "Speaker1",
+            "StartTime": "527.99",
+            "EndTime": "532.08",
+            "SpeakerEmotionCategory": "긍정",
+            "SpeakerEmotionTarget": "기쁨",
+            "SpeakerEmotionLevel": "보통"
+        },
+        {
+            "Text": "왕따를 당하는 거 같아요",
+            "SpeakerNo": "Speaker1",
+            "StartTime": "533.07",
+            "EndTime": "534.71",
+            "SpeakerEmotionCategory": "긍정",
+            "SpeakerEmotionTarget": "기쁨",
+            "SpeakerEmotionLevel": "보통"
+        },
+        {
+            "Text": "뭐 잘난 척한다고 하면서",
+            "SpeakerNo": "Speaker1",
+            "StartTime": "535.04",
+            "EndTime": "536.92",
+            "SpeakerEmotionCategory": "긍정",
+            "SpeakerEmotionTarget": "기쁨",
+            "SpeakerEmotionLevel": "보통"
+        },
+        {
+            "Text": "응집을 하거나",
+            "SpeakerNo": "Speaker1",
+            "StartTime": "538.56",
+            "EndTime": "539.82",
+            "SpeakerEmotionCategory": "긍정",
+            "SpeakerEmotionTarget": "기쁨",
+            "SpeakerEmotionLevel": "보통"
+        },
+        {
+            "Text": "그러는 경우도 종종 있드라구여",
+            "SpeakerNo": "Speaker1",
+            "StartTime": "540.22",
+            "EndTime": "542.08",
+            "SpeakerEmotionCategory": "긍정",
+            "SpeakerEmotionTarget": "기쁨",
+            "SpeakerEmotionLevel": "보통"
+        },
+        {
+            "Text": "중용이 없는 거 같애요 잘라도 타시고 못 나도 타시고",
+            "SpeakerNo": "Speaker2",
+            "StartTime": "544.13",
+            "EndTime": "548.82",
+            "SpeakerEmotionCategory": "긍정",
+            "SpeakerEmotionTarget": "놀라움",
+            "SpeakerEmotionLevel": "보통"
+        },
+        {
+            "Text": "정말 우리 아이들이 살아가는 이 세상이 어떨지 참 앞으로가 더 걱정이 돼요",
+            "SpeakerNo": "Speaker2",
+            "StartTime": "549.09",
+            "EndTime": "555.53",
+            "SpeakerEmotionCategory": "긍정",
+            "SpeakerEmotionTarget": "놀라움",
+            "SpeakerEmotionLevel": "보통"
+        },
+        {
+            "Text": "저기 맞아요 그런 것 같아요 아이가 너무 약하거나 굽이 많다고 해서",
+            "SpeakerNo": "Speaker1",
+            "StartTime": "556.32",
+            "EndTime": "560.92",
+            "SpeakerEmotionCategory": "긍정",
+            "SpeakerEmotionTarget": "기쁨",
+            "SpeakerEmotionLevel": "보통"
+        },
+        {
+            "Text": "걔네들을 왕따 시키고 하면은 걔네들은 살 자리가 없는 거 같아요",
+            "SpeakerNo": "Speaker1",
+            "StartTime": "563.00",
+            "EndTime": "566.80",
+            "SpeakerEmotionCategory": "긍정",
+            "SpeakerEmotionTarget": "기쁨",
+            "SpeakerEmotionLevel": "보통"
+        },
+        {
+            "Text": "오죽했으면 부모들이 그런 왕자나 폭력을 안양하기 위해서 복싱 학원을 보낸다거나 태권도 학원을 보내서 그냥 스포츠가 아닌",
+            "SpeakerNo": "Speaker2",
+            "StartTime": "567.56",
+            "EndTime": "578.64",
+            "SpeakerEmotionCategory": "긍정",
+            "SpeakerEmotionTarget": "놀라움",
+            "SpeakerEmotionLevel": "보통"
+        },
+        {
+            "Text": "나 불은",
+            "SpeakerNo": "Speaker2",
+            "StartTime": "579.24",
+            "EndTime": "579.94",
+            "SpeakerEmotionCategory": "긍정",
+            "SpeakerEmotionTarget": "놀라움",
+            "SpeakerEmotionLevel": "보통"
+        },
+        {
+            "Text": "음",
+            "SpeakerNo": "Speaker1",
+            "StartTime": "579.46",
+            "EndTime": "579.80",
+            "SpeakerEmotionCategory": "긍정",
+            "SpeakerEmotionTarget": "기쁨",
+            "SpeakerEmotionLevel": "보통"
+        },
+        {
+            "Text": "이제 피해를 받을 때 이제 응징하려고 하는 나라 방어를 하는데 목적으로 그런 데를 보내겠어요",
+            "SpeakerNo": "Speaker2",
+            "StartTime": "580.44",
+            "EndTime": "587.50",
+            "SpeakerEmotionCategory": "긍정",
+            "SpeakerEmotionTarget": "놀라움",
+            "SpeakerEmotionLevel": "보통"
+        },
+        {
+            "Text": "음 그런 거 같애요 그래서 요즘 맘따",
+            "SpeakerNo": "Speaker1",
+            "StartTime": "588.32",
+            "EndTime": "592.37",
+            "SpeakerEmotionCategory": "긍정",
+            "SpeakerEmotionTarget": "기쁨",
+            "SpeakerEmotionLevel": "보통"
+        },
+        {
+            "Text": "를 강화는 그 가야 학생들을 보면은",
+            "SpeakerNo": "Speaker1",
+            "StartTime": "593.19",
+            "EndTime": "596.27",
+            "SpeakerEmotionCategory": "긍정",
+            "SpeakerEmotionTarget": "기쁨",
+            "SpeakerEmotionLevel": "보통"
+        },
+        {
+            "Text": "집 밖에 있는 시간이 너무 많거나 또는 친구들과 휴대폰을 주고받는 경우가 많은 경우에",
+            "SpeakerNo": "Speaker1",
+            "StartTime": "596.66",
+            "EndTime": "601.55",
+            "SpeakerEmotionCategory": "긍정",
+            "SpeakerEmotionTarget": "기쁨",
+            "SpeakerEmotionLevel": "보통"
+        },
+        {
+            "Text": "더 그런 거 같아요",
+            "SpeakerNo": "Speaker1",
+            "StartTime": "602.17",
+            "EndTime": "603.54",
+            "SpeakerEmotionCategory": "긍정",
+            "SpeakerEmotionTarget": "기쁨",
+            "SpeakerEmotionLevel": "보통"
+        },
+        {
+            "Text": "그래요 저희도 보면은 학원이 끝나면은 보통 아홉 시에서 열 시 사이가 되거든요 어 그때 바로 집에 안 들어가서 학부모님한테 전화가 올 때도 있어요 그럼 나중에 알고 보면 애들끼리 모여서 뭐 놀다 갔다 피시방이 들렸다 하는데",
+            "SpeakerNo": "Speaker2",
+            "StartTime": "604.65",
+            "EndTime": "619.68",
+            "SpeakerEmotionCategory": "긍정",
+            "SpeakerEmotionTarget": "놀라움",
+            "SpeakerEmotionLevel": "보통"
+        },
+        {
+            "Text": "어 가정에서 애들을 많이 이렇게 어 돌보는 것도 중요할 것 같아요",
+            "SpeakerNo": "Speaker2",
+            "StartTime": "619.89",
+            "EndTime": "627.81",
+            "SpeakerEmotionCategory": "긍정",
+            "SpeakerEmotionTarget": "놀라움",
+            "SpeakerEmotionLevel": "보통"
+        },
+        {
+            "Text": "맞아요 초등학생에게 너무 소리치면 몰아붙이는 경우도 안 된다고 하더라고요",
+            "SpeakerNo": "Speaker1",
+            "StartTime": "628.62",
+            "EndTime": "633.64",
+            "SpeakerEmotionCategory": "긍정",
+            "SpeakerEmotionTarget": "기쁨",
+            "SpeakerEmotionLevel": "보통"
+        },
+        {
+            "Text": "맞아요 공부가 다는 아닌 것 같더라고요 그래서 저희들도 학습을 할 때 되도록이면 공부도 중요하지만 인성에 많이 신경을 써요 그리고 선배들의 경험담을 얘기해주면서 너희들은 이런 생활을 하면 안 된다",
+            "SpeakerNo": "Speaker2",
+            "StartTime": "636.71",
+            "EndTime": "651.66",
+            "SpeakerEmotionCategory": "긍정",
+            "SpeakerEmotionTarget": "놀라움",
+            "SpeakerEmotionLevel": "보통"
+        },
+        {
+            "Text": "이렇게 하면 좋다라고 많이 홍대도 하지여어",
+            "SpeakerNo": "Speaker2",
+            "StartTime": "651.87",
+            "EndTime": "654.68",
+            "SpeakerEmotionCategory": "긍정",
+            "SpeakerEmotionTarget": "놀라움",
+            "SpeakerEmotionLevel": "보통"
+        },
+        {
+            "Text": "맞아요 그렇게 하면",
+            "SpeakerNo": "Speaker1",
+            "StartTime": "655.48",
+            "EndTime": "657.80",
+            "SpeakerEmotionCategory": "긍정",
+            "SpeakerEmotionTarget": "기쁨",
+            "SpeakerEmotionLevel": "보통"
+        },
+        {
+            "Text": "좋아질 거 같애요",
+            "SpeakerNo": "Speaker1",
+            "StartTime": "658.09",
+            "EndTime": "659.31",
+            "SpeakerEmotionCategory": "긍정",
+            "SpeakerEmotionTarget": "기쁨",
+            "SpeakerEmotionLevel": "보통"
+        },
+        {
+            "Text": "그래요 적어도 우리 아이들이 사는 세상이 정말 아름답고 행복했으면 좋겠어요",
+            "SpeakerNo": "Speaker2",
+            "StartTime": "659.87",
+            "EndTime": "666.13",
+            "SpeakerEmotionCategory": "긍정",
+            "SpeakerEmotionTarget": "놀라움",
+            "SpeakerEmotionLevel": "보통"
+        },
+        {
+            "Text": "음 저도 그렇게 생각해요 대화 즐거웠어요",
+            "SpeakerNo": "Speaker1",
+            "StartTime": "667.00",
+            "EndTime": "670.37",
+            "SpeakerEmotionCategory": "긍정",
+            "SpeakerEmotionTarget": "기쁨",
+            "SpeakerEmotionLevel": "보통"
+        },
+        {
+            "Text": "네 다음에 또 봬요",
+            "SpeakerNo": "Speaker2",
+            "StartTime": "670.70",
+            "EndTime": "672.68",
+            "SpeakerEmotionCategory": "긍정",
+            "SpeakerEmotionTarget": "놀라움",
+            "SpeakerEmotionLevel": "보통"
+        },
+        {
+            "Text": "넷",
+            "SpeakerNo": "Speaker1",
+            "StartTime": "673.45",
+            "EndTime": "674.08",
+            "SpeakerEmotionCategory": "긍정",
+            "SpeakerEmotionTarget": "기쁨",
+            "SpeakerEmotionLevel": "보통"
+        }
+    ],
+    "ConversationInfo": {
+        "Domain": "교육/학문",
+        "Step1Subject": "학교 생활",
+        "Step2Subject": "학교폭력/왕따"
+    }
+}

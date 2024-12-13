@@ -1,0 +1,2068 @@
+{
+    "Wav": {
+        "EncodingLaw": "SignedIntegerPCM",
+        "NumberOfBit": "16",
+        "SamplingRate": "48000",
+        "NumberOfChannel": "2"
+    },
+    "File": {
+        "FileName": "2_0002G2A3_0003G2A5_T1_2D02T0058C000224_000309",
+        "FileLength": "729.08",
+        "EndOfSpeech": "729.08",
+        "SpeechLength": "723.64",
+        "BeginOfSpeech": "5.44"
+    },
+    "Noise": {
+        "Speaker1SNR": "+11dB",
+        "Speaker2SNR": "+42dB",
+        "Speaker1NoiseType": "가정 및 사무실",
+        "Speaker2NoiseType": "가정 및 사무실",
+        "Speaker1NoiseCategory": "실내",
+        "Speaker2NoiseCategory": "실내"
+    },
+    "Speaker1": {
+        "ID": "0002",
+        "Age": "30대",
+        "Mask": "미착용",
+        "Gender": "여성",
+        "Condition": "정상",
+        "RecDevice": "스마트폰",
+        "Residence": "대전/세종/충청/강원",
+        "Occupation": "전문직",
+        "AgeCategory": "성인"
+    },
+    "Speaker2": {
+        "ID": "0003",
+        "Age": "50대",
+        "Mask": "미착용",
+        "Gender": "여성",
+        "Condition": "정상",
+        "RecDevice": "스마트폰",
+        "Residence": "대전/세종/충청/강원",
+        "Occupation": "전문직",
+        "AgeCategory": "성인"
+    },
+    "Conversation": [
+        {
+            "Text": "안녕하세요",
+            "SpeakerNo": "Speaker1",
+            "StartTime": "5.44",
+            "EndTime": "6.80",
+            "SpeakerEmotionCategory": "긍정",
+            "SpeakerEmotionTarget": "기쁨",
+            "SpeakerEmotionLevel": "보통"
+        },
+        {
+            "Text": "장갑",
+            "SpeakerNo": "Speaker1",
+            "StartTime": "9.32",
+            "EndTime": "9.67",
+            "SpeakerEmotionCategory": "긍정",
+            "SpeakerEmotionTarget": "기쁨",
+            "SpeakerEmotionLevel": "보통"
+        },
+        {
+            "Text": "잘 지내세요",
+            "SpeakerNo": "Speaker2",
+            "StartTime": "9.72",
+            "EndTime": "10.89",
+            "SpeakerEmotionCategory": "긍정",
+            "SpeakerEmotionTarget": "기쁨",
+            "SpeakerEmotionLevel": "보통"
+        },
+        {
+            "Text": "네 잘 지내고 있어요",
+            "SpeakerNo": "Speaker1",
+            "StartTime": "10.89",
+            "EndTime": "13.23",
+            "SpeakerEmotionCategory": "긍정",
+            "SpeakerEmotionTarget": "기쁨",
+            "SpeakerEmotionLevel": "보통"
+        },
+        {
+            "Text": "요즘 티비 많이 보시나요",
+            "SpeakerNo": "Speaker1",
+            "StartTime": "14.79",
+            "EndTime": "16.47",
+            "SpeakerEmotionCategory": "긍정",
+            "SpeakerEmotionTarget": "기쁨",
+            "SpeakerEmotionLevel": "보통"
+        },
+        {
+            "Text": "네 티비 많이 보죠오",
+            "SpeakerNo": "Speaker2",
+            "StartTime": "19.34",
+            "EndTime": "21.19",
+            "SpeakerEmotionCategory": "긍정",
+            "SpeakerEmotionTarget": "기쁨",
+            "SpeakerEmotionLevel": "보통"
+        },
+        {
+            "Text": "변수가 있다는 이야기입니다",
+            "SpeakerNo": "Speaker1",
+            "StartTime": "21.10",
+            "EndTime": "21.91",
+            "SpeakerEmotionCategory": "긍정",
+            "SpeakerEmotionTarget": "기쁨",
+            "SpeakerEmotionLevel": "보통"
+        },
+        {
+            "Text": "주로 어떤 음악 프로를 많이 보시나요",
+            "SpeakerNo": "Speaker1",
+            "StartTime": "22.72",
+            "EndTime": "25.11",
+            "SpeakerEmotionCategory": "긍정",
+            "SpeakerEmotionTarget": "기쁨",
+            "SpeakerEmotionLevel": "보통"
+        },
+        {
+            "Text": "음 저는 예능 프로그램은 다 좋아하거든요",
+            "SpeakerNo": "Speaker2",
+            "StartTime": "28.17",
+            "EndTime": "31.19",
+            "SpeakerEmotionCategory": "긍정",
+            "SpeakerEmotionTarget": "기쁨",
+            "SpeakerEmotionLevel": "보통"
+        },
+        {
+            "Text": "그래서 음악 프로그램도",
+            "SpeakerNo": "Speaker2",
+            "StartTime": "31.41",
+            "EndTime": "33.87",
+            "SpeakerEmotionCategory": "긍정",
+            "SpeakerEmotionTarget": "기쁨",
+            "SpeakerEmotionLevel": "보통"
+        },
+        {
+            "Text": "뭐 가리지 않고 많이 보는데",
+            "SpeakerNo": "Speaker2",
+            "StartTime": "34.30",
+            "EndTime": "36.78",
+            "SpeakerEmotionCategory": "긍정",
+            "SpeakerEmotionTarget": "기쁨",
+            "SpeakerEmotionLevel": "보통"
+        },
+        {
+            "Text": "전에는 복면가발도 참 많이 봤어요",
+            "SpeakerNo": "Speaker2",
+            "StartTime": "37.32",
+            "EndTime": "40.08",
+            "SpeakerEmotionCategory": "긍정",
+            "SpeakerEmotionTarget": "기쁨",
+            "SpeakerEmotionLevel": "보통"
+        },
+        {
+            "Text": "아 그러셨어요",
+            "SpeakerNo": "Speaker1",
+            "StartTime": "41.65",
+            "EndTime": "43.53",
+            "SpeakerEmotionCategory": "긍정",
+            "SpeakerEmotionTarget": "기쁨",
+            "SpeakerEmotionLevel": "보통"
+        },
+        {
+            "Text": "저는",
+            "SpeakerNo": "Speaker1",
+            "StartTime": "43.78",
+            "EndTime": "45.09",
+            "SpeakerEmotionCategory": "긍정",
+            "SpeakerEmotionTarget": "기쁨",
+            "SpeakerEmotionLevel": "보통"
+        },
+        {
+            "Text": "트로트 가수들 나오는 프로그램을 자주 봤어요 옛날에 미스터 트롯부터 시작해서 미스터 트롯까지요",
+            "SpeakerNo": "Speaker1",
+            "StartTime": "45.84",
+            "EndTime": "52.14",
+            "SpeakerEmotionCategory": "긍정",
+            "SpeakerEmotionTarget": "기쁨",
+            "SpeakerEmotionLevel": "보통"
+        },
+        {
+            "Text": "맞아요 거기에서 정말 많은 가수들이 배추 유명한 가수들이 많이 배출됐죠 그죠 저는 거기에서 #@이름#을 너무 좋아해요",
+            "SpeakerNo": "Speaker2",
+            "StartTime": "56.01",
+            "EndTime": "65.08",
+            "SpeakerEmotionCategory": "긍정",
+            "SpeakerEmotionTarget": "기쁨",
+            "SpeakerEmotionLevel": "보통"
+        },
+        {
+            "Text": "아 #@이름#을 왜 좋아하시나요",
+            "SpeakerNo": "Speaker1",
+            "StartTime": "65.05",
+            "EndTime": "67.70",
+            "SpeakerEmotionCategory": "긍정",
+            "SpeakerEmotionTarget": "기쁨",
+            "SpeakerEmotionLevel": "보통"
+        },
+        {
+            "Text": "어 목소리가 너무 좋잖아요 그리고 노래에 혼이 담겨있어요 아 정말 막 생각만 해도 지금 너무너무 짐 짜릿해요",
+            "SpeakerNo": "Speaker2",
+            "StartTime": "69.66",
+            "EndTime": "81.42",
+            "SpeakerEmotionCategory": "긍정",
+            "SpeakerEmotionTarget": "기쁨",
+            "SpeakerEmotionLevel": "보통"
+        },
+        {
+            "Text": "이",
+            "SpeakerNo": "Speaker1",
+            "StartTime": "70.08",
+            "EndTime": "70.39",
+            "SpeakerEmotionCategory": "긍정",
+            "SpeakerEmotionTarget": "기쁨",
+            "SpeakerEmotionLevel": "보통"
+        },
+        {
+            "Text": "이제",
+            "SpeakerNo": "Speaker1",
+            "StartTime": "77.44",
+            "EndTime": "77.72",
+            "SpeakerEmotionCategory": "긍정",
+            "SpeakerEmotionTarget": "기쁨",
+            "SpeakerEmotionLevel": "보통"
+        },
+        {
+            "Text": "아 그러세요 저는 이천 원이 좋던데요",
+            "SpeakerNo": "Speaker1",
+            "StartTime": "81.37",
+            "EndTime": "85.56",
+            "SpeakerEmotionCategory": "긍정",
+            "SpeakerEmotionTarget": "기쁨",
+            "SpeakerEmotionLevel": "보통"
+        },
+        {
+            "Text": "이 찬 거는 왜 좋아하시는데요",
+            "SpeakerNo": "Speaker2",
+            "StartTime": "87.51",
+            "EndTime": "89.83",
+            "SpeakerEmotionCategory": "긍정",
+            "SpeakerEmotionTarget": "기쁨",
+            "SpeakerEmotionLevel": "보통"
+        },
+        {
+            "Text": "이천 원은 목소리가 구수하고",
+            "SpeakerNo": "Speaker1",
+            "StartTime": "89.78",
+            "EndTime": "92.30",
+            "SpeakerEmotionCategory": "긍정",
+            "SpeakerEmotionTarget": "기쁨",
+            "SpeakerEmotionLevel": "보통"
+        },
+        {
+            "Text": "차돌이가 귀엽잖아요",
+            "SpeakerNo": "Speaker1",
+            "StartTime": "92.55",
+            "EndTime": "94.61",
+            "SpeakerEmotionCategory": "긍정",
+            "SpeakerEmotionTarget": "기쁨",
+            "SpeakerEmotionLevel": "보통"
+        },
+        {
+            "Text": "아 써먹기 되는",
+            "SpeakerNo": "Speaker1",
+            "StartTime": "96.71",
+            "EndTime": "97.64",
+            "SpeakerEmotionCategory": "긍정",
+            "SpeakerEmotionTarget": "기쁨",
+            "SpeakerEmotionLevel": "보통"
+        },
+        {
+            "Text": "맞아요 귀엽게는 생겼죠 우리 입력은 좀 잘생기지 않았나요",
+            "SpeakerNo": "Speaker2",
+            "StartTime": "97.79",
+            "EndTime": "102.67",
+            "SpeakerEmotionCategory": "긍정",
+            "SpeakerEmotionTarget": "기쁨",
+            "SpeakerEmotionLevel": "보통"
+        },
+        {
+            "Text": "아 우리 임용용용이요",
+            "SpeakerNo": "Speaker1",
+            "StartTime": "102.64",
+            "EndTime": "104.57",
+            "SpeakerEmotionCategory": "긍정",
+            "SpeakerEmotionTarget": "기쁨",
+            "SpeakerEmotionLevel": "보통"
+        },
+        {
+            "Text": "정말 좋아하시나 봐요",
+            "SpeakerNo": "Speaker1",
+            "StartTime": "105.58",
+            "EndTime": "106.98",
+            "SpeakerEmotionCategory": "긍정",
+            "SpeakerEmotionTarget": "기쁨",
+            "SpeakerEmotionLevel": "보통"
+        },
+        {
+            "Text": "그럼요 영어 시대에도 가입을 했는데요",
+            "SpeakerNo": "Speaker2",
+            "StartTime": "109.01",
+            "EndTime": "111.69",
+            "SpeakerEmotionCategory": "긍정",
+            "SpeakerEmotionTarget": "기쁨",
+            "SpeakerEmotionLevel": "보통"
+        },
+        {
+            "Text": "아 팬카페에도 가입하셨어요",
+            "SpeakerNo": "Speaker1",
+            "StartTime": "111.71",
+            "EndTime": "114.40",
+            "SpeakerEmotionCategory": "긍정",
+            "SpeakerEmotionTarget": "기쁨",
+            "SpeakerEmotionLevel": "보통"
+        },
+        {
+            "Text": "저는 그 정도는 아닌데요",
+            "SpeakerNo": "Speaker1",
+            "StartTime": "114.87",
+            "EndTime": "116.50",
+            "SpeakerEmotionCategory": "긍정",
+            "SpeakerEmotionTarget": "기쁨",
+            "SpeakerEmotionLevel": "보통"
+        },
+        {
+            "Text": "그러면",
+            "SpeakerNo": "Speaker2",
+            "StartTime": "116.37",
+            "EndTime": "116.88",
+            "SpeakerEmotionCategory": "긍정",
+            "SpeakerEmotionTarget": "기쁨",
+            "SpeakerEmotionLevel": "보통"
+        },
+        {
+            "Text": "확실한 덕질을 하고 있어요",
+            "SpeakerNo": "Speaker2",
+            "StartTime": "119.33",
+            "EndTime": "121.43",
+            "SpeakerEmotionCategory": "긍정",
+            "SpeakerEmotionTarget": "기쁨",
+            "SpeakerEmotionLevel": "보통"
+        },
+        {
+            "Text": "아 그러시구나",
+            "SpeakerNo": "Speaker1",
+            "StartTime": "121.37",
+            "EndTime": "123.36",
+            "SpeakerEmotionCategory": "긍정",
+            "SpeakerEmotionTarget": "기쁨",
+            "SpeakerEmotionLevel": "보통"
+        },
+        {
+            "Text": "또 따뜻한 가수 좋아하는 가수 있나요",
+            "SpeakerNo": "Speaker1",
+            "StartTime": "123.93",
+            "EndTime": "125.87",
+            "SpeakerEmotionCategory": "긍정",
+            "SpeakerEmotionTarget": "기쁨",
+            "SpeakerEmotionLevel": "보통"
+        },
+        {
+            "Text": "음",
+            "SpeakerNo": "Speaker1",
+            "StartTime": "127.20",
+            "EndTime": "127.48",
+            "SpeakerEmotionCategory": "긍정",
+            "SpeakerEmotionTarget": "기쁨",
+            "SpeakerEmotionLevel": "보통"
+        },
+        {
+            "Text": "네 #@이름#은 참 좋아해요",
+            "SpeakerNo": "Speaker2",
+            "StartTime": "128.78",
+            "EndTime": "130.85",
+            "SpeakerEmotionCategory": "긍정",
+            "SpeakerEmotionTarget": "기쁨",
+            "SpeakerEmotionLevel": "보통"
+        },
+        {
+            "Text": "아 홍#@이름#요",
+            "SpeakerNo": "Speaker1",
+            "StartTime": "132.06",
+            "EndTime": "133.42",
+            "SpeakerEmotionCategory": "긍정",
+            "SpeakerEmotionTarget": "기쁨",
+            "SpeakerEmotionLevel": "보통"
+        },
+        {
+            "Text": "홍#@이름# 요즘 자주 안 나오잖아요",
+            "SpeakerNo": "Speaker1",
+            "StartTime": "134.65",
+            "EndTime": "136.58",
+            "SpeakerEmotionCategory": "긍정",
+            "SpeakerEmotionTarget": "기쁨",
+            "SpeakerEmotionLevel": "보통"
+        },
+        {
+            "Text": "네 그때 그 학교 때문인가 좀 문제가 있었거든요 그래서 그때 이후로 많이 못 나오고 있어요",
+            "SpeakerNo": "Speaker2",
+            "StartTime": "138.52",
+            "EndTime": "149.80",
+            "SpeakerEmotionCategory": "긍정",
+            "SpeakerEmotionTarget": "기쁨",
+            "SpeakerEmotionLevel": "보통"
+        },
+        {
+            "Text": "이",
+            "SpeakerNo": "Speaker1",
+            "StartTime": "141.94",
+            "EndTime": "142.24",
+            "SpeakerEmotionCategory": "긍정",
+            "SpeakerEmotionTarget": "기쁨",
+            "SpeakerEmotionLevel": "보통"
+        },
+        {
+            "Text": "그",
+            "SpeakerNo": "Speaker1",
+            "StartTime": "149.73",
+            "EndTime": "150.20",
+            "SpeakerEmotionCategory": "긍정",
+            "SpeakerEmotionTarget": "기쁨",
+            "SpeakerEmotionLevel": "보통"
+        },
+        {
+            "Text": "참 안타깝죠 노래를 참 잘하는데",
+            "SpeakerNo": "Speaker2",
+            "StartTime": "150.09",
+            "EndTime": "152.53",
+            "SpeakerEmotionCategory": "긍정",
+            "SpeakerEmotionTarget": "기쁨",
+            "SpeakerEmotionLevel": "보통"
+        },
+        {
+            "Text": "어 그렇기는 하지요",
+            "SpeakerNo": "Speaker1",
+            "StartTime": "152.49",
+            "EndTime": "154.70",
+            "SpeakerEmotionCategory": "긍정",
+            "SpeakerEmotionTarget": "기쁨",
+            "SpeakerEmotionLevel": "보통"
+        },
+        {
+            "Text": "장#@이름# 저는 #@이름#을 좋아하거든요 떡",
+            "SpeakerNo": "Speaker1",
+            "StartTime": "155.14",
+            "EndTime": "157.90",
+            "SpeakerEmotionCategory": "긍정",
+            "SpeakerEmotionTarget": "기쁨",
+            "SpeakerEmotionLevel": "보통"
+        },
+        {
+            "Text": "내면적인",
+            "SpeakerNo": "Speaker1",
+            "StartTime": "159.32",
+            "EndTime": "159.95",
+            "SpeakerEmotionCategory": "긍정",
+            "SpeakerEmotionTarget": "기쁨",
+            "SpeakerEmotionLevel": "보통"
+        },
+        {
+            "Text": "티브이 보여서 올라오는 거죠",
+            "SpeakerNo": "Speaker1",
+            "StartTime": "160.56",
+            "EndTime": "161.40",
+            "SpeakerEmotionCategory": "긍정",
+            "SpeakerEmotionTarget": "기쁨",
+            "SpeakerEmotionLevel": "보통"
+        },
+        {
+            "Text": "맞아요 걔는 그",
+            "SpeakerNo": "Speaker2",
+            "StartTime": "162.16",
+            "EndTime": "164.72",
+            "SpeakerEmotionCategory": "긍정",
+            "SpeakerEmotionTarget": "기쁨",
+            "SpeakerEmotionLevel": "보통"
+        },
+        {
+            "Text": "최종",
+            "SpeakerNo": "Speaker1",
+            "StartTime": "164.38",
+            "EndTime": "164.75",
+            "SpeakerEmotionCategory": "긍정",
+            "SpeakerEmotionTarget": "기쁨",
+            "SpeakerEmotionLevel": "보통"
+        },
+        {
+            "Text": "남편부터 애들까지 모두 티브이 프로그램에 나오더라구요",
+            "SpeakerNo": "Speaker2",
+            "StartTime": "164.96",
+            "EndTime": "169.35",
+            "SpeakerEmotionCategory": "긍정",
+            "SpeakerEmotionTarget": "기쁨",
+            "SpeakerEmotionLevel": "보통"
+        },
+        {
+            "Text": "참 연예인은 할만한가 봐요 자식들까지 그 어린 나이에 티비에 나오고 맞죠",
+            "SpeakerNo": "Speaker2",
+            "StartTime": "170.12",
+            "EndTime": "175.96",
+            "SpeakerEmotionCategory": "긍정",
+            "SpeakerEmotionTarget": "기쁨",
+            "SpeakerEmotionLevel": "보통"
+        },
+        {
+            "Text": "아 그렇죠 그중에서 #@이름#가 너무 귀엽더라구요",
+            "SpeakerNo": "Speaker1",
+            "StartTime": "175.61",
+            "EndTime": "179.70",
+            "SpeakerEmotionCategory": "긍정",
+            "SpeakerEmotionTarget": "기쁨",
+            "SpeakerEmotionLevel": "보통"
+        },
+        {
+            "Text": "맞아요 연예인들은 너무 똑똑하구요",
+            "SpeakerNo": "Speaker2",
+            "StartTime": "182.14",
+            "EndTime": "184.88",
+            "SpeakerEmotionCategory": "긍정",
+            "SpeakerEmotionTarget": "기쁨",
+            "SpeakerEmotionLevel": "보통"
+        },
+        {
+            "Text": "아",
+            "SpeakerNo": "Speaker1",
+            "StartTime": "184.89",
+            "EndTime": "185.63",
+            "SpeakerEmotionCategory": "긍정",
+            "SpeakerEmotionTarget": "기쁨",
+            "SpeakerEmotionLevel": "보통"
+        },
+        {
+            "Text": "작년 여름은 참 복도 많은 거 같애요 돈도 잘 벌고 자식들도 귀엽고 예쁘고 그렇지요",
+            "SpeakerNo": "Speaker1",
+            "StartTime": "186.45",
+            "EndTime": "193.35",
+            "SpeakerEmotionCategory": "긍정",
+            "SpeakerEmotionTarget": "기쁨",
+            "SpeakerEmotionLevel": "보통"
+        },
+        {
+            "Text": "그렇긴 한데 그 친정에 좀 안 좋은 일이 있어서 그게 참 안타깝더라구요",
+            "SpeakerNo": "Speaker2",
+            "StartTime": "194.95",
+            "EndTime": "201.95",
+            "SpeakerEmotionCategory": "긍정",
+            "SpeakerEmotionTarget": "기쁨",
+            "SpeakerEmotionLevel": "보통"
+        },
+        {
+            "Text": "음 그렇기는 하지요",
+            "SpeakerNo": "Speaker1",
+            "StartTime": "201.63",
+            "EndTime": "203.96",
+            "SpeakerEmotionCategory": "긍정",
+            "SpeakerEmotionTarget": "기쁨",
+            "SpeakerEmotionLevel": "보통"
+        },
+        {
+            "Text": "십",
+            "SpeakerNo": "Speaker1",
+            "StartTime": "205.81",
+            "EndTime": "206.15",
+            "SpeakerEmotionCategory": "긍정",
+            "SpeakerEmotionTarget": "기쁨",
+            "SpeakerEmotionLevel": "보통"
+        },
+        {
+            "Text": "장윤정 노래 어떤 걸 좋아하세요",
+            "SpeakerNo": "Speaker2",
+            "StartTime": "205.85",
+            "EndTime": "208.18",
+            "SpeakerEmotionCategory": "긍정",
+            "SpeakerEmotionTarget": "기쁨",
+            "SpeakerEmotionLevel": "보통"
+        },
+        {
+            "Text": "저는 옛날에",
+            "SpeakerNo": "Speaker1",
+            "StartTime": "208.29",
+            "EndTime": "210.36",
+            "SpeakerEmotionCategory": "긍정",
+            "SpeakerEmotionTarget": "기쁨",
+            "SpeakerEmotionLevel": "보통"
+        },
+        {
+            "Text": "어머나를 좋아했거든요",
+            "SpeakerNo": "Speaker1",
+            "StartTime": "211.11",
+            "EndTime": "213.24",
+            "SpeakerEmotionCategory": "긍정",
+            "SpeakerEmotionTarget": "기쁨",
+            "SpeakerEmotionLevel": "보통"
+        },
+        {
+            "Text": "아 어머나요",
+            "SpeakerNo": "Speaker2",
+            "StartTime": "217.40",
+            "EndTime": "218.77",
+            "SpeakerEmotionCategory": "긍정",
+            "SpeakerEmotionTarget": "기쁨",
+            "SpeakerEmotionLevel": "보통"
+        },
+        {
+            "Text": "네네",
+            "SpeakerNo": "Speaker1",
+            "StartTime": "218.38",
+            "EndTime": "219.38",
+            "SpeakerEmotionCategory": "긍정",
+            "SpeakerEmotionTarget": "기쁨",
+            "SpeakerEmotionLevel": "보통"
+        },
+        {
+            "Text": "어",
+            "SpeakerNo": "Speaker1",
+            "StartTime": "222.33",
+            "EndTime": "222.79",
+            "SpeakerEmotionCategory": "긍정",
+            "SpeakerEmotionTarget": "기쁨",
+            "SpeakerEmotionLevel": "보통"
+        },
+        {
+            "Text": "그리고 다른 노래는요",
+            "SpeakerNo": "Speaker2",
+            "StartTime": "224.89",
+            "EndTime": "226.25",
+            "SpeakerEmotionCategory": "긍정",
+            "SpeakerEmotionTarget": "기쁨",
+            "SpeakerEmotionLevel": "보통"
+        },
+        {
+            "Text": "다른 노래는 요새 새로 나온 건가 목표에",
+            "SpeakerNo": "Speaker1",
+            "StartTime": "226.23",
+            "EndTime": "229.53",
+            "SpeakerEmotionCategory": "긍정",
+            "SpeakerEmotionTarget": "기쁨",
+            "SpeakerEmotionLevel": "보통"
+        },
+        {
+            "Text": "마랑열찬가 그 노래 있던데 그 노래도 참 괜찮은 거 같애요",
+            "SpeakerNo": "Speaker1",
+            "StartTime": "229.87",
+            "EndTime": "233.51",
+            "SpeakerEmotionCategory": "긍정",
+            "SpeakerEmotionTarget": "기쁨",
+            "SpeakerEmotionLevel": "보통"
+        },
+        {
+            "Text": "맞아요 하튼 간에 그 리를",
+            "SpeakerNo": "Speaker2",
+            "StartTime": "235.30",
+            "EndTime": "238.70",
+            "SpeakerEmotionCategory": "긍정",
+            "SpeakerEmotionTarget": "기쁨",
+            "SpeakerEmotionLevel": "보통"
+        },
+        {
+            "Text": "개 노래는 아무래도 그 대중적으로 참 편하게 들을 수 있는 노랜 거 같애요",
+            "SpeakerNo": "Speaker2",
+            "StartTime": "241.01",
+            "EndTime": "247.75",
+            "SpeakerEmotionCategory": "긍정",
+            "SpeakerEmotionTarget": "기쁨",
+            "SpeakerEmotionLevel": "보통"
+        },
+        {
+            "Text": "저는 옛날에 #@이름#도 좋아했어요",
+            "SpeakerNo": "Speaker2",
+            "StartTime": "248.34",
+            "EndTime": "251.24",
+            "SpeakerEmotionCategory": "긍정",
+            "SpeakerEmotionTarget": "기쁨",
+            "SpeakerEmotionLevel": "보통"
+        },
+        {
+            "Text": "박#@이름#요",
+            "SpeakerNo": "Speaker1",
+            "StartTime": "253.67",
+            "EndTime": "254.64",
+            "SpeakerEmotionCategory": "긍정",
+            "SpeakerEmotionTarget": "기쁨",
+            "SpeakerEmotionLevel": "보통"
+        },
+        {
+            "Text": "네 네",
+            "SpeakerNo": "Speaker2",
+            "StartTime": "256.27",
+            "EndTime": "256.91",
+            "SpeakerEmotionCategory": "긍정",
+            "SpeakerEmotionTarget": "기쁨",
+            "SpeakerEmotionLevel": "보통"
+        },
+        {
+            "Text": "충분한 기간을",
+            "SpeakerNo": "Speaker1",
+            "StartTime": "257.56",
+            "EndTime": "258.08",
+            "SpeakerEmotionCategory": "긍정",
+            "SpeakerEmotionTarget": "기쁨",
+            "SpeakerEmotionLevel": "보통"
+        },
+        {
+            "Text": "박현빈 노래 어떤 노래 좋아하셨는데요",
+            "SpeakerNo": "Speaker1",
+            "StartTime": "260.74",
+            "EndTime": "263.33",
+            "SpeakerEmotionCategory": "긍정",
+            "SpeakerEmotionTarget": "기쁨",
+            "SpeakerEmotionLevel": "보통"
+        },
+        {
+            "Text": "그 왜 #@이름# 들이 부른 노래 있잖아요 어 제목이 지금 당장 생각이 안 나는데",
+            "SpeakerNo": "Speaker2",
+            "StartTime": "266.73",
+            "EndTime": "273.44",
+            "SpeakerEmotionCategory": "긍정",
+            "SpeakerEmotionTarget": "기쁨",
+            "SpeakerEmotionLevel": "보통"
+        },
+        {
+            "Text": "어 그",
+            "SpeakerNo": "Speaker2",
+            "StartTime": "273.72",
+            "EndTime": "274.93",
+            "SpeakerEmotionCategory": "긍정",
+            "SpeakerEmotionTarget": "기쁨",
+            "SpeakerEmotionLevel": "보통"
+        },
+        {
+            "Text": "오빠 한 펌",
+            "SpeakerNo": "Speaker2",
+            "StartTime": "276.35",
+            "EndTime": "277.22",
+            "SpeakerEmotionCategory": "긍정",
+            "SpeakerEmotionTarget": "기쁨",
+            "SpeakerEmotionLevel": "보통"
+        },
+        {
+            "Text": "바라봐 있잖아 왜에에에",
+            "SpeakerNo": "Speaker2",
+            "StartTime": "277.71",
+            "EndTime": "279.26",
+            "SpeakerEmotionCategory": "긍정",
+            "SpeakerEmotionTarget": "기쁨",
+            "SpeakerEmotionLevel": "보통"
+        },
+        {
+            "Text": "족발 한 번 믿어봐야 하는 거여",
+            "SpeakerNo": "Speaker1",
+            "StartTime": "278.99",
+            "EndTime": "280.56",
+            "SpeakerEmotionCategory": "긍정",
+            "SpeakerEmotionTarget": "기쁨",
+            "SpeakerEmotionLevel": "보통"
+        },
+        {
+            "Text": "그 무슨 노래죠 제목이",
+            "SpeakerNo": "Speaker2",
+            "StartTime": "279.60",
+            "EndTime": "280.89",
+            "SpeakerEmotionCategory": "긍정",
+            "SpeakerEmotionTarget": "기쁨",
+            "SpeakerEmotionLevel": "보통"
+        },
+        {
+            "Text": "아 이래 이래 오빠 한번 믿어봐 맞아요",
+            "SpeakerNo": "Speaker2",
+            "StartTime": "281.84",
+            "EndTime": "284.53",
+            "SpeakerEmotionCategory": "긍정",
+            "SpeakerEmotionTarget": "기쁨",
+            "SpeakerEmotionLevel": "보통"
+        },
+        {
+            "Text": "아 클리닉",
+            "SpeakerNo": "Speaker1",
+            "StartTime": "284.62",
+            "EndTime": "285.63",
+            "SpeakerEmotionCategory": "긍정",
+            "SpeakerEmotionTarget": "기쁨",
+            "SpeakerEmotionLevel": "보통"
+        },
+        {
+            "Text": "자",
+            "SpeakerNo": "Speaker2",
+            "StartTime": "284.89",
+            "EndTime": "285.19",
+            "SpeakerEmotionCategory": "긍정",
+            "SpeakerEmotionTarget": "기쁨",
+            "SpeakerEmotionLevel": "보통"
+        },
+        {
+            "Text": "에 아 뭔가 아무래도",
+            "SpeakerNo": "Speaker2",
+            "StartTime": "285.51",
+            "EndTime": "287.41",
+            "SpeakerEmotionCategory": "긍정",
+            "SpeakerEmotionTarget": "기쁨",
+            "SpeakerEmotionLevel": "보통"
+        },
+        {
+            "Text": "그 노래 신발 좀",
+            "SpeakerNo": "Speaker1",
+            "StartTime": "286.04",
+            "EndTime": "287.46",
+            "SpeakerEmotionCategory": "긍정",
+            "SpeakerEmotionTarget": "기쁨",
+            "SpeakerEmotionLevel": "보통"
+        },
+        {
+            "Text": "예 호감형 남자들의 가수를 좋아하는 것 같아요",
+            "SpeakerNo": "Speaker2",
+            "StartTime": "288.94",
+            "EndTime": "294.10",
+            "SpeakerEmotionCategory": "긍정",
+            "SpeakerEmotionTarget": "기쁨",
+            "SpeakerEmotionLevel": "보통"
+        },
+        {
+            "Text": "그래서 우리 아저씨가 싫어해요",
+            "SpeakerNo": "Speaker2",
+            "StartTime": "294.56",
+            "EndTime": "296.15",
+            "SpeakerEmotionCategory": "긍정",
+            "SpeakerEmotionTarget": "기쁨",
+            "SpeakerEmotionLevel": "보통"
+        },
+        {
+            "Text": "아 그렇구나 잘생긴 사람만 좋아하나 봐요",
+            "SpeakerNo": "Speaker1",
+            "StartTime": "296.10",
+            "EndTime": "298.91",
+            "SpeakerEmotionCategory": "긍정",
+            "SpeakerEmotionTarget": "기쁨",
+            "SpeakerEmotionLevel": "보통"
+        },
+        {
+            "Text": "박현미는 잘생겼기보다는 좀",
+            "SpeakerNo": "Speaker2",
+            "StartTime": "302.77",
+            "EndTime": "305.14",
+            "SpeakerEmotionCategory": "긍정",
+            "SpeakerEmotionTarget": "기쁨",
+            "SpeakerEmotionLevel": "보통"
+        },
+        {
+            "Text": "뭐라고 해야 좀 버터 같지 않나요",
+            "SpeakerNo": "Speaker2",
+            "StartTime": "306.98",
+            "EndTime": "308.88",
+            "SpeakerEmotionCategory": "긍정",
+            "SpeakerEmotionTarget": "기쁨",
+            "SpeakerEmotionLevel": "보통"
+        },
+        {
+            "Text": "허 그런가요",
+            "SpeakerNo": "Speaker1",
+            "StartTime": "309.44",
+            "EndTime": "311.18",
+            "SpeakerEmotionCategory": "긍정",
+            "SpeakerEmotionTarget": "기쁨",
+            "SpeakerEmotionLevel": "보통"
+        },
+        {
+            "Text": "아",
+            "SpeakerNo": "Speaker1",
+            "StartTime": "312.79",
+            "EndTime": "313.69",
+            "SpeakerEmotionCategory": "긍정",
+            "SpeakerEmotionTarget": "기쁨",
+            "SpeakerEmotionLevel": "보통"
+        },
+        {
+            "Text": "네 그러면은 매워요",
+            "SpeakerNo": "Speaker1",
+            "StartTime": "314.80",
+            "EndTime": "315.98",
+            "SpeakerEmotionCategory": "긍정",
+            "SpeakerEmotionTarget": "기쁨",
+            "SpeakerEmotionLevel": "보통"
+        },
+        {
+            "Text": "옛날 트로트 가수로는 어떤 가수들을 좋아하세요",
+            "SpeakerNo": "Speaker2",
+            "StartTime": "315.99",
+            "EndTime": "318.74",
+            "SpeakerEmotionCategory": "긍정",
+            "SpeakerEmotionTarget": "기쁨",
+            "SpeakerEmotionLevel": "보통"
+        },
+        {
+            "Text": "저는 #@이름#를 좋아했어요",
+            "SpeakerNo": "Speaker1",
+            "StartTime": "318.50",
+            "EndTime": "321.93",
+            "SpeakerEmotionCategory": "긍정",
+            "SpeakerEmotionTarget": "기쁨",
+            "SpeakerEmotionLevel": "보통"
+        },
+        {
+            "Text": "피드",
+            "SpeakerNo": "Speaker1",
+            "StartTime": "322.59",
+            "EndTime": "322.86",
+            "SpeakerEmotionCategory": "긍정",
+            "SpeakerEmotionTarget": "기쁨",
+            "SpeakerEmotionLevel": "보통"
+        },
+        {
+            "Text": "알아 알아 나오나 알아 알아",
+            "SpeakerNo": "Speaker2",
+            "StartTime": "323.57",
+            "EndTime": "325.21",
+            "SpeakerEmotionCategory": "긍정",
+            "SpeakerEmotionTarget": "기쁨",
+            "SpeakerEmotionLevel": "보통"
+        },
+        {
+            "Text": "정말 멋있는 사람이래요 그러어",
+            "SpeakerNo": "Speaker2",
+            "StartTime": "325.48",
+            "EndTime": "327.60",
+            "SpeakerEmotionCategory": "긍정",
+            "SpeakerEmotionTarget": "기쁨",
+            "SpeakerEmotionLevel": "보통"
+        },
+        {
+            "Text": "가격은",
+            "SpeakerNo": "Speaker1",
+            "StartTime": "326.71",
+            "EndTime": "327.17",
+            "SpeakerEmotionCategory": "긍정",
+            "SpeakerEmotionTarget": "기쁨",
+            "SpeakerEmotionLevel": "보통"
+        },
+        {
+            "Text": "어 그런 거 같애요",
+            "SpeakerNo": "Speaker1",
+            "StartTime": "327.71",
+            "EndTime": "329.64",
+            "SpeakerEmotionCategory": "긍정",
+            "SpeakerEmotionTarget": "기쁨",
+            "SpeakerEmotionLevel": "보통"
+        },
+        {
+            "Text": "라는 거예요",
+            "SpeakerNo": "Speaker1",
+            "StartTime": "329.88",
+            "EndTime": "330.24",
+            "SpeakerEmotionCategory": "긍정",
+            "SpeakerEmotionTarget": "기쁨",
+            "SpeakerEmotionLevel": "보통"
+        },
+        {
+            "Text": "저는 #@이름#도 너무 좋더라구요",
+            "SpeakerNo": "Speaker2",
+            "StartTime": "333.33",
+            "EndTime": "336.20",
+            "SpeakerEmotionCategory": "긍정",
+            "SpeakerEmotionTarget": "기쁨",
+            "SpeakerEmotionLevel": "보통"
+        },
+        {
+            "Text": "아 요즘 #@이름#씨 티비에 많이 나오던데요",
+            "SpeakerNo": "Speaker1",
+            "StartTime": "336.20",
+            "EndTime": "339.54",
+            "SpeakerEmotionCategory": "긍정",
+            "SpeakerEmotionTarget": "기쁨",
+            "SpeakerEmotionLevel": "보통"
+        },
+        {
+            "Text": "예 그 화려한 의상 옷을 입고 아모르파트 노래를 부를 때면은 어 정말 막 심취되는 거 있죠 제가 #@이름#가 되는 그런 느낌이에요",
+            "SpeakerNo": "Speaker2",
+            "StartTime": "341.23",
+            "EndTime": "352.55",
+            "SpeakerEmotionCategory": "긍정",
+            "SpeakerEmotionTarget": "기쁨",
+            "SpeakerEmotionLevel": "보통"
+        },
+        {
+            "Text": "여기 있어요",
+            "SpeakerNo": "Speaker1",
+            "StartTime": "347.01",
+            "EndTime": "347.55",
+            "SpeakerEmotionCategory": "긍정",
+            "SpeakerEmotionTarget": "기쁨",
+            "SpeakerEmotionLevel": "보통"
+        },
+        {
+            "Text": "아 #@이름# 씨 노래 진짜 잘 부르지요 목청도 끝내 주잖아요",
+            "SpeakerNo": "Speaker1",
+            "StartTime": "352.56",
+            "EndTime": "357.68",
+            "SpeakerEmotionCategory": "긍정",
+            "SpeakerEmotionTarget": "기쁨",
+            "SpeakerEmotionLevel": "보통"
+        },
+        {
+            "Text": "어우 어떻게 그렇게 노래를 잘 부르는지 모르겠어요 전에 왜 #@이름#랑 #@이름#라는 게 따라라라",
+            "SpeakerNo": "Speaker2",
+            "StartTime": "360.80",
+            "EndTime": "367.63",
+            "SpeakerEmotionCategory": "긍정",
+            "SpeakerEmotionTarget": "기쁨",
+            "SpeakerEmotionLevel": "보통"
+        },
+        {
+            "Text": "수분들은 그 뛰어지고 그러는데 허 정말 화고해서 어쩔 줄 몰랐어요",
+            "SpeakerNo": "Speaker2",
+            "StartTime": "367.87",
+            "EndTime": "374.85",
+            "SpeakerEmotionCategory": "긍정",
+            "SpeakerEmotionTarget": "기쁨",
+            "SpeakerEmotionLevel": "보통"
+        },
+        {
+            "Text": "아 그러셨구나",
+            "SpeakerNo": "Speaker1",
+            "StartTime": "374.92",
+            "EndTime": "377.05",
+            "SpeakerEmotionCategory": "긍정",
+            "SpeakerEmotionTarget": "기쁨",
+            "SpeakerEmotionLevel": "보통"
+        },
+        {
+            "Text": "또 옛날 가수 좋아하시는 분 있나요",
+            "SpeakerNo": "Speaker1",
+            "StartTime": "377.87",
+            "EndTime": "380.13",
+            "SpeakerEmotionCategory": "긍정",
+            "SpeakerEmotionTarget": "기쁨",
+            "SpeakerEmotionLevel": "보통"
+        },
+        {
+            "Text": "어 옛날에 가수들은 조항 도도 조가 되려고 하잖아요",
+            "SpeakerNo": "Speaker2",
+            "StartTime": "382.15",
+            "EndTime": "385.82",
+            "SpeakerEmotionCategory": "긍정",
+            "SpeakerEmotionTarget": "기쁨",
+            "SpeakerEmotionLevel": "보통"
+        },
+        {
+            "Text": "아 그러세요",
+            "SpeakerNo": "Speaker1",
+            "StartTime": "385.85",
+            "EndTime": "387.76",
+            "SpeakerEmotionCategory": "긍정",
+            "SpeakerEmotionTarget": "기쁨",
+            "SpeakerEmotionLevel": "보통"
+        },
+        {
+            "Text": "조항 주시 어떤 노래가 좋은데요",
+            "SpeakerNo": "Speaker1",
+            "StartTime": "388.27",
+            "EndTime": "390.30",
+            "SpeakerEmotionCategory": "긍정",
+            "SpeakerEmotionTarget": "기쁨",
+            "SpeakerEmotionLevel": "보통"
+        },
+        {
+            "Text": "조왕조 혹시 좋아하세요",
+            "SpeakerNo": "Speaker2",
+            "StartTime": "392.93",
+            "EndTime": "394.84",
+            "SpeakerEmotionCategory": "긍정",
+            "SpeakerEmotionTarget": "기쁨",
+            "SpeakerEmotionLevel": "보통"
+        },
+        {
+            "Text": "조항 주시 여러분",
+            "SpeakerNo": "Speaker1",
+            "StartTime": "395.84",
+            "EndTime": "396.91",
+            "SpeakerEmotionCategory": "긍정",
+            "SpeakerEmotionTarget": "기쁨",
+            "SpeakerEmotionLevel": "보통"
+        },
+        {
+            "Text": "그냥 듣기는 해여",
+            "SpeakerNo": "Speaker1",
+            "StartTime": "397.16",
+            "EndTime": "398.38",
+            "SpeakerEmotionCategory": "긍정",
+            "SpeakerEmotionTarget": "기쁨",
+            "SpeakerEmotionLevel": "보통"
+        },
+        {
+            "Text": "일에",
+            "SpeakerNo": "Speaker2",
+            "StartTime": "398.33",
+            "EndTime": "398.69",
+            "SpeakerEmotionCategory": "긍정",
+            "SpeakerEmotionTarget": "기쁨",
+            "SpeakerEmotionLevel": "보통"
+        },
+        {
+            "Text": "음 왜 거짓말이라는 노래 있잖아요 우리 이#@이름#가 부르기도 했는데 조왕조를 따라가지는 못해요",
+            "SpeakerNo": "Speaker2",
+            "StartTime": "400.47",
+            "EndTime": "408.38",
+            "SpeakerEmotionCategory": "긍정",
+            "SpeakerEmotionTarget": "기쁨",
+            "SpeakerEmotionLevel": "보통"
+        },
+        {
+            "Text": "아 그렇구나 저는 가수 #@이름# 씨도 좋아해요",
+            "SpeakerNo": "Speaker1",
+            "StartTime": "408.34",
+            "EndTime": "413.50",
+            "SpeakerEmotionCategory": "긍정",
+            "SpeakerEmotionTarget": "기쁨",
+            "SpeakerEmotionLevel": "보통"
+        },
+        {
+            "Text": "제가 삼십 사 일 만에",
+            "SpeakerNo": "Speaker1",
+            "StartTime": "414.53",
+            "EndTime": "415.94",
+            "SpeakerEmotionCategory": "긍정",
+            "SpeakerEmotionTarget": "기쁨",
+            "SpeakerEmotionLevel": "보통"
+        },
+        {
+            "Text": "어우 #@이름#씨는 트롯에 왜 여왕이라 하잖아요",
+            "SpeakerNo": "Speaker2",
+            "StartTime": "415.82",
+            "EndTime": "419.44",
+            "SpeakerEmotionCategory": "긍정",
+            "SpeakerEmotionTarget": "기쁨",
+            "SpeakerEmotionLevel": "보통"
+        },
+        {
+            "Text": "팔찌 정도 들어가요",
+            "SpeakerNo": "Speaker1",
+            "StartTime": "419.43",
+            "EndTime": "420.56",
+            "SpeakerEmotionCategory": "긍정",
+            "SpeakerEmotionTarget": "기쁨",
+            "SpeakerEmotionLevel": "보통"
+        },
+        {
+            "Text": "네 맞아요",
+            "SpeakerNo": "Speaker1",
+            "StartTime": "420.79",
+            "EndTime": "422.36",
+            "SpeakerEmotionCategory": "긍정",
+            "SpeakerEmotionTarget": "기쁨",
+            "SpeakerEmotionLevel": "보통"
+        },
+        {
+            "Text": "이 미자에 여자 일생 노래를 들으면 나도 모르게 눈물이 나더라구요",
+            "SpeakerNo": "Speaker1",
+            "StartTime": "422.74",
+            "EndTime": "427.26",
+            "SpeakerEmotionCategory": "긍정",
+            "SpeakerEmotionTarget": "기쁨",
+            "SpeakerEmotionLevel": "보통"
+        },
+        {
+            "Text": "맞죠 그 여자애 일생을 #@이름#이가 부르기도 했어요 들어보셨어요",
+            "SpeakerNo": "Speaker2",
+            "StartTime": "429.43",
+            "EndTime": "435.95",
+            "SpeakerEmotionCategory": "긍정",
+            "SpeakerEmotionTarget": "기쁨",
+            "SpeakerEmotionLevel": "보통"
+        },
+        {
+            "Text": "아니요 안 들어갔는데요",
+            "SpeakerNo": "Speaker1",
+            "StartTime": "435.64",
+            "EndTime": "437.91",
+            "SpeakerEmotionCategory": "긍정",
+            "SpeakerEmotionTarget": "기쁨",
+            "SpeakerEmotionLevel": "보통"
+        },
+        {
+            "Text": "어 너무 잘 부르더라구요 여자 노래를 그렇게 잘 부를 수 있는 사람은 아마 그 트롯 가수 중에 임용 곡밖에 없을 것 같아요",
+            "SpeakerNo": "Speaker2",
+            "StartTime": "439.80",
+            "EndTime": "449.05",
+            "SpeakerEmotionCategory": "긍정",
+            "SpeakerEmotionTarget": "기쁨",
+            "SpeakerEmotionLevel": "보통"
+        },
+        {
+            "Text": "아 #@이름#이 골수펜인가 봐요",
+            "SpeakerNo": "Speaker1",
+            "StartTime": "448.95",
+            "EndTime": "452.82",
+            "SpeakerEmotionCategory": "긍정",
+            "SpeakerEmotionTarget": "기쁨",
+            "SpeakerEmotionLevel": "보통"
+        },
+        {
+            "Text": "네 어 저는 #@이름# 문구 참 좋던데",
+            "SpeakerNo": "Speaker2",
+            "StartTime": "455.63",
+            "EndTime": "459.54",
+            "SpeakerEmotionCategory": "긍정",
+            "SpeakerEmotionTarget": "기쁨",
+            "SpeakerEmotionLevel": "보통"
+        },
+        {
+            "Text": "뭐 이게",
+            "SpeakerNo": "Speaker1",
+            "StartTime": "456.58",
+            "EndTime": "456.86",
+            "SpeakerEmotionCategory": "긍정",
+            "SpeakerEmotionTarget": "기쁨",
+            "SpeakerEmotionLevel": "보통"
+        },
+        {
+            "Text": "아 #@이름#이요 옛날에 저 학교 다닐 때 저보고 심수봉 닮았다고 하던데요",
+            "SpeakerNo": "Speaker1",
+            "StartTime": "459.57",
+            "EndTime": "465.08",
+            "SpeakerEmotionCategory": "긍정",
+            "SpeakerEmotionTarget": "기쁨",
+            "SpeakerEmotionLevel": "보통"
+        },
+        {
+            "Text": "어머나 정말요 언제 한번 얼굴 뺄 수 있으면 좋겠네요",
+            "SpeakerNo": "Speaker2",
+            "StartTime": "466.98",
+            "EndTime": "470.74",
+            "SpeakerEmotionCategory": "긍정",
+            "SpeakerEmotionTarget": "기쁨",
+            "SpeakerEmotionLevel": "보통"
+        },
+        {
+            "Text": "지금은 아니에요",
+            "SpeakerNo": "Speaker1",
+            "StartTime": "472.96",
+            "EndTime": "474.70",
+            "SpeakerEmotionCategory": "긍정",
+            "SpeakerEmotionTarget": "기쁨",
+            "SpeakerEmotionLevel": "보통"
+        },
+        {
+            "Text": "어 왜요 저 젊었을 때 #@이름#이었으면",
+            "SpeakerNo": "Speaker2",
+            "StartTime": "477.19",
+            "EndTime": "481.19",
+            "SpeakerEmotionCategory": "긍정",
+            "SpeakerEmotionTarget": "기쁨",
+            "SpeakerEmotionLevel": "보통"
+        },
+        {
+            "Text": "나이 든 심수동하고 비탈 거 아니에요",
+            "SpeakerNo": "Speaker2",
+            "StartTime": "481.51",
+            "EndTime": "484.15",
+            "SpeakerEmotionCategory": "긍정",
+            "SpeakerEmotionTarget": "기쁨",
+            "SpeakerEmotionLevel": "보통"
+        },
+        {
+            "Text": "그렇지 않은 것 같아요 많이 바뀐 것 같아요",
+            "SpeakerNo": "Speaker1",
+            "StartTime": "484.09",
+            "EndTime": "487.42",
+            "SpeakerEmotionCategory": "긍정",
+            "SpeakerEmotionTarget": "기쁨",
+            "SpeakerEmotionLevel": "보통"
+        },
+        {
+            "Text": "음 사랑받긴 안 몰라 이 노래도 참 괜찮고 젊은 태양도 괜찮고 그쵸",
+            "SpeakerNo": "Speaker2",
+            "StartTime": "491.47",
+            "EndTime": "497.18",
+            "SpeakerEmotionCategory": "긍정",
+            "SpeakerEmotionTarget": "기쁨",
+            "SpeakerEmotionLevel": "보통"
+        },
+        {
+            "Text": "네 맞아요",
+            "SpeakerNo": "Speaker1",
+            "StartTime": "495.98",
+            "EndTime": "498.44",
+            "SpeakerEmotionCategory": "긍정",
+            "SpeakerEmotionTarget": "기쁨",
+            "SpeakerEmotionLevel": "보통"
+        },
+        {
+            "Text": "특히",
+            "SpeakerNo": "Speaker2",
+            "StartTime": "497.93",
+            "EndTime": "498.86",
+            "SpeakerEmotionCategory": "긍정",
+            "SpeakerEmotionTarget": "기쁨",
+            "SpeakerEmotionLevel": "보통"
+        },
+        {
+            "Text": "카드 필요한가요",
+            "SpeakerNo": "Speaker1",
+            "StartTime": "498.89",
+            "EndTime": "499.85",
+            "SpeakerEmotionCategory": "긍정",
+            "SpeakerEmotionTarget": "기쁨",
+            "SpeakerEmotionLevel": "보통"
+        },
+        {
+            "Text": "예 남자는 백 여 자는 항구 그것도 싱싱한 노래 맞나요",
+            "SpeakerNo": "Speaker2",
+            "StartTime": "499.79",
+            "EndTime": "503.14",
+            "SpeakerEmotionCategory": "긍정",
+            "SpeakerEmotionTarget": "기쁨",
+            "SpeakerEmotionLevel": "보통"
+        },
+        {
+            "Text": "그런 것 같은데요",
+            "SpeakerNo": "Speaker1",
+            "StartTime": "503.08",
+            "EndTime": "505.41",
+            "SpeakerEmotionCategory": "긍정",
+            "SpeakerEmotionTarget": "기쁨",
+            "SpeakerEmotionLevel": "보통"
+        },
+        {
+            "Text": "음",
+            "SpeakerNo": "Speaker2",
+            "StartTime": "507.23",
+            "EndTime": "508.26",
+            "SpeakerEmotionCategory": "긍정",
+            "SpeakerEmotionTarget": "기쁨",
+            "SpeakerEmotionLevel": "보통"
+        },
+        {
+            "Text": "그때 그 사람",
+            "SpeakerNo": "Speaker2",
+            "StartTime": "508.49",
+            "EndTime": "509.73",
+            "SpeakerEmotionCategory": "긍정",
+            "SpeakerEmotionTarget": "기쁨",
+            "SpeakerEmotionLevel": "보통"
+        },
+        {
+            "Text": "네 네 저는",
+            "SpeakerNo": "Speaker1",
+            "StartTime": "509.72",
+            "EndTime": "510.92",
+            "SpeakerEmotionCategory": "긍정",
+            "SpeakerEmotionTarget": "기쁨",
+            "SpeakerEmotionLevel": "보통"
+        },
+        {
+            "Text": "그 그때 그 사람은 옛날에",
+            "SpeakerNo": "Speaker2",
+            "StartTime": "510.09",
+            "EndTime": "512.32",
+            "SpeakerEmotionCategory": "긍정",
+            "SpeakerEmotionTarget": "기쁨",
+            "SpeakerEmotionLevel": "보통"
+        },
+        {
+            "Text": "그 어떤 한 사람을",
+            "SpeakerNo": "Speaker2",
+            "StartTime": "512.85",
+            "EndTime": "514.77",
+            "SpeakerEmotionCategory": "긍정",
+            "SpeakerEmotionTarget": "기쁨",
+            "SpeakerEmotionLevel": "보통"
+        },
+        {
+            "Text": "그 생각하면서 부른 노래라 하던데 맞나요",
+            "SpeakerNo": "Speaker2",
+            "StartTime": "515.16",
+            "EndTime": "517.85",
+            "SpeakerEmotionCategory": "긍정",
+            "SpeakerEmotionTarget": "기쁨",
+            "SpeakerEmotionLevel": "보통"
+        },
+        {
+            "Text": "맞는 거 같은데요 저도 그때 그 사람 뒤가 오면 생각나는 하는 그 노래 저 너무 좋아해요",
+            "SpeakerNo": "Speaker1",
+            "StartTime": "517.85",
+            "EndTime": "524.00",
+            "SpeakerEmotionCategory": "긍정",
+            "SpeakerEmotionTarget": "기쁨",
+            "SpeakerEmotionLevel": "보통"
+        },
+        {
+            "Text": "맞죠",
+            "SpeakerNo": "Speaker2",
+            "StartTime": "525.82",
+            "EndTime": "526.83",
+            "SpeakerEmotionCategory": "긍정",
+            "SpeakerEmotionTarget": "기쁨",
+            "SpeakerEmotionLevel": "보통"
+        },
+        {
+            "Text": "자리를",
+            "SpeakerNo": "Speaker1",
+            "StartTime": "526.81",
+            "EndTime": "527.18",
+            "SpeakerEmotionCategory": "긍정",
+            "SpeakerEmotionTarget": "기쁨",
+            "SpeakerEmotionLevel": "보통"
+        },
+        {
+            "Text": "어 백만 원 송이 장비도 괜찮아요 여러 개",
+            "SpeakerNo": "Speaker2",
+            "StartTime": "527.14",
+            "EndTime": "530.22",
+            "SpeakerEmotionCategory": "긍정",
+            "SpeakerEmotionTarget": "기쁨",
+            "SpeakerEmotionLevel": "보통"
+        },
+        {
+            "Text": "여기가",
+            "SpeakerNo": "Speaker1",
+            "StartTime": "530.16",
+            "EndTime": "530.96",
+            "SpeakerEmotionCategory": "긍정",
+            "SpeakerEmotionTarget": "기쁨",
+            "SpeakerEmotionLevel": "보통"
+        },
+        {
+            "Text": "그래요 스페셜 노래는 어딘가 모르게 애절함이 느껴지는 거 같더라구요",
+            "SpeakerNo": "Speaker1",
+            "StartTime": "531.30",
+            "EndTime": "536.49",
+            "SpeakerEmotionCategory": "긍정",
+            "SpeakerEmotionTarget": "기쁨",
+            "SpeakerEmotionLevel": "보통"
+        },
+        {
+            "Text": "맞아요 그 가수의 노래를 듣다 보면 그 가수의 일생이 보이는 것 같은 느낌이 들어요",
+            "SpeakerNo": "Speaker2",
+            "StartTime": "538.75",
+            "EndTime": "545.77",
+            "SpeakerEmotionCategory": "긍정",
+            "SpeakerEmotionTarget": "기쁨",
+            "SpeakerEmotionLevel": "보통"
+        },
+        {
+            "Text": "네 맞아요 노래",
+            "SpeakerNo": "Speaker1",
+            "StartTime": "546.05",
+            "EndTime": "547.96",
+            "SpeakerEmotionCategory": "긍정",
+            "SpeakerEmotionTarget": "기쁨",
+            "SpeakerEmotionLevel": "보통"
+        },
+        {
+            "Text": "부르는 가수는 노래에 따라서",
+            "SpeakerNo": "Speaker1",
+            "StartTime": "548.24",
+            "EndTime": "551.55",
+            "SpeakerEmotionCategory": "긍정",
+            "SpeakerEmotionTarget": "기쁨",
+            "SpeakerEmotionLevel": "보통"
+        },
+        {
+            "Text": "인생이 바뀌어진다는 소리도 하잖아요",
+            "SpeakerNo": "Speaker1",
+            "StartTime": "552.66",
+            "EndTime": "555.41",
+            "SpeakerEmotionCategory": "긍정",
+            "SpeakerEmotionTarget": "기쁨",
+            "SpeakerEmotionLevel": "보통"
+        },
+        {
+            "Text": "계산하면 요금이 어떻게 돼요",
+            "SpeakerNo": "Speaker1",
+            "StartTime": "555.92",
+            "EndTime": "557.11",
+            "SpeakerEmotionCategory": "긍정",
+            "SpeakerEmotionTarget": "기쁨",
+            "SpeakerEmotionLevel": "보통"
+        },
+        {
+            "Text": "어 트로트는 하여튼 간에 우리 대한민국에서",
+            "SpeakerNo": "Speaker2",
+            "StartTime": "558.83",
+            "EndTime": "564.00",
+            "SpeakerEmotionCategory": "긍정",
+            "SpeakerEmotionTarget": "기쁨",
+            "SpeakerEmotionLevel": "보통"
+        },
+        {
+            "Text": "나누기",
+            "SpeakerNo": "Speaker1",
+            "StartTime": "560.94",
+            "EndTime": "561.31",
+            "SpeakerEmotionCategory": "긍정",
+            "SpeakerEmotionTarget": "기쁨",
+            "SpeakerEmotionLevel": "보통"
+        },
+        {
+            "Text": "정말 남녀노소",
+            "SpeakerNo": "Speaker2",
+            "StartTime": "564.23",
+            "EndTime": "565.70",
+            "SpeakerEmotionCategory": "긍정",
+            "SpeakerEmotionTarget": "기쁨",
+            "SpeakerEmotionLevel": "보통"
+        },
+        {
+            "Text": "가리지 않고 좋아하는 장르 같애요",
+            "SpeakerNo": "Speaker2",
+            "StartTime": "565.99",
+            "EndTime": "568.91",
+            "SpeakerEmotionCategory": "긍정",
+            "SpeakerEmotionTarget": "기쁨",
+            "SpeakerEmotionLevel": "보통"
+        },
+        {
+            "Text": "네 맞아요 그런 것 같아요 그",
+            "SpeakerNo": "Speaker1",
+            "StartTime": "568.86",
+            "EndTime": "571.98",
+            "SpeakerEmotionCategory": "긍정",
+            "SpeakerEmotionTarget": "기쁨",
+            "SpeakerEmotionLevel": "보통"
+        },
+        {
+            "Text": "미스터 트롯이나",
+            "SpeakerNo": "Speaker1",
+            "StartTime": "573.21",
+            "EndTime": "574.85",
+            "SpeakerEmotionCategory": "긍정",
+            "SpeakerEmotionTarget": "기쁨",
+            "SpeakerEmotionLevel": "보통"
+        },
+        {
+            "Text": "미스 트롯이",
+            "SpeakerNo": "Speaker1",
+            "StartTime": "575.07",
+            "EndTime": "576.35",
+            "SpeakerEmotionCategory": "긍정",
+            "SpeakerEmotionTarget": "기쁨",
+            "SpeakerEmotionLevel": "보통"
+        },
+        {
+            "Text": "한복을 입지요",
+            "SpeakerNo": "Speaker1",
+            "StartTime": "576.64",
+            "EndTime": "578.02",
+            "SpeakerEmotionCategory": "긍정",
+            "SpeakerEmotionTarget": "기쁨",
+            "SpeakerEmotionLevel": "보통"
+        },
+        {
+            "Text": "여 엑스 색인데",
+            "SpeakerNo": "Speaker1",
+            "StartTime": "578.84",
+            "EndTime": "580.06",
+            "SpeakerEmotionCategory": "긍정",
+            "SpeakerEmotionTarget": "기쁨",
+            "SpeakerEmotionLevel": "보통"
+        },
+        {
+            "Text": "적인 브이",
+            "SpeakerNo": "Speaker1",
+            "StartTime": "580.28",
+            "EndTime": "580.80",
+            "SpeakerEmotionCategory": "긍정",
+            "SpeakerEmotionTarget": "기쁨",
+            "SpeakerEmotionLevel": "보통"
+        },
+        {
+            "Text": "맞아요 많이 차양된 데는 그 당대 현대인데 그 미스",
+            "SpeakerNo": "Speaker2",
+            "StartTime": "581.85",
+            "EndTime": "587.45",
+            "SpeakerEmotionCategory": "긍정",
+            "SpeakerEmotionTarget": "기쁨",
+            "SpeakerEmotionLevel": "보통"
+        },
+        {
+            "Text": "티비 조선에서 했죠",
+            "SpeakerNo": "Speaker2",
+            "StartTime": "588.11",
+            "EndTime": "589.56",
+            "SpeakerEmotionCategory": "긍정",
+            "SpeakerEmotionTarget": "기쁨",
+            "SpeakerEmotionLevel": "보통"
+        },
+        {
+            "Text": "네네",
+            "SpeakerNo": "Speaker1",
+            "StartTime": "588.98",
+            "EndTime": "590.29",
+            "SpeakerEmotionCategory": "긍정",
+            "SpeakerEmotionTarget": "기쁨",
+            "SpeakerEmotionLevel": "보통"
+        },
+        {
+            "Text": "그 티브이 조선에서 한 그 프로그램이",
+            "SpeakerNo": "Speaker2",
+            "StartTime": "590.10",
+            "EndTime": "592.83",
+            "SpeakerEmotionCategory": "긍정",
+            "SpeakerEmotionTarget": "기쁨",
+            "SpeakerEmotionLevel": "보통"
+        },
+        {
+            "Text": "얼마",
+            "SpeakerNo": "Speaker1",
+            "StartTime": "592.69",
+            "EndTime": "593.11",
+            "SpeakerEmotionCategory": "긍정",
+            "SpeakerEmotionTarget": "기쁨",
+            "SpeakerEmotionLevel": "보통"
+        },
+        {
+            "Text": "정말 붐을 일으켰던 것 같아요",
+            "SpeakerNo": "Speaker2",
+            "StartTime": "593.05",
+            "EndTime": "596.03",
+            "SpeakerEmotionCategory": "긍정",
+            "SpeakerEmotionTarget": "기쁨",
+            "SpeakerEmotionLevel": "보통"
+        },
+        {
+            "Text": "맞아요 그것 때문에",
+            "SpeakerNo": "Speaker1",
+            "StartTime": "596.04",
+            "EndTime": "598.42",
+            "SpeakerEmotionCategory": "긍정",
+            "SpeakerEmotionTarget": "기쁨",
+            "SpeakerEmotionLevel": "보통"
+        },
+        {
+            "Text": "꼬막이 꼬맹이 아 아이들도 트롯을 다 부르잖아요",
+            "SpeakerNo": "Speaker1",
+            "StartTime": "599.19",
+            "EndTime": "603.18",
+            "SpeakerEmotionCategory": "긍정",
+            "SpeakerEmotionTarget": "기쁨",
+            "SpeakerEmotionLevel": "보통"
+        },
+        {
+            "Text": "정보는",
+            "SpeakerNo": "Speaker1",
+            "StartTime": "604.32",
+            "EndTime": "604.62",
+            "SpeakerEmotionCategory": "긍정",
+            "SpeakerEmotionTarget": "기쁨",
+            "SpeakerEmotionLevel": "보통"
+        },
+        {
+            "Text": "네 거기에 나왔던 그 애들도 정말 노래 잘하더라고요",
+            "SpeakerNo": "Speaker2",
+            "StartTime": "606.65",
+            "EndTime": "611.68",
+            "SpeakerEmotionCategory": "긍정",
+            "SpeakerEmotionTarget": "기쁨",
+            "SpeakerEmotionLevel": "보통"
+        },
+        {
+            "Text": "장도 #@이름# 정#@이름#나 #@이름# 어 또 누가 있었죠",
+            "SpeakerNo": "Speaker2",
+            "StartTime": "611.97",
+            "EndTime": "617.56",
+            "SpeakerEmotionCategory": "긍정",
+            "SpeakerEmotionTarget": "기쁨",
+            "SpeakerEmotionLevel": "보통"
+        },
+        {
+            "Text": "그 왜 호랑이 나오는 그 아이 이름이 생각이 안 나네",
+            "SpeakerNo": "Speaker1",
+            "StartTime": "617.48",
+            "EndTime": "622.25",
+            "SpeakerEmotionCategory": "긍정",
+            "SpeakerEmotionTarget": "기쁨",
+            "SpeakerEmotionLevel": "보통"
+        },
+        {
+            "Text": "그 아이도 진짜 노래 잘 불렀잖아요 부각하던 애",
+            "SpeakerNo": "Speaker1",
+            "StartTime": "623.04",
+            "EndTime": "625.86",
+            "SpeakerEmotionCategory": "긍정",
+            "SpeakerEmotionTarget": "기쁨",
+            "SpeakerEmotionLevel": "보통"
+        },
+        {
+            "Text": "아 그르르르",
+            "SpeakerNo": "Speaker2",
+            "StartTime": "628.56",
+            "EndTime": "630.11",
+            "SpeakerEmotionCategory": "긍정",
+            "SpeakerEmotionTarget": "기쁨",
+            "SpeakerEmotionLevel": "보통"
+        },
+        {
+            "Text": "청학동",
+            "SpeakerNo": "Speaker2",
+            "StartTime": "630.35",
+            "EndTime": "631.17",
+            "SpeakerEmotionCategory": "긍정",
+            "SpeakerEmotionTarget": "기쁨",
+            "SpeakerEmotionLevel": "보통"
+        },
+        {
+            "Text": "네 포인트 적립도 돼요",
+            "SpeakerNo": "Speaker1",
+            "StartTime": "632.27",
+            "EndTime": "633.42",
+            "SpeakerEmotionCategory": "긍정",
+            "SpeakerEmotionTarget": "기쁨",
+            "SpeakerEmotionLevel": "보통"
+        },
+        {
+            "Text": "청악동에서 사는 그",
+            "SpeakerNo": "Speaker2",
+            "StartTime": "633.00",
+            "EndTime": "634.81",
+            "SpeakerEmotionCategory": "긍정",
+            "SpeakerEmotionTarget": "기쁨",
+            "SpeakerEmotionLevel": "보통"
+        },
+        {
+            "Text": "에여",
+            "SpeakerNo": "Speaker2",
+            "StartTime": "635.08",
+            "EndTime": "635.58",
+            "SpeakerEmotionCategory": "긍정",
+            "SpeakerEmotionTarget": "기쁨",
+            "SpeakerEmotionLevel": "보통"
+        },
+        {
+            "Text": "아 걔는 김다 애아니구요",
+            "SpeakerNo": "Speaker1",
+            "StartTime": "635.65",
+            "EndTime": "637.54",
+            "SpeakerEmotionCategory": "긍정",
+            "SpeakerEmotionTarget": "기쁨",
+            "SpeakerEmotionLevel": "보통"
+        },
+        {
+            "Text": "아 걔가 김#@이름#죠",
+            "SpeakerNo": "Speaker2",
+            "StartTime": "639.27",
+            "EndTime": "641.04",
+            "SpeakerEmotionCategory": "긍정",
+            "SpeakerEmotionTarget": "기쁨",
+            "SpeakerEmotionLevel": "보통"
+        },
+        {
+            "Text": "네 네",
+            "SpeakerNo": "Speaker1",
+            "StartTime": "640.51",
+            "EndTime": "641.51",
+            "SpeakerEmotionCategory": "긍정",
+            "SpeakerEmotionTarget": "기쁨",
+            "SpeakerEmotionLevel": "보통"
+        },
+        {
+            "Text": "청라 떡국 그릇",
+            "SpeakerNo": "Speaker2",
+            "StartTime": "641.40",
+            "EndTime": "642.43",
+            "SpeakerEmotionCategory": "긍정",
+            "SpeakerEmotionTarget": "기쁨",
+            "SpeakerEmotionLevel": "보통"
+        },
+        {
+            "Text": "우리 사람이",
+            "SpeakerNo": "Speaker2",
+            "StartTime": "644.41",
+            "EndTime": "645.03",
+            "SpeakerEmotionCategory": "긍정",
+            "SpeakerEmotionTarget": "기쁨",
+            "SpeakerEmotionLevel": "보통"
+        },
+        {
+            "Text": "예",
+            "SpeakerNo": "Speaker1",
+            "StartTime": "645.17",
+            "EndTime": "646.11",
+            "SpeakerEmotionCategory": "긍정",
+            "SpeakerEmotionTarget": "기쁨",
+            "SpeakerEmotionLevel": "보통"
+        },
+        {
+            "Text": "아니 김다 혈은 이래요",
+            "SpeakerNo": "Speaker2",
+            "StartTime": "645.64",
+            "EndTime": "646.87",
+            "SpeakerEmotionCategory": "긍정",
+            "SpeakerEmotionTarget": "기쁨",
+            "SpeakerEmotionLevel": "보통"
+        },
+        {
+            "Text": "네네",
+            "SpeakerNo": "Speaker1",
+            "StartTime": "646.85",
+            "EndTime": "647.42",
+            "SpeakerEmotionCategory": "긍정",
+            "SpeakerEmotionTarget": "기쁨",
+            "SpeakerEmotionLevel": "보통"
+        },
+        {
+            "Text": "이 마지막 문제는",
+            "SpeakerNo": "Speaker1",
+            "StartTime": "647.88",
+            "EndTime": "648.67",
+            "SpeakerEmotionCategory": "긍정",
+            "SpeakerEmotionTarget": "기쁨",
+            "SpeakerEmotionLevel": "보통"
+        },
+        {
+            "Text": "어 한 명이 생각이 안 나네도 그죠",
+            "SpeakerNo": "Speaker2",
+            "StartTime": "651.04",
+            "EndTime": "653.45",
+            "SpeakerEmotionCategory": "긍정",
+            "SpeakerEmotionTarget": "기쁨",
+            "SpeakerEmotionLevel": "보통"
+        },
+        {
+            "Text": "어 그런 거 같은데",
+            "SpeakerNo": "Speaker1",
+            "StartTime": "653.31",
+            "EndTime": "654.82",
+            "SpeakerEmotionCategory": "긍정",
+            "SpeakerEmotionTarget": "기쁨",
+            "SpeakerEmotionLevel": "보통"
+        },
+        {
+            "Text": "그 호랑이 불렀던 앤데 기억이 잘 안 나네요",
+            "SpeakerNo": "Speaker1",
+            "StartTime": "655.12",
+            "EndTime": "659.01",
+            "SpeakerEmotionCategory": "긍정",
+            "SpeakerEmotionTarget": "기쁨",
+            "SpeakerEmotionLevel": "보통"
+        },
+        {
+            "Text": "다음에",
+            "SpeakerNo": "Speaker1",
+            "StartTime": "659.86",
+            "EndTime": "660.60",
+            "SpeakerEmotionCategory": "긍정",
+            "SpeakerEmotionTarget": "기쁨",
+            "SpeakerEmotionLevel": "보통"
+        },
+        {
+            "Text": "네 맞아요 어음 하는 데 있잖아요",
+            "SpeakerNo": "Speaker2",
+            "StartTime": "660.69",
+            "EndTime": "663.17",
+            "SpeakerEmotionCategory": "긍정",
+            "SpeakerEmotionTarget": "기쁨",
+            "SpeakerEmotionLevel": "보통"
+        },
+        {
+            "Text": "네 네",
+            "SpeakerNo": "Speaker1",
+            "StartTime": "662.88",
+            "EndTime": "663.54",
+            "SpeakerEmotionCategory": "긍정",
+            "SpeakerEmotionTarget": "기쁨",
+            "SpeakerEmotionLevel": "보통"
+        },
+        {
+            "Text": "아이를",
+            "SpeakerNo": "Speaker1",
+            "StartTime": "664.63",
+            "EndTime": "666.03",
+            "SpeakerEmotionCategory": "긍정",
+            "SpeakerEmotionTarget": "기쁨",
+            "SpeakerEmotionLevel": "보통"
+        },
+        {
+            "Text": "이렇게 생각이 안 날 수가",
+            "SpeakerNo": "Speaker1",
+            "StartTime": "666.74",
+            "EndTime": "668.44",
+            "SpeakerEmotionCategory": "긍정",
+            "SpeakerEmotionTarget": "기쁨",
+            "SpeakerEmotionLevel": "보통"
+        },
+        {
+            "Text": "맞아요 희한하게 뭔가를 요즘 말하려고 하면은",
+            "SpeakerNo": "Speaker2",
+            "StartTime": "670.27",
+            "EndTime": "674.54",
+            "SpeakerEmotionCategory": "긍정",
+            "SpeakerEmotionTarget": "기쁨",
+            "SpeakerEmotionLevel": "보통"
+        },
+        {
+            "Text": "일요일도 해요",
+            "SpeakerNo": "Speaker1",
+            "StartTime": "674.48",
+            "EndTime": "675.13",
+            "SpeakerEmotionCategory": "긍정",
+            "SpeakerEmotionTarget": "기쁨",
+            "SpeakerEmotionLevel": "보통"
+        },
+        {
+            "Text": "자꾸 깜빡깜빡해요",
+            "SpeakerNo": "Speaker2",
+            "StartTime": "674.79",
+            "EndTime": "676.93",
+            "SpeakerEmotionCategory": "긍정",
+            "SpeakerEmotionTarget": "기쁨",
+            "SpeakerEmotionLevel": "보통"
+        },
+        {
+            "Text": "나이 타신 거 같애요",
+            "SpeakerNo": "Speaker1",
+            "StartTime": "676.88",
+            "EndTime": "679.07",
+            "SpeakerEmotionCategory": "긍정",
+            "SpeakerEmotionTarget": "기쁨",
+            "SpeakerEmotionLevel": "보통"
+        },
+        {
+            "Text": "송편은 싫은 좋아하나요",
+            "SpeakerNo": "Speaker1",
+            "StartTime": "680.69",
+            "EndTime": "682.28",
+            "SpeakerEmotionCategory": "긍정",
+            "SpeakerEmotionTarget": "기쁨",
+            "SpeakerEmotionLevel": "보통"
+        },
+        {
+            "Text": "어 번째",
+            "SpeakerNo": "Speaker1",
+            "StartTime": "684.47",
+            "EndTime": "684.80",
+            "SpeakerEmotionCategory": "긍정",
+            "SpeakerEmotionTarget": "기쁨",
+            "SpeakerEmotionLevel": "보통"
+        },
+        {
+            "Text": "송가인 있는 그렇게 좋아하지는 않아요",
+            "SpeakerNo": "Speaker2",
+            "StartTime": "685.55",
+            "EndTime": "688.46",
+            "SpeakerEmotionCategory": "긍정",
+            "SpeakerEmotionTarget": "기쁨",
+            "SpeakerEmotionLevel": "보통"
+        },
+        {
+            "Text": "쫌 뭐라고 해야 되나요",
+            "SpeakerNo": "Speaker2",
+            "StartTime": "688.67",
+            "EndTime": "690.37",
+            "SpeakerEmotionCategory": "긍정",
+            "SpeakerEmotionTarget": "기쁨",
+            "SpeakerEmotionLevel": "보통"
+        },
+        {
+            "Text": "입력모하고 좀 배치드린다 해야 될까요",
+            "SpeakerNo": "Speaker2",
+            "StartTime": "690.67",
+            "EndTime": "692.95",
+            "SpeakerEmotionCategory": "긍정",
+            "SpeakerEmotionTarget": "기쁨",
+            "SpeakerEmotionLevel": "보통"
+        },
+        {
+            "Text": "그래서 썩 좋아하지는 않아요",
+            "SpeakerNo": "Speaker2",
+            "StartTime": "693.22",
+            "EndTime": "695.30",
+            "SpeakerEmotionCategory": "긍정",
+            "SpeakerEmotionTarget": "기쁨",
+            "SpeakerEmotionLevel": "보통"
+        },
+        {
+            "Text": "왜 송가이니도 노예 하면은 다르잖아요",
+            "SpeakerNo": "Speaker1",
+            "StartTime": "698.27",
+            "EndTime": "700.97",
+            "SpeakerEmotionCategory": "긍정",
+            "SpeakerEmotionTarget": "기쁨",
+            "SpeakerEmotionLevel": "보통"
+        },
+        {
+            "Text": "좋아하세요",
+            "SpeakerNo": "Speaker2",
+            "StartTime": "699.73",
+            "EndTime": "700.58",
+            "SpeakerEmotionCategory": "긍정",
+            "SpeakerEmotionTarget": "기쁨",
+            "SpeakerEmotionLevel": "보통"
+        },
+        {
+            "Text": "네",
+            "SpeakerNo": "Speaker1",
+            "StartTime": "701.23",
+            "EndTime": "701.55",
+            "SpeakerEmotionCategory": "긍정",
+            "SpeakerEmotionTarget": "기쁨",
+            "SpeakerEmotionLevel": "보통"
+        },
+        {
+            "Text": "네 저는 손가인이 좋아요 그 시원처럼 목소리가 너무 맘에 들거든요",
+            "SpeakerNo": "Speaker1",
+            "StartTime": "705.29",
+            "EndTime": "710.08",
+            "SpeakerEmotionCategory": "긍정",
+            "SpeakerEmotionTarget": "기쁨",
+            "SpeakerEmotionLevel": "보통"
+        },
+        {
+            "Text": "이 자리에서",
+            "SpeakerNo": "Speaker1",
+            "StartTime": "711.92",
+            "EndTime": "712.45",
+            "SpeakerEmotionCategory": "긍정",
+            "SpeakerEmotionTarget": "기쁨",
+            "SpeakerEmotionLevel": "보통"
+        },
+        {
+            "Text": "맞아요 노래는 참 잘하기는 해요",
+            "SpeakerNo": "Speaker2",
+            "StartTime": "712.57",
+            "EndTime": "715.47",
+            "SpeakerEmotionCategory": "긍정",
+            "SpeakerEmotionTarget": "기쁨",
+            "SpeakerEmotionLevel": "보통"
+        },
+        {
+            "Text": "그지요",
+            "SpeakerNo": "Speaker1",
+            "StartTime": "715.45",
+            "EndTime": "716.64",
+            "SpeakerEmotionCategory": "긍정",
+            "SpeakerEmotionTarget": "기쁨",
+            "SpeakerEmotionLevel": "보통"
+        },
+        {
+            "Text": "오늘 대화 즐거웠어요",
+            "SpeakerNo": "Speaker1",
+            "StartTime": "719.86",
+            "EndTime": "721.61",
+            "SpeakerEmotionCategory": "긍정",
+            "SpeakerEmotionTarget": "기쁨",
+            "SpeakerEmotionLevel": "보통"
+        },
+        {
+            "Text": "네 저도 즐거웠습니다 잘 지내세요",
+            "SpeakerNo": "Speaker2",
+            "StartTime": "724.02",
+            "EndTime": "727.93",
+            "SpeakerEmotionCategory": "긍정",
+            "SpeakerEmotionTarget": "기쁨",
+            "SpeakerEmotionLevel": "보통"
+        },
+        {
+            "Text": "네",
+            "SpeakerNo": "Speaker1",
+            "StartTime": "727.90",
+            "EndTime": "729.09",
+            "SpeakerEmotionCategory": "긍정",
+            "SpeakerEmotionTarget": "기쁨",
+            "SpeakerEmotionLevel": "보통"
+        }
+    ],
+    "ConversationInfo": {
+        "Domain": "엔터테인먼트",
+        "Step1Subject": "음악",
+        "Step2Subject": "트로트"
+    }
+}
